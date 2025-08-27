@@ -1,0 +1,6 @@
+Alpha-3 code,Cancer code,Population code (ISO/UN),Country,Label,Sex,Number,95% UI low,95% UI high,Number,ASR (World),Crude rate,Cumulative risk
+N.A.,8,981,981,Very HDI country,0,38452,-,-,38452,2.7,3.7,0.17
+N.A.,8,982,982,High HDI country,0,42114,-,-,42114,1.7,2.2,0.11
+N.A.,8,983,983,Medium HDI country,0,13792,-,-,13792,0.72,0.75,0.05
+N.A.,8,984,984,Low HDI country,0,7123,-,-,7123,0.89,0.66,0.06
+,,,,Total,,101481,,,101481,1.5,1.7,0.10

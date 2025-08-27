@@ -1,0 +1,3745 @@
+"Region","RegionType","AgeStart","AgeEnd","Ri","Di","Ni","Mi"
+"Afghanistan","country",0,4,0,0,6587946.5,83784
+"Afghanistan","country",5,9,0,0,5895752.5,6860
+"Afghanistan","country",10,14,6,0,5200496,4752
+"Afghanistan","country",15,19,13,7,4631923.5,7188
+"Afghanistan","country",20,24,18,11,4072960,9150
+"Afghanistan","country",25,29,19,11,3348016,8122
+"Afghanistan","country",30,34,21,12,2576735,7023
+"Afghanistan","country",35,39,21,12,1976412,6639
+"Afghanistan","country",40,44,30,14,1613110,7211
+"Afghanistan","country",45,49,41,22,1324159.5,8426
+"Afghanistan","country",50,54,51,29,1038712.5,9715
+"Afghanistan","country",55,59,59,34,781336,10933
+"Afghanistan","country",60,64,63,35,575593,12390
+"Afghanistan","country",65,69,60,33,410757.5,13887
+"Afghanistan","country",70,74,50,30,274530,14985
+"Afghanistan","country",75,79,34,21,166809.5,14619
+"Afghanistan","country",80,84,16,10,74652.5,10604
+"Afghanistan","country",85,999,7,4,28940,6908
+"Africa","UN_region",0,4,0,0,208901742.5,3034944
+"Africa","UN_region",5,9,0,0,192310796,539596
+"Africa","UN_region",10,14,54,20,173652800.5,291690
+"Africa","UN_region",15,19,123,67,151179247,358535
+"Africa","UN_region",20,24,456,325,129737013.5,428937
+"Africa","UN_region",25,29,773,558,112624834,412498
+"Africa","UN_region",30,34,1152,626,98482664,403149
+"Africa","UN_region",35,39,1455,739,85183834,411217
+"Africa","UN_region",40,44,1803,901,71302341,429992
+"Africa","UN_region",45,49,2326,1189,57597021.5,438163
+"Africa","UN_region",50,54,2834,1534,46787275.5,493051
+"Africa","UN_region",55,59,3367,1821,37626392,550148
+"Africa","UN_region",60,64,3595,2051,29476670,646297
+"Africa","UN_region",65,69,3379,2069,21669332.5,724939
+"Africa","UN_region",70,74,2627,1770,14345628.5,746991
+"Africa","UN_region",75,79,1887,1475,8424741,688379
+"Africa","UN_region",80,84,1134,1060,4282906,541702
+"Africa","UN_region",85,999,680,786,2293539,482182
+"Albania","country",0,4,0,0,148287,293
+"Albania","country",5,9,0,0,172627.5,35
+"Albania","country",10,14,0,0,166069.5,42
+"Albania","country",15,19,0,0,176824,71
+"Albania","country",20,24,1,0,208455.5,90
+"Albania","country",25,29,2,0,238788.5,118
+"Albania","country",30,34,4,0,226264.5,153
+"Albania","country",35,39,6,0,184629.5,205
+"Albania","country",40,44,9,0,156123,248
+"Albania","country",45,49,13,3,157854.5,394
+"Albania","country",50,54,19,6,175771,653
+"Albania","country",55,59,30,11,183880,1014
+"Albania","country",60,64,38,17,185940.5,1560
+"Albania","country",65,69,35,22,152983.5,2023
+"Albania","country",70,74,32,22,114180,2845
+"Albania","country",75,79,24,20,79696.5,3560
+"Albania","country",80,84,19,18,58955.5,4619
+"Albania","country",85,999,13,14,40277.5,6704
+"Algeria","country",0,4,0,0,4862517,20524
+"Algeria","country",5,9,0,0,4941797.5,1378
+"Algeria","country",10,14,1,0,4221454.5,1232
+"Algeria","country",15,19,5,1,3281901,1492
+"Algeria","country",20,24,12,28,2846322,1590
+"Algeria","country",25,29,39,12,3286152.5,2110
+"Algeria","country",30,34,52,9,3617857,2656
+"Algeria","country",35,39,98,27,3714473.5,3680
+"Algeria","country",40,44,165,56,3368926.5,4688
+"Algeria","country",45,49,222,90,2766843.5,5789
+"Algeria","country",50,54,303,132,2355453,7470
+"Algeria","country",55,59,407,165,1923705,10419
+"Algeria","country",60,64,444,190,1476317,14693
+"Algeria","country",65,69,434,211,1146838.5,20982
+"Algeria","country",70,74,338,205,786213.5,25730
+"Algeria","country",75,79,236,186,439422,25884
+"Algeria","country",80,84,174,174,276146.5,27946
+"Algeria","country",85,999,144,179,165049,31013
+"Americas","UN_region",0,4,0,0,68906315,181126
+"Americas","UN_region",5,9,0,0,73826145.5,17383
+"Americas","UN_region",10,14,22,2,76184393.5,20185
+"Americas","UN_region",15,19,73,13,77271586,63207
+"Americas","UN_region",20,24,236,51,78276253.5,104492
+"Americas","UN_region",25,29,488,126,78326584.5,119378
+"Americas","UN_region",30,34,936,344,78256018,135999
+"Americas","UN_region",35,39,2102,556,74690540.5,158888
+"Americas","UN_region",40,44,4021,969,69933041.5,192606
+"Americas","UN_region",45,49,6209,1549,63361238.5,243290
+"Americas","UN_region",50,54,9337,2402,60019448,340564
+"Americas","UN_region",55,59,12171,3457,56983149.5,490342
+"Americas","UN_region",60,64,14002,4356,51986265.5,644258
+"Americas","UN_region",65,69,13572,4753,43024016,743549
+"Americas","UN_region",70,74,11675,4677,33259114.5,856646
+"Americas","UN_region",75,79,8968,4543,23126599.5,951485
+"Americas","UN_region",80,84,6191,4044,14200030.5,987480
+"Americas","UN_region",85,999,6231,5263,11997949.5,1887212
+"Angola","country",0,4,0,0,6087495.5,89117
+"Angola","country",5,9,0,0,5326462.5,7059
+"Angola","country",10,14,0,0,4535524.5,4519
+"Angola","country",15,19,6,0,3693554.5,5792
+"Angola","country",20,24,11,6,2992351.5,6650
+"Angola","country",25,29,11,6,2575397.5,6746
+"Angola","country",30,34,30,25,2266054,7240
+"Angola","country",35,39,51,23,1912316.5,7906
+"Angola","country",40,44,24,4,1545472,8487
+"Angola","country",45,49,12,6,1241958,9266
+"Angola","country",50,54,20,14,1017352,10796
+"Angola","country",55,59,25,21,822040,12352
+"Angola","country",60,64,51,30,630770.5,14318
+"Angola","country",65,69,85,58,433740,14980
+"Angola","country",70,74,6,6,270670,14773
+"Angola","country",75,79,0,2,165925,14112
+"Angola","country",80,84,0,0,80781.5,10628
+"Angola","country",85,999,0,0,37163.5,8159
+"Argentina","country",0,4,0,0,2947672,5439
+"Argentina","country",5,9,0,0,3710859,737
+"Argentina","country",10,14,0,0,3672106,948
+"Argentina","country",15,19,3,1,3489288,2179
+"Argentina","country",20,24,7,1,3476402,3158
+"Argentina","country",25,29,35,5,3517290,3674
+"Argentina","country",30,34,33,13,3399523,4101
+"Argentina","country",35,39,55,21,3214392,4789
+"Argentina","country",40,44,106,26,3153271,6917
+"Argentina","country",45,49,163,42,2830371.5,8792
+"Argentina","country",50,54,227,65,2396847,12448
+"Argentina","country",55,59,309,97,2153956.5,17783
+"Argentina","country",60,64,382,125,1981502.5,26875
+"Argentina","country",65,69,425,146,1731398,37583
+"Argentina","country",70,74,419,158,1415320.5,48188
+"Argentina","country",75,79,348,153,1047637,55207
+"Argentina","country",80,84,247,135,676678.5,58710
+"Argentina","country",85,999,238,165,593389.5,101946
+"Armenia","country",0,4,0,0,176876,355
+"Armenia","country",5,9,0,0,198151,26
+"Armenia","country",10,14,0,0,197188.5,27
+"Armenia","country",15,19,0,0,171509,58
+"Armenia","country",20,24,0,0,167725.5,91
+"Armenia","country",25,29,0,0,196310,115
+"Armenia","country",30,34,2,0,245772.5,197
+"Armenia","country",35,39,1,1,231337,271
+"Armenia","country",40,44,1,0,204150.5,486
+"Armenia","country",45,49,4,2,170078,730
+"Armenia","country",50,54,10,5,162896.5,1157
+"Armenia","country",55,59,22,10,184555.5,1856
+"Armenia","country",60,64,40,19,202255,2987
+"Armenia","country",65,69,53,23,150095.5,3528
+"Armenia","country",70,74,49,29,99249.5,3760
+"Armenia","country",75,79,28,20,44808.5,2759
+"Armenia","country",80,84,25,19,46932.5,5050
+"Armenia","country",85,999,16,16,30983.5,6111
+"Asia","UN_region",0,4,0,0,345095929.5,1793243
+"Asia","UN_region",5,9,0,0,380170953.5,170680
+"Asia","UN_region",10,14,93,31,379880984.5,149536
+"Asia","UN_region",15,19,350,154,364014846,257684
+"Asia","UN_region",20,24,1138,479,359517763.5,333247
+"Asia","UN_region",25,29,2609,1018,360487013.5,394896
+"Asia","UN_region",30,34,4026,1712,377452848.5,477224
+"Asia","UN_region",35,39,6035,2485,353150778,587189
+"Asia","UN_region",40,44,10725,3700,312489994.5,773209
+"Asia","UN_region",45,49,19616,7068,295997754.5,1054182
+"Asia","UN_region",50,54,38239,13324,292159320,1591890
+"Asia","UN_region",55,59,46845,17238,258697550,2220740
+"Asia","UN_region",60,64,53500,20565,189770331.5,2619455
+"Asia","UN_region",65,69,70602,29326,169837735,3531512
+"Asia","UN_region",70,74,61180,29874,122086270,3887652
+"Asia","UN_region",75,79,45302,27501,74586194.5,3791658
+"Asia","UN_region",80,84,31532,24407,46447074.5,3872011
+"Asia","UN_region",85,999,25600,24743,34227309,5563149
+"Australia","country",0,4,0,0,1523962,1370
+"Australia","country",5,9,0,0,1613876.5,106
+"Australia","country",10,14,0,0,1640053,8
+"Australia","country",15,19,2,0,1537176.5,8
+"Australia","country",20,24,6,0,1637502.5,8
+"Australia","country",25,29,24,6,1858854.5,9
+"Australia","country",30,34,57,15,1941399,10
+"Australia","country",35,39,115,16,1908182.5,10
+"Australia","country",40,44,184,23,1720349,28
+"Australia","country",45,49,276,42,1637765.5,1152
+"Australia","country",50,54,389,69,1660551,3236
+"Australia","country",55,59,512,104,1547392,9317
+"Australia","country",60,64,626,148,1500094,19781
+"Australia","country",65,69,670,187,1315491.5,12241
+"Australia","country",70,74,695,244,1155308,19576
+"Australia","country",75,79,592,289,877684.5,22542
+"Australia","country",80,84,418,282,567841,29628
+"Australia","country",85,999,442,401,557501.5,85705
+"Australia and New Zealand","UN_subregion",0,4,0,0,1823197,1735
+"Australia and New Zealand","UN_subregion",5,9,0,0,1934007.5,150
+"Australia and New Zealand","UN_subregion",10,14,0,0,1977255,88
+"Australia and New Zealand","UN_subregion",15,19,2,0,1854616,207
+"Australia and New Zealand","UN_subregion",20,24,7,0,1964967.5,258
+"Australia and New Zealand","UN_subregion",25,29,30,8,2219298,211
+"Australia and New Zealand","UN_subregion",30,34,58,17,2329364.5,339
+"Australia and New Zealand","UN_subregion",35,39,120,19,2254596.5,285
+"Australia and New Zealand","UN_subregion",40,44,200,29,2037059.5,410
+"Australia and New Zealand","UN_subregion",45,49,312,52,1952731.5,1885
+"Australia and New Zealand","UN_subregion",50,54,461,87,1994367.5,4261
+"Australia and New Zealand","UN_subregion",55,59,634,132,1868093,10675
+"Australia and New Zealand","UN_subregion",60,64,801,189,1805354,21650
+"Australia and New Zealand","UN_subregion",65,69,876,244,1574707,14961
+"Australia and New Zealand","UN_subregion",70,74,922,321,1376303,23791
+"Australia and New Zealand","UN_subregion",75,79,790,376,1039142,27626
+"Australia and New Zealand","UN_subregion",80,84,554,361,676632.5,35768
+"Australia and New Zealand","UN_subregion",85,999,572,499,651027,101551
+"Austria","country",0,4,0,0,432137.5,317
+"Austria","country",5,9,0,0,441266.5,36
+"Austria","country",10,14,0,0,427028.5,33
+"Austria","country",15,19,0,0,439894,135
+"Austria","country",20,24,0,0,488185.5,198
+"Austria","country",25,29,2,0,588769,249
+"Austria","country",30,34,7,1,630688,384
+"Austria","country",35,39,15,3,620081,476
+"Austria","country",40,44,32,7,596560,628
+"Austria","country",45,49,57,13,589350,1049
+"Austria","country",50,54,108,28,682142.5,1860
+"Austria","country",55,59,165,47,712128,3155
+"Austria","country",60,64,194,63,622569.5,4597
+"Austria","country",65,69,195,77,493921.5,6276
+"Austria","country",70,74,198,107,418525.5,9109
+"Austria","country",75,79,174,123,332743,10823
+"Austria","country",80,84,167,157,309708,15891
+"Austria","country",85,999,118,151,238979,41378
+"Azerbaijan","country",0,4,0,0,688108,2394
+"Azerbaijan","country",5,9,0,0,822180,283
+"Azerbaijan","country",10,14,0,1,836794.5,244
+"Azerbaijan","country",15,19,0,0,703787,405
+"Azerbaijan","country",20,24,2,2,654105,648
+"Azerbaijan","country",25,29,3,0,843679,769
+"Azerbaijan","country",30,34,5,1,967531.5,938
+"Azerbaijan","country",35,39,17,9,866568,1188
+"Azerbaijan","country",40,44,29,13,729543,1497
+"Azerbaijan","country",45,49,44,25,609274.5,2205
+"Azerbaijan","country",50,54,67,39,619689,3716
+"Azerbaijan","country",55,59,103,58,618078,5963
+"Azerbaijan","country",60,64,122,69,561089,8553
+"Azerbaijan","country",65,69,99,58,355458,8504
+"Azerbaijan","country",70,74,57,37,209302,7982
+"Azerbaijan","country",75,79,28,21,81966,4865
+"Azerbaijan","country",80,84,22,20,79834.5,7778
+"Azerbaijan","country",85,999,16,16,48317,7940
+"Bahamas","country",0,4,0,0,21884.5,56
+"Bahamas","country",5,9,0,0,24843.5,5
+"Bahamas","country",10,14,0,0,27815.5,5
+"Bahamas","country",15,19,0,0,27943.5,26
+"Bahamas","country",20,24,0,0,29338.5,50
+"Bahamas","country",25,29,0,0,33365.5,62
+"Bahamas","country",30,34,0,0,32163.5,79
+"Bahamas","country",35,39,0,0,28960.5,95
+"Bahamas","country",40,44,1,0,27358.5,112
+"Bahamas","country",45,49,2,1,27453,145
+"Bahamas","country",50,54,1,1,27630.5,194
+"Bahamas","country",55,59,2,2,24924,231
+"Bahamas","country",60,64,2,2,19126,223
+"Bahamas","country",65,69,5,4,14070.5,331
+"Bahamas","country",70,74,4,2,10968.5,338
+"Bahamas","country",75,79,6,2,9340.5,436
+"Bahamas","country",80,84,0,1,5892.5,432
+"Bahamas","country",85,999,2,0,4459.5,582
+"Bahrain","country",0,4,0,0,95927,130
+"Bahrain","country",5,9,0,0,103321,21
+"Bahrain","country",10,14,0,0,93320,18
+"Bahrain","country",15,19,0,0,88548.5,34
+"Bahrain","country",20,24,0,0,115525.5,57
+"Bahrain","country",25,29,0,0,164481.5,80
+"Bahrain","country",30,34,2,0,200035,99
+"Bahrain","country",35,39,4,1,189605.5,97
+"Bahrain","country",40,44,2,2,146249,109
+"Bahrain","country",45,49,4,1,106317.5,146
+"Bahrain","country",50,54,9,3,76240,172
+"Bahrain","country",55,59,7,1,59196,239
+"Bahrain","country",60,64,9,4,41037.5,302
+"Bahrain","country",65,69,7,3,24981.5,323
+"Bahrain","country",70,74,4,3,12212.5,281
+"Bahrain","country",75,79,2,1,8084,312
+"Bahrain","country",80,84,2,2,4871,324
+"Bahrain","country",85,999,0,2,3506,467
+"Bangladesh","country",0,4,0,0,16290933.5,99644
+"Bangladesh","country",5,9,0,0,15731965.5,8677
+"Bangladesh","country",10,14,3,1,16709288.5,7161
+"Bangladesh","country",15,19,8,5,17136306.5,24945
+"Bangladesh","country",20,24,92,52,15767602.5,12913
+"Bangladesh","country",25,29,122,87,14851325,13818
+"Bangladesh","country",30,34,153,86,12592453,11543
+"Bangladesh","country",35,39,161,83,12834803.5,15809
+"Bangladesh","country",40,44,194,80,10321258,21337
+"Bangladesh","country",45,49,220,120,8499485.5,31397
+"Bangladesh","country",50,54,254,152,7261302,46409
+"Bangladesh","country",55,59,279,171,6043424,60587
+"Bangladesh","country",60,64,263,155,4952719.5,65320
+"Bangladesh","country",65,69,215,119,3998047.5,81020
+"Bangladesh","country",70,74,201,116,2830641,93932
+"Bangladesh","country",75,79,193,121,1917249.5,96099
+"Bangladesh","country",80,84,140,94,1045673,79984
+"Bangladesh","country",85,999,116,84,600419.5,82595
+"Barbados","country",0,4,0,0,15871.5,34
+"Barbados","country",5,9,0,0,16292.5,2
+"Barbados","country",10,14,0,0,17878,4
+"Barbados","country",15,19,0,0,18016,8
+"Barbados","country",20,24,0,0,18866.5,13
+"Barbados","country",25,29,0,0,17895.5,16
+"Barbados","country",30,34,0,0,18718.5,22
+"Barbados","country",35,39,0,0,18989,33
+"Barbados","country",40,44,1,0,18382,46
+"Barbados","country",45,49,4,1,19182.5,67
+"Barbados","country",50,54,7,1,19387,97
+"Barbados","country",55,59,3,1,19666.5,144
+"Barbados","country",60,64,5,4,18852,208
+"Barbados","country",65,69,2,2,16089,295
+"Barbados","country",70,74,6,5,11939.5,377
+"Barbados","country",75,79,4,3,8146.5,477
+"Barbados","country",80,84,6,3,4705.5,510
+"Barbados","country",85,999,4,4,3440,781
+"Belarus","country",0,4,0,0,428276,200
+"Belarus","country",5,9,0,0,584710.5,56
+"Belarus","country",10,14,0,0,542781,75
+"Belarus","country",15,19,0,0,445863,160
+"Belarus","country",20,24,1,0,438140,217
+"Belarus","country",25,29,3,0,513354.5,393
+"Belarus","country",30,34,6,4,706954.5,1012
+"Belarus","country",35,39,16,8,759693,1692
+"Belarus","country",40,44,32,6,677044,2472
+"Belarus","country",45,49,70,25,633590,3565
+"Belarus","country",50,54,132,55,610268,5199
+"Belarus","country",55,59,234,107,635283,7896
+"Belarus","country",60,64,416,194,683073,12233
+"Belarus","country",65,69,506,238,543876.5,12895
+"Belarus","country",70,74,461,233,419267.5,13514
+"Belarus","country",75,79,241,141,205530.5,11539
+"Belarus","country",80,84,186,135,201919.5,18242
+"Belarus","country",85,999,124,130,143612.5,30145
+"Belgium","country",0,4,0,0,593583.5,495
+"Belgium","country",5,9,0,0,645118,58
+"Belgium","country",10,14,0,0,685654,62
+"Belgium","country",15,19,0,0,655179.5,172
+"Belgium","country",20,24,2,0,670129,242
+"Belgium","country",25,29,5,0,722057,336
+"Belgium","country",30,34,5,2,770372.5,431
+"Belgium","country",35,39,13,2,747838.5,632
+"Belgium","country",40,44,35,6,763640.5,1035
+"Belgium","country",45,49,64,13,742333,1525
+"Belgium","country",50,54,124,27,785609.5,2402
+"Belgium","country",55,59,212,46,804462.5,3669
+"Belgium","country",60,64,289,64,754581.5,5836
+"Belgium","country",65,69,321,89,654032.5,8653
+"Belgium","country",70,74,335,128,563123.5,12485
+"Belgium","country",75,79,292,144,436594,14605
+"Belgium","country",80,84,216,147,303285.5,17297
+"Belgium","country",85,999,241,213,344225.5,49895
+"Belize","country",0,4,0,0,36378.5,77
+"Belize","country",5,9,0,0,38101.5,10
+"Belize","country",10,14,0,0,36718,11
+"Belize","country",15,19,0,0,38952,21
+"Belize","country",20,24,0,0,39579,32
+"Belize","country",25,29,0,0,37800.5,43
+"Belize","country",30,34,0,0,34707,52
+"Belize","country",35,39,0,0,30076,64
+"Belize","country",40,44,0,0,25223,87
+"Belize","country",45,49,0,0,21708,122
+"Belize","country",50,54,0,0,18381,158
+"Belize","country",55,59,0,0,14720,191
+"Belize","country",60,64,0,0,11426.5,228
+"Belize","country",65,69,0,0,7855.5,224
+"Belize","country",70,74,0,0,5182,225
+"Belize","country",75,79,0,0,3015.5,196
+"Belize","country",80,84,0,0,1776.5,191
+"Belize","country",85,999,0,0,1132.5,245
+"Benin","country",0,4,0,0,2154968,37823
+"Benin","country",5,9,0,0,1957322,7804
+"Benin","country",10,14,0,0,1683298.5,3856
+"Benin","country",15,19,0,0,1453222,4377
+"Benin","country",20,24,2,0,1236639.5,5022
+"Benin","country",25,29,6,0,1073106,4785
+"Benin","country",30,34,6,0,905375,4442
+"Benin","country",35,39,4,3,765456,4251
+"Benin","country",40,44,6,4,622362.5,4196
+"Benin","country",45,49,8,4,500435.5,4036
+"Benin","country",50,54,16,10,410199.5,4519
+"Benin","country",55,59,23,13,328863.5,4834
+"Benin","country",60,64,19,15,246863.5,5441
+"Benin","country",65,69,15,15,174379.5,5960
+"Benin","country",70,74,13,14,118432,6441
+"Benin","country",75,79,16,15,75046.5,6448
+"Benin","country",80,84,13,13,37009.5,5033
+"Benin","country",85,999,9,9,16521.5,3850
+"Bhutan","country",0,4,0,0,48411,234
+"Bhutan","country",5,9,0,0,58769.5,23
+"Bhutan","country",10,14,0,0,64924.5,22
+"Bhutan","country",15,19,0,0,70744,44
+"Bhutan","country",20,24,0,0,72475.5,63
+"Bhutan","country",25,29,0,0,78277.5,73
+"Bhutan","country",30,34,0,0,81755,90
+"Bhutan","country",35,39,1,1,68320.5,99
+"Bhutan","country",40,44,1,1,57181.5,125
+"Bhutan","country",45,49,1,1,43125.5,155
+"Bhutan","country",50,54,1,1,35749.5,209
+"Bhutan","country",55,59,3,2,29082,278
+"Bhutan","country",60,64,2,2,23324.5,360
+"Bhutan","country",65,69,2,1,18949.5,482
+"Bhutan","country",70,74,2,2,12847,551
+"Bhutan","country",75,79,2,1,8671.5,625
+"Bhutan","country",80,84,1,1,5050.5,613
+"Bhutan","country",85,999,1,1,3255.5,752
+"Bolivia","country",0,4,0,0,1248895,11099
+"Bolivia","country",5,9,0,0,1227829,1769
+"Bolivia","country",10,14,0,0,1206630,1030
+"Bolivia","country",15,19,0,0,1158042,1401
+"Bolivia","country",20,24,0,0,1112110.5,1988
+"Bolivia","country",25,29,1,0,1055034.5,2298
+"Bolivia","country",30,34,1,0,971025.5,2545
+"Bolivia","country",35,39,2,0,831901,2883
+"Bolivia","country",40,44,3,2,716816.5,3360
+"Bolivia","country",45,49,11,6,612934.5,4042
+"Bolivia","country",50,54,8,0,515517.5,4855
+"Bolivia","country",55,59,20,8,423370.5,6009
+"Bolivia","country",60,64,17,0,335330.5,7051
+"Bolivia","country",65,69,24,12,248355.5,8116
+"Bolivia","country",70,74,31,14,175835,8794
+"Bolivia","country",75,79,3,3,123090.5,8999
+"Bolivia","country",80,84,3,0,66475.5,7467
+"Bolivia","country",85,999,10,7,47960.5,9061
+"Bosnia & Herzegovina","country",0,4,0,0,133776.5,151
+"Bosnia & Herzegovina","country",5,9,0,0,139109,4
+"Bosnia & Herzegovina","country",10,14,0,0,155805,19
+"Bosnia & Herzegovina","country",15,19,0,0,168050,66
+"Bosnia & Herzegovina","country",20,24,1,0,175986,75
+"Bosnia & Herzegovina","country",25,29,2,0,156816,96
+"Bosnia & Herzegovina","country",30,34,2,1,178018,107
+"Bosnia & Herzegovina","country",35,39,9,2,215993,198
+"Bosnia & Herzegovina","country",40,44,20,6,250170.5,412
+"Bosnia & Herzegovina","country",45,49,37,11,240932.5,700
+"Bosnia & Herzegovina","country",50,54,57,20,212230,1038
+"Bosnia & Herzegovina","country",55,59,91,38,245330,2180
+"Bosnia & Herzegovina","country",60,64,139,70,256267.5,3810
+"Bosnia & Herzegovina","country",65,69,173,97,229326,5423
+"Bosnia & Herzegovina","country",70,74,145,92,173940,6404
+"Bosnia & Herzegovina","country",75,79,83,64,105721.5,6013
+"Bosnia & Herzegovina","country",80,84,65,61,87981,7495
+"Bosnia & Herzegovina","country",85,999,44,55,79349.5,10835
+"Botswana","country",0,4,0,0,289053.5,2395
+"Botswana","country",5,9,0,0,257192.5,204
+"Botswana","country",10,14,0,0,244845.5,156
+"Botswana","country",15,19,0,0,249772,277
+"Botswana","country",20,24,0,0,247486,395
+"Botswana","country",25,29,1,1,253221.5,485
+"Botswana","country",30,34,1,1,210819.5,504
+"Botswana","country",35,39,3,2,163542.5,524
+"Botswana","country",40,44,4,2,124896.5,554
+"Botswana","country",45,49,4,0,102294,642
+"Botswana","country",50,54,3,0,85955,787
+"Botswana","country",55,59,3,0,68073.5,901
+"Botswana","country",60,64,4,2,48068,978
+"Botswana","country",65,69,4,4,36839.5,1133
+"Botswana","country",70,74,2,2,27497.5,1259
+"Botswana","country",75,79,2,2,15652.5,1087
+"Botswana","country",80,84,0,0,9011.5,935
+"Botswana","country",85,999,0,0,5670.5,999
+"Brazil","country",0,4,0,0,13628418.5,37481
+"Brazil","country",5,9,0,0,14336110.5,2423
+"Brazil","country",10,14,19,2,14522576,3234
+"Brazil","country",15,19,16,3,15276880.5,15661
+"Brazil","country",20,24,70,21,16336263.5,24845
+"Brazil","country",25,29,136,30,16318409,25298
+"Brazil","country",30,34,129,124,16383995,28600
+"Brazil","country",35,39,383,133,16920603.5,37901
+"Brazil","country",40,44,823,239,16103032,48583
+"Brazil","country",45,49,1309,419,14240084,59696
+"Brazil","country",50,54,1955,663,12675564,77386
+"Brazil","country",55,59,2692,986,11793104.5,102959
+"Brazil","country",60,64,3143,1237,10211212.5,130209
+"Brazil","country",65,69,3250,1359,8038445,150046
+"Brazil","country",70,74,3051,1325,5883665,162253
+"Brazil","country",75,79,2529,1189,3772704.5,179809
+"Brazil","country",80,84,1998,1030,2301760.5,192846
+"Brazil","country",85,999,2115,1187,1563586,306351
+"Brunei","country",0,4,0,0,31645.5,61
+"Brunei","country",5,9,0,0,33279.5,7
+"Brunei","country",10,14,0,0,31530.5,7
+"Brunei","country",15,19,0,0,33327.5,21
+"Brunei","country",20,24,0,0,37506,32
+"Brunei","country",25,29,0,0,41419.5,37
+"Brunei","country",30,34,0,0,41678,45
+"Brunei","country",35,39,2,2,39873.5,62
+"Brunei","country",40,44,5,3,37043,124
+"Brunei","country",45,49,7,2,32570.5,208
+"Brunei","country",50,54,11,4,27964.5,269
+"Brunei","country",55,59,12,4,21724,290
+"Brunei","country",60,64,13,7,17566.5,308
+"Brunei","country",65,69,11,3,12446.5,299
+"Brunei","country",70,74,7,6,7818.5,274
+"Brunei","country",75,79,5,5,4016,233
+"Brunei","country",80,84,3,2,2540.5,258
+"Brunei","country",85,999,3,3,1419.5,453
+"Bulgaria","country",0,4,0,0,308423,421
+"Bulgaria","country",5,9,0,0,333834.5,58
+"Bulgaria","country",10,14,0,0,350170.5,74
+"Bulgaria","country",15,19,0,0,323764,166
+"Bulgaria","country",20,24,0,0,309822,212
+"Bulgaria","country",25,29,2,0,333769,266
+"Bulgaria","country",30,34,3,1,454035.5,479
+"Bulgaria","country",35,39,4,4,479384,840
+"Bulgaria","country",40,44,19,10,503221,1327
+"Bulgaria","country",45,49,54,22,538664,2516
+"Bulgaria","country",50,54,99,37,503902,3728
+"Bulgaria","country",55,59,155,58,449116.5,5410
+"Bulgaria","country",60,64,252,88,456730,8488
+"Bulgaria","country",65,69,333,118,445091.5,11938
+"Bulgaria","country",70,74,344,141,411387,15801
+"Bulgaria","country",75,79,257,128,300017,17382
+"Bulgaria","country",80,84,148,97,184590.5,17868
+"Bulgaria","country",85,999,92,91,139942,28546
+"Burkina Faso","country",0,4,0,0,3360439.5,57022
+"Burkina Faso","country",5,9,0,0,3329975,8707
+"Burkina Faso","country",10,14,0,0,2981340.5,4819
+"Burkina Faso","country",15,19,0,0,2503843,6345
+"Burkina Faso","country",20,24,0,0,2065235,7727
+"Burkina Faso","country",25,29,18,15,1719394.5,6818
+"Burkina Faso","country",30,34,0,0,1463766,6410
+"Burkina Faso","country",35,39,4,3,1254319.5,6361
+"Burkina Faso","country",40,44,20,16,1025819,6532
+"Burkina Faso","country",45,49,0,0,780488.5,6276
+"Burkina Faso","country",50,54,25,19,601952.5,6730
+"Burkina Faso","country",55,59,0,0,475015.5,7454
+"Burkina Faso","country",60,64,0,0,363418,8761
+"Burkina Faso","country",65,69,0,0,257078.5,9666
+"Burkina Faso","country",70,74,0,0,163065,10280
+"Burkina Faso","country",75,79,15,12,106580.5,11327
+"Burkina Faso","country",80,84,0,0,44043.5,7812
+"Burkina Faso","country",85,999,0,0,13264.5,4059
+"Burundi","country",0,4,0,0,2148639.5,22977
+"Burundi","country",5,9,0,0,2097257,7274
+"Burundi","country",10,14,1,0,1880328.5,3889
+"Burundi","country",15,19,0,0,1449047,4014
+"Burundi","country",20,24,1,1,1062521,4036
+"Burundi","country",25,29,4,2,906202.5,3737
+"Burundi","country",30,34,5,3,875798,4020
+"Burundi","country",35,39,6,4,798490,4246
+"Burundi","country",40,44,10,4,629365,4191
+"Burundi","country",45,49,11,7,427470.5,3479
+"Burundi","country",50,54,14,10,309086.5,3470
+"Burundi","country",55,59,19,14,225130,3347
+"Burundi","country",60,64,24,18,180619.5,4014
+"Burundi","country",65,69,23,19,145699,4976
+"Burundi","country",70,74,16,15,95690.5,5069
+"Burundi","country",75,79,10,10,52864,4455
+"Burundi","country",80,84,6,6,25967.5,3483
+"Burundi","country",85,999,4,4,10921.5,2527
+"Cambodia","country",0,4,0,0,1824962.5,8742
+"Cambodia","country",5,9,0,0,1736583.5,2276
+"Cambodia","country",10,14,0,0,1677138.5,1565
+"Cambodia","country",15,19,0,0,1573309.5,2449
+"Cambodia","country",20,24,0,0,1364832.5,3028
+"Cambodia","country",25,29,5,2,1378132.5,3299
+"Cambodia","country",30,34,10,4,1425897.5,3702
+"Cambodia","country",35,39,12,4,1326247.5,3884
+"Cambodia","country",40,44,23,12,1130119,4309
+"Cambodia","country",45,49,34,17,750291,3647
+"Cambodia","country",50,54,73,36,768368.5,5628
+"Cambodia","country",55,59,105,49,687603,6756
+"Cambodia","country",60,64,101,55,566222.5,8671
+"Cambodia","country",65,69,97,64,413077,10132
+"Cambodia","country",70,74,95,72,284714.5,11465
+"Cambodia","country",75,79,73,63,164604,11019
+"Cambodia","country",80,84,48,46,86712,9662
+"Cambodia","country",85,999,33,33,42908,8541
+"Cameroon","country",0,4,0,0,4344471,65644
+"Cameroon","country",5,9,0,0,3856846.5,6261
+"Cameroon","country",10,14,1,0,3420529,3997
+"Cameroon","country",15,19,1,0,2954957,5192
+"Cameroon","country",20,24,10,6,2474170.5,6246
+"Cameroon","country",25,29,11,6,2160326.5,6584
+"Cameroon","country",30,34,18,10,1907685,7190
+"Cameroon","country",35,39,15,8,1600946,7890
+"Cameroon","country",40,44,24,10,1299383.5,8501
+"Cameroon","country",45,49,34,17,1020701,8953
+"Cameroon","country",50,54,42,24,793300,9659
+"Cameroon","country",55,59,48,31,588866.5,9840
+"Cameroon","country",60,64,44,33,447048,11019
+"Cameroon","country",65,69,36,29,323131.5,12178
+"Cameroon","country",70,74,27,23,211457,12815
+"Cameroon","country",75,79,19,17,132292.5,12623
+"Cameroon","country",80,84,12,12,66051.5,9749
+"Cameroon","country",85,999,6,6,30608.5,7687
+"Canada","country",0,4,0,0,1888613.5,1774
+"Canada","country",5,9,0,0,2037981,148
+"Canada","country",10,14,0,0,2109299,198
+"Canada","country",15,19,3,0,2091685.5,665
+"Canada","country",20,24,10,2,2463508,1270
+"Canada","country",25,29,16,8,2686883.5,1838
+"Canada","country",30,34,68,21,2761665.5,2478
+"Canada","country",35,39,155,40,2706776,3336
+"Canada","country",40,44,271,67,2574501.5,4007
+"Canada","country",45,49,400,101,2415115,5350
+"Canada","country",50,54,578,148,2439833.5,8574
+"Canada","country",55,59,825,220,2652412.5,16689
+"Canada","country",60,64,1020,302,2639948,25453
+"Canada","country",65,69,1025,319,2309029.5,26099
+"Canada","country",70,74,969,364,1880176,34679
+"Canada","country",75,79,806,527,1378423,39973
+"Canada","country",80,84,572,620,879633,44757
+"Canada","country",85,999,620,1023,905775,120436
+"Cape Verde","country",0,4,0,0,42610.5,85
+"Cape Verde","country",5,9,0,0,49201,8
+"Cape Verde","country",10,14,0,0,49426,6
+"Cape Verde","country",15,19,0,0,46653.5,13
+"Cape Verde","country",20,24,0,0,41599,30
+"Cape Verde","country",25,29,0,0,46415.5,37
+"Cape Verde","country",30,34,0,0,47548.5,46
+"Cape Verde","country",35,39,0,0,41218,87
+"Cape Verde","country",40,44,0,0,33112.5,81
+"Cape Verde","country",45,49,0,1,25978,105
+"Cape Verde","country",50,54,2,0,23181,127
+"Cape Verde","country",55,59,1,0,22065,165
+"Cape Verde","country",60,64,0,0,17839.5,166
+"Cape Verde","country",65,69,2,0,12314,197
+"Cape Verde","country",70,74,1,1,8949.5,284
+"Cape Verde","country",75,79,1,0,5471.5,324
+"Cape Verde","country",80,84,0,1,3655,372
+"Cape Verde","country",85,999,0,1,2503,468
+"Central African Republic","country",0,4,0,0,934537,94165
+"Central African Republic","country",5,9,0,0,825701,21163
+"Central African Republic","country",10,14,1,0,748774,10606
+"Central African Republic","country",15,19,3,0,634278,18985
+"Central African Republic","country",20,24,5,5,508670,27770
+"Central African Republic","country",25,29,3,3,361793,20703
+"Central African Republic","country",30,34,2,1,251725.5,12917
+"Central African Republic","country",35,39,3,3,179207.5,9371
+"Central African Republic","country",40,44,4,2,137131,7804
+"Central African Republic","country",45,49,5,3,113226,7384
+"Central African Republic","country",50,54,6,3,113989,8453
+"Central African Republic","country",55,59,8,8,99306,9074
+"Central African Republic","country",60,64,8,6,80415,9745
+"Central African Republic","country",65,69,7,7,56530.5,9502
+"Central African Republic","country",70,74,5,5,31260,6955
+"Central African Republic","country",75,79,4,4,14300.5,3364
+"Central African Republic","country",80,84,2,2,5666,2067
+"Central African Republic","country",85,999,1,1,1529.5,1008
+"Central Asia","UN_subregion",0,4,0,0,9205375.5,34153
+"Central Asia","UN_subregion",5,9,0,0,8365195.5,3920
+"Central Asia","UN_subregion",10,14,6,2,7352130.5,3239
+"Central Asia","UN_subregion",15,19,8,5,5909780.5,4229
+"Central Asia","UN_subregion",20,24,15,14,5738535.5,4889
+"Central Asia","UN_subregion",25,29,33,17,6460659,6459
+"Central Asia","UN_subregion",30,34,72,39,6649533,9297
+"Central Asia","UN_subregion",35,39,74,51,5931348.5,12663
+"Central Asia","UN_subregion",40,44,121,65,4823933.5,16756
+"Central Asia","UN_subregion",45,49,206,110,4256176,22460
+"Central Asia","UN_subregion",50,54,305,168,3767848.5,28904
+"Central Asia","UN_subregion",55,59,477,264,3432782.5,39501
+"Central Asia","UN_subregion",60,64,625,348,2903561.5,51343
+"Central Asia","UN_subregion",65,69,622,343,2007174,55298
+"Central Asia","UN_subregion",70,74,409,230,1229366.5,52477
+"Central Asia","UN_subregion",75,79,213,123,562450,38289
+"Central Asia","UN_subregion",80,84,159,94,463325,48232
+"Central Asia","UN_subregion",85,999,88,62,282592,49716
+"Chad","country",0,4,0,0,3431648,79610
+"Chad","country",5,9,0,0,2887361,19742
+"Chad","country",10,14,0,0,2429494,9100
+"Chad","country",15,19,0,0,2002058,8900
+"Chad","country",20,24,0,0,1637422.5,9711
+"Chad","country",25,29,0,0,1343176.5,8745
+"Chad","country",30,34,0,0,1081071.5,7728
+"Chad","country",35,39,23,19,863343.5,6986
+"Chad","country",40,44,0,0,708539,6766
+"Chad","country",45,49,33,25,610168.5,6774
+"Chad","country",50,54,19,15,472997.5,6772
+"Chad","country",55,59,0,0,354498,6708
+"Chad","country",60,64,8,6,254186.5,6986
+"Chad","country",65,69,12,9,173264,7194
+"Chad","country",70,74,0,0,108121.5,6980
+"Chad","country",75,79,9,8,57942,5811
+"Chad","country",80,84,0,0,27811.5,4320
+"Chad","country",85,999,0,0,12212,3143
+"Chile","country",0,4,0,0,1021264.5,1035
+"Chile","country",5,9,0,0,1217629,171
+"Chile","country",10,14,0,0,1233248,187
+"Chile","country",15,19,0,0,1211543,505
+"Chile","country",20,24,3,0,1395580,1022
+"Chile","country",25,29,10,1,1589137.5,1329
+"Chile","country",30,34,19,6,1634354.5,1767
+"Chile","country",35,39,21,11,1497425.5,1953
+"Chile","country",40,44,42,16,1376981.5,2611
+"Chile","country",45,49,79,28,1310065.5,3622
+"Chile","country",50,54,126,47,1260079,5387
+"Chile","country",55,59,192,67,1170277,7975
+"Chile","country",60,64,262,95,1034882,10732
+"Chile","country",65,69,314,125,863341.5,12873
+"Chile","country",70,74,304,142,675289.5,15225
+"Chile","country",75,79,246,137,451383,17767
+"Chile","country",80,84,182,119,296178,20873
+"Chile","country",85,999,190,148,314377.5,43047
+"China","country",0,4,0,0,65606014,72370
+"China","country",5,9,0,0,90500949,22654
+"China","country",10,14,35,14,87909429,23674
+"China","country",15,19,68,30,80171426.5,27038
+"China","country",20,24,178,70,80852780.5,44220
+"China","country",25,29,590,192,89704202,64666
+"China","country",30,34,1710,552,118128097,99605
+"China","country",35,39,2444,818,109430574.5,107419
+"China","country",40,44,4668,1512,95819838.5,141324
+"China","country",45,49,9855,3244,104901929.5,242408
+"China","country",50,54,23524,7319,122960963.5,488952
+"China","country",55,59,26951,9017,113599176.5,673844
+"China","country",60,64,29235,10507,69176933,734215
+"China","country",65,69,45066,18471,75962979.5,1274663
+"China","country",70,74,38374,19308,54531187.5,1461124
+"China","country",75,79,27244,17835,31736600.5,1416101
+"China","country",80,84,18794,16173,19798118.5,1607203
+"China","country",85,999,13371,15429,14388369.5,2497251
+"Colombia","country",0,4,0,0,3543741.5,8822
+"Colombia","country",5,9,0,0,3529821.5,919
+"Colombia","country",10,14,0,0,3767233.5,1267
+"Colombia","country",15,19,8,1,4090937.5,4066
+"Colombia","country",20,24,13,5,4434691,6584
+"Colombia","country",25,29,30,16,4576470.5,7064
+"Colombia","country",30,34,38,22,4280871.5,6891
+"Colombia","country",35,39,67,33,3911341.5,7098
+"Colombia","country",40,44,114,36,3570438,8031
+"Colombia","country",45,49,168,54,3183638.5,9224
+"Colombia","country",50,54,243,86,2988609,12345
+"Colombia","country",55,59,340,129,2823830,17425
+"Colombia","country",60,64,403,164,2376512.5,23418
+"Colombia","country",65,69,431,193,1806963.5,28068
+"Colombia","country",70,74,396,200,1275621.5,32181
+"Colombia","country",75,79,304,173,835125.5,36518
+"Colombia","country",80,84,215,137,454530.5,38335
+"Colombia","country",85,999,208,148,287566,55999
+"Comoros","country",0,4,0,0,113418,1161
+"Comoros","country",5,9,0,0,105183,102
+"Comoros","country",10,14,0,0,96043.5,73
+"Comoros","country",15,19,0,0,84663,122
+"Comoros","country",20,24,0,0,75992.5,144
+"Comoros","country",25,29,0,0,59892,118
+"Comoros","country",30,34,0,0,57078.5,131
+"Comoros","country",35,39,0,0,51520,156
+"Comoros","country",40,44,0,0,45718,193
+"Comoros","country",45,49,0,0,36579.5,229
+"Comoros","country",50,54,0,0,29597,280
+"Comoros","country",55,59,1,0,23343.5,333
+"Comoros","country",60,64,1,0,17994,401
+"Comoros","country",65,69,2,1,14069.5,493
+"Comoros","country",70,74,2,2,10437.5,592
+"Comoros","country",75,79,2,2,7547.5,691
+"Comoros","country",80,84,0,0,3658.5,519
+"Comoros","country",85,999,0,0,1452.5,349
+"Congo - Brazzaville","country",0,4,0,0,875680,7582
+"Congo - Brazzaville","country",5,9,0,0,839345.5,766
+"Congo - Brazzaville","country",10,14,0,0,774842.5,584
+"Congo - Brazzaville","country",15,19,0,0,617780,829
+"Congo - Brazzaville","country",20,24,2,2,500529,1034
+"Congo - Brazzaville","country",25,29,3,2,432358.5,1157
+"Congo - Brazzaville","country",30,34,2,2,389514.5,1372
+"Congo - Brazzaville","country",35,39,2,2,357227,1730
+"Congo - Brazzaville","country",40,44,5,3,315915,2097
+"Congo - Brazzaville","country",45,49,9,6,266682.5,2430
+"Congo - Brazzaville","country",50,54,13,8,212238.5,2691
+"Congo - Brazzaville","country",55,59,13,8,163980.5,2843
+"Congo - Brazzaville","country",60,64,10,6,117018.5,2939
+"Congo - Brazzaville","country",65,69,6,4,77104,2875
+"Congo - Brazzaville","country",70,74,4,3,47285,2757
+"Congo - Brazzaville","country",75,79,2,1,26845,2419
+"Congo - Brazzaville","country",80,84,1,1,13998,1952
+"Congo - Brazzaville","country",85,999,0,0,6760,1598
+"Congo - Kinshasa","country",0,4,0,0,18753273,313252
+"Congo - Kinshasa","country",5,9,0,0,15561649,55786
+"Congo - Kinshasa","country",10,14,5,5,12902486.5,27044
+"Congo - Kinshasa","country",15,19,19,19,10593110,29914
+"Congo - Kinshasa","country",20,24,32,21,8899426,34584
+"Congo - Kinshasa","country",25,29,53,36,7563285,32214
+"Congo - Kinshasa","country",30,34,41,27,6103689.5,28849
+"Congo - Kinshasa","country",35,39,35,27,4939629,26922
+"Congo - Kinshasa","country",40,44,73,41,3888134.5,26529
+"Congo - Kinshasa","country",45,49,108,62,3226403.5,26888
+"Congo - Kinshasa","country",50,54,140,83,2775283,31792
+"Congo - Kinshasa","country",55,59,158,99,2276284,34447
+"Congo - Kinshasa","country",60,64,158,109,1774776,40005
+"Congo - Kinshasa","country",65,69,150,114,1300942,45116
+"Congo - Kinshasa","country",70,74,137,113,890954,48777
+"Congo - Kinshasa","country",75,79,106,94,564900.5,48507
+"Congo - Kinshasa","country",80,84,62,59,269939.5,36873
+"Congo - Kinshasa","country",85,999,34,34,112803,26909
+"Costa Rica","country",0,4,0,0,299560,417
+"Costa Rica","country",5,9,0,0,347558,44
+"Costa Rica","country",10,14,0,0,361085.5,76
+"Costa Rica","country",15,19,0,0,359881,223
+"Costa Rica","country",20,24,2,0,391472.5,414
+"Costa Rica","country",25,29,2,0,405269,500
+"Costa Rica","country",30,34,5,1,414784.5,599
+"Costa Rica","country",35,39,6,5,405645.5,627
+"Costa Rica","country",40,44,10,4,361195.5,711
+"Costa Rica","country",45,49,16,5,316448,806
+"Costa Rica","country",50,54,26,10,297054,1139
+"Costa Rica","country",55,59,42,19,292272,1596
+"Costa Rica","country",60,64,49,24,257227.5,2171
+"Costa Rica","country",65,69,46,23,197725.5,2491
+"Costa Rica","country",70,74,43,21,148825,2841
+"Costa Rica","country",75,79,37,22,104269.5,3710
+"Costa Rica","country",80,84,29,19,65928,4300
+"Costa Rica","country",85,999,31,26,55563.5,8366
+"Croatia","country",0,4,0,0,170181,158
+"Croatia","country",5,9,0,0,181936,16
+"Croatia","country",10,14,0,0,206624,18
+"Croatia","country",15,19,0,0,197889,58
+"Croatia","country",20,24,1,0,202679.5,86
+"Croatia","country",25,29,2,0,210403.5,105
+"Croatia","country",30,34,4,1,221267,123
+"Croatia","country",35,39,6,1,254785.5,223
+"Croatia","country",40,44,21,6,274481.5,434
+"Croatia","country",45,49,43,11,268727.5,662
+"Croatia","country",50,54,77,23,266039,1081
+"Croatia","country",55,59,138,43,284721,1957
+"Croatia","country",60,64,218,71,288809,3307
+"Croatia","country",65,69,287,106,277460,5225
+"Croatia","country",70,74,275,126,225955.5,6902
+"Croatia","country",75,79,198,115,150609,7446
+"Croatia","country",80,84,163,126,120787.5,9658
+"Croatia","country",85,999,127,121,103671.5,15893
+"Cuba","country",0,4,0,0,522168,595
+"Cuba","country",5,9,0,0,594944.5,106
+"Cuba","country",10,14,0,0,616735.5,122
+"Cuba","country",15,19,0,0,604870.5,228
+"Cuba","country",20,24,0,0,687223,360
+"Cuba","country",25,29,6,2,674798.5,396
+"Cuba","country",30,34,7,1,796317,634
+"Cuba","country",35,39,8,4,731605.5,880
+"Cuba","country",40,44,11,5,607453.5,1105
+"Cuba","country",45,49,30,9,825007.5,2491
+"Cuba","country",50,54,64,19,975936.5,4900
+"Cuba","country",55,59,109,31,976487.5,8201
+"Cuba","country",60,64,129,38,690429,9218
+"Cuba","country",65,69,133,44,538170.5,11093
+"Cuba","country",70,74,128,55,449781,13675
+"Cuba","country",75,79,108,57,349313,15921
+"Cuba","country",80,84,81,50,228916.5,16266
+"Cuba","country",85,999,78,55,189662.5,27567
+"Cyprus","country",0,4,0,0,73523.5,76
+"Cyprus","country",5,9,0,0,71989.5,9
+"Cyprus","country",10,14,0,0,67949,10
+"Cyprus","country",15,19,0,0,66036,12
+"Cyprus","country",20,24,0,0,76584.5,31
+"Cyprus","country",25,29,0,0,98293,33
+"Cyprus","country",30,34,1,0,125118,49
+"Cyprus","country",35,39,1,0,127086.5,67
+"Cyprus","country",40,44,3,0,110924.5,98
+"Cyprus","country",45,49,6,1,92590.5,159
+"Cyprus","country",50,54,10,3,85318.5,207
+"Cyprus","country",55,59,15,5,77515.5,334
+"Cyprus","country",60,64,19,7,71011.5,532
+"Cyprus","country",65,69,20,6,58672.5,774
+"Cyprus","country",70,74,21,9,48347,1178
+"Cyprus","country",75,79,22,7,36555.5,1495
+"Cyprus","country",80,84,19,12,24144.5,1779
+"Cyprus","country",85,999,19,12,19710,3399
+"Czechia","country",0,4,0,0,559093.5,294
+"Czechia","country",5,9,0,0,559665.5,52
+"Czechia","country",10,14,0,0,583373,61
+"Czechia","country",15,19,0,0,530630,147
+"Czechia","country",20,24,0,0,508623.5,227
+"Czechia","country",25,29,4,0,586537.5,287
+"Czechia","country",30,34,8,0,703867.5,452
+"Czechia","country",35,39,9,1,724887.5,668
+"Czechia","country",40,44,43,9,823004,1113
+"Czechia","country",45,49,105,25,914682.5,2053
+"Czechia","country",50,54,158,43,715775,2717
+"Czechia","country",55,59,256,77,678337.5,4229
+"Czechia","country",60,64,338,115,594773,6454
+"Czechia","country",65,69,492,188,654697.5,10935
+"Czechia","country",70,74,540,243,613416.5,16089
+"Czechia","country",75,79,421,232,460401.5,18933
+"Czechia","country",80,84,239,169,260839,18113
+"Czechia","country",85,999,173,162,200608.5,34525
+"Côte d’Ivoire","country",0,4,0,0,4563751,68073
+"Côte d’Ivoire","country",5,9,0,0,4332947,5858
+"Côte d’Ivoire","country",10,14,0,0,3766672.5,4092
+"Côte d’Ivoire","country",15,19,0,0,3113655.5,5725
+"Côte d’Ivoire","country",20,24,2,1,2587061.5,7202
+"Côte d’Ivoire","country",25,29,9,7,2240153,7891
+"Côte d’Ivoire","country",30,34,19,14,2167509.5,9721
+"Côte d’Ivoire","country",35,39,18,13,1972931.5,11664
+"Côte d’Ivoire","country",40,44,21,15,1611079.5,12547
+"Côte d’Ivoire","country",45,49,25,20,1219334.5,12721
+"Côte d’Ivoire","country",50,54,30,23,889130,12774
+"Côte d’Ivoire","country",55,59,40,27,670243,13137
+"Côte d’Ivoire","country",60,64,40,26,490682.5,13965
+"Côte d’Ivoire","country",65,69,29,20,332308,13605
+"Côte d’Ivoire","country",70,74,21,14,211211,12278
+"Côte d’Ivoire","country",75,79,15,11,124710.5,10308
+"Côte d’Ivoire","country",80,84,10,8,64877,7915
+"Côte d’Ivoire","country",85,999,4,4,36744.5,8086
+"Denmark","country",0,4,0,0,311033.5,213
+"Denmark","country",5,9,0,0,304242,15
+"Denmark","country",10,14,0,0,331331,22
+"Denmark","country",15,19,0,0,345819.5,60
+"Denmark","country",20,24,1,0,375400,118
+"Denmark","country",25,29,3,0,407812.5,121
+"Denmark","country",30,34,4,0,387139,179
+"Denmark","country",35,39,2,1,340251.5,208
+"Denmark","country",40,44,16,2,346024,360
+"Denmark","country",45,49,44,6,385940.5,594
+"Denmark","country",50,54,89,12,391939,1054
+"Denmark","country",55,59,166,22,416942,1872
+"Denmark","country",60,64,218,32,354793,2782
+"Denmark","country",65,69,282,48,324013,4477
+"Denmark","country",70,74,336,72,302647.5,6364
+"Denmark","country",75,79,348,94,279683.5,9615
+"Denmark","country",80,84,212,75,164924.5,10064
+"Denmark","country",85,999,160,78,132967.5,21276
+"Djibouti","country",0,4,0,0,114432.5,1240
+"Djibouti","country",5,9,0,0,113230.5,275
+"Djibouti","country",10,14,0,0,113731.5,173
+"Djibouti","country",15,19,0,0,116822,259
+"Djibouti","country",20,24,1,0,108634,332
+"Djibouti","country",25,29,2,2,97089,323
+"Djibouti","country",30,34,2,2,87821.5,319
+"Djibouti","country",35,39,2,2,77472,317
+"Djibouti","country",40,44,2,2,71024.5,366
+"Djibouti","country",45,49,2,0,63417.5,402
+"Djibouti","country",50,54,3,0,51791,467
+"Djibouti","country",55,59,3,3,39647.5,479
+"Djibouti","country",60,64,3,3,29365,543
+"Djibouti","country",65,69,3,3,20915,610
+"Djibouti","country",70,74,2,2,15400,729
+"Djibouti","country",75,79,2,2,9572,727
+"Djibouti","country",80,84,0,0,4657,573
+"Djibouti","country",85,999,0,0,2073.5,444
+"Dominican Republic","country",0,4,0,0,1013118,6641
+"Dominican Republic","country",5,9,0,0,1022824.5,156
+"Dominican Republic","country",10,14,0,0,1017914,211
+"Dominican Republic","country",15,19,1,0,974611.5,681
+"Dominican Republic","country",20,24,1,0,964656,1232
+"Dominican Republic","country",25,29,2,0,932270,1380
+"Dominican Republic","country",30,34,4,1,870248.5,1541
+"Dominican Republic","country",35,39,8,3,776065,1594
+"Dominican Republic","country",40,44,13,4,705019,2040
+"Dominican Republic","country",45,49,16,5,639051,2467
+"Dominican Republic","country",50,54,16,5,562514,3241
+"Dominican Republic","country",55,59,31,10,503844,4361
+"Dominican Republic","country",60,64,23,7,430199.5,5028
+"Dominican Republic","country",65,69,44,16,326851.5,6143
+"Dominican Republic","country",70,74,21,9,215448.5,6607
+"Dominican Republic","country",75,79,15,9,128906,6359
+"Dominican Republic","country",80,84,11,8,78689.5,6183
+"Dominican Republic","country",85,999,10,7,68503,10387
+"Eastern Asia","UN_subregion",0,4,0,0,73442329,82093
+"Eastern Asia","UN_subregion",5,9,0,0,99775776,24376
+"Eastern Asia","UN_subregion",10,14,35,14,97654495.5,25293
+"Eastern Asia","UN_subregion",15,19,70,31,90124454.5,30704
+"Eastern Asia","UN_subregion",20,24,210,74,92156796.5,50353
+"Eastern Asia","UN_subregion",25,29,780,219,101622634.5,71789
+"Eastern Asia","UN_subregion",30,34,1811,579,129978273,108166
+"Eastern Asia","UN_subregion",35,39,2828,933,122026379,118623
+"Eastern Asia","UN_subregion",40,44,5594,1671,109601495,157959
+"Eastern Asia","UN_subregion",45,49,11907,3664,120618107.5,271168
+"Eastern Asia","UN_subregion",50,54,27303,8191,139253133.5,538394
+"Eastern Asia","UN_subregion",55,59,32417,10382,127584189.5,733662
+"Eastern Asia","UN_subregion",60,64,36705,12491,82403986.5,818229
+"Eastern Asia","UN_subregion",65,69,54086,21020,87738036,1397381
+"Eastern Asia","UN_subregion",70,74,48445,22629,66733660.5,1666278
+"Eastern Asia","UN_subregion",75,79,36570,21714,41423803,1687336
+"Eastern Asia","UN_subregion",80,84,25834,19991,27376700.5,1978233
+"Eastern Asia","UN_subregion",85,999,21356,20845,22160268.5,3514395
+"Eastern Europe","UN_subregion",0,4,0,0,14130330,13377
+"Eastern Europe","UN_subregion",5,9,0,0,17140713.5,2476
+"Eastern Europe","UN_subregion",10,14,0,0,16662907,3442
+"Eastern Europe","UN_subregion",15,19,3,3,14673346.5,8982
+"Eastern Europe","UN_subregion",20,24,33,8,13937819,16025
+"Eastern Europe","UN_subregion",25,29,98,21,16151940.5,23751
+"Eastern Europe","UN_subregion",30,34,159,84,22025481,46901
+"Eastern Europe","UN_subregion",35,39,339,194,23935550.5,75737
+"Eastern Europe","UN_subregion",40,44,1123,277,22210073.5,99191
+"Eastern Europe","UN_subregion",45,49,2361,802,20876310.5,116756
+"Eastern Europe","UN_subregion",50,54,4011,1542,18924568.5,148969
+"Eastern Europe","UN_subregion",55,59,6590,2711,18322479,213196
+"Eastern Europe","UN_subregion",60,64,11120,4917,19683419,344305
+"Eastern Europe","UN_subregion",65,69,13388,6427,17561923,442119
+"Eastern Europe","UN_subregion",70,74,12201,6767,13864061,487486
+"Eastern Europe","UN_subregion",75,79,6658,4194,7160982,370392
+"Eastern Europe","UN_subregion",80,84,5608,4323,6659693.5,556384
+"Eastern Europe","UN_subregion",85,999,3802,3647,5129379,798508
+"Ecuador","country",0,4,0,0,1431213.5,3381
+"Ecuador","country",5,9,0,0,1500220,426
+"Ecuador","country",10,14,1,0,1616644.5,568
+"Ecuador","country",15,19,2,0,1568949.5,1324
+"Ecuador","country",20,24,3,2,1569970.5,2136
+"Ecuador","country",25,29,7,3,1533557.5,2315
+"Ecuador","country",30,34,6,4,1433852,2403
+"Ecuador","country",35,39,14,7,1317304,2557
+"Ecuador","country",40,44,24,9,1168659.5,2876
+"Ecuador","country",45,49,41,11,1022250,3397
+"Ecuador","country",50,54,59,20,889028,4260
+"Ecuador","country",55,59,74,28,753570,5691
+"Ecuador","country",60,64,79,32,619430.5,7011
+"Ecuador","country",65,69,78,37,498612,8007
+"Ecuador","country",70,74,69,30,383582,9585
+"Ecuador","country",75,79,61,32,255996,9844
+"Ecuador","country",80,84,51,32,154318,12270
+"Ecuador","country",85,999,55,39,106739.5,17530
+"Egypt","country",0,4,0,0,11968818.5,43137
+"Egypt","country",5,9,0,0,13330584.5,5117
+"Egypt","country",10,14,3,0,11697201.5,4354
+"Egypt","country",15,19,13,4,10242299.5,6986
+"Egypt","country",20,24,36,18,9406380,7218
+"Egypt","country",25,29,74,40,8647173.5,7279
+"Egypt","country",30,34,111,53,8637525.5,9687
+"Egypt","country",35,39,150,64,8023008.5,11849
+"Egypt","country",40,44,176,71,6875432.5,15067
+"Egypt","country",45,49,192,69,5808725,20763
+"Egypt","country",50,54,201,71,4957230.5,35700
+"Egypt","country",55,59,219,83,4204009.5,54705
+"Egypt","country",60,64,217,95,3382197,72465
+"Egypt","country",65,69,181,93,2496181.5,86196
+"Egypt","country",70,74,143,86,1595092,88365
+"Egypt","country",75,79,90,76,840822,75648
+"Egypt","country",80,84,44,60,347649.5,51995
+"Egypt","country",85,999,30,61,157918.5,42607
+"El Salvador","country",0,4,0,0,499909,1199
+"El Salvador","country",5,9,0,0,545244.5,169
+"El Salvador","country",10,14,0,0,563679.5,196
+"El Salvador","country",15,19,0,1,569980,667
+"El Salvador","country",20,24,1,0,642406,1041
+"El Salvador","country",25,29,3,0,613422,1263
+"El Salvador","country",30,34,5,2,491163,1379
+"El Salvador","country",35,39,12,2,385402.5,1518
+"El Salvador","country",40,44,17,5,369843.5,1806
+"El Salvador","country",45,49,19,4,336497,2056
+"El Salvador","country",50,54,18,7,301046.5,2557
+"El Salvador","country",55,59,13,4,257626,3054
+"El Salvador","country",60,64,9,5,210364,3411
+"El Salvador","country",65,69,9,5,169372,3856
+"El Salvador","country",70,74,10,7,134467.5,4543
+"El Salvador","country",75,79,8,4,95412,5517
+"El Salvador","country",80,84,8,5,59664,5889
+"El Salvador","country",85,999,10,7,34820,6723
+"Equatorial Guinea","country",0,4,0,0,249817.5,3957
+"Equatorial Guinea","country",5,9,0,0,228659,337
+"Equatorial Guinea","country",10,14,0,0,201065.5,218
+"Equatorial Guinea","country",15,19,0,0,165539,274
+"Equatorial Guinea","country",20,24,1,1,137114,321
+"Equatorial Guinea","country",25,29,0,0,136149,373
+"Equatorial Guinea","country",30,34,2,2,142909,477
+"Equatorial Guinea","country",35,39,2,1,129394,554
+"Equatorial Guinea","country",40,44,1,1,102175,580
+"Equatorial Guinea","country",45,49,1,1,83500,643
+"Equatorial Guinea","country",50,54,1,1,66914.5,730
+"Equatorial Guinea","country",55,59,2,2,55056,850
+"Equatorial Guinea","country",60,64,2,1,40911,947
+"Equatorial Guinea","country",65,69,0,0,28579,1015
+"Equatorial Guinea","country",70,74,1,1,18233,1014
+"Equatorial Guinea","country",75,79,0,0,9837,866
+"Equatorial Guinea","country",80,84,0,0,5157,701
+"Equatorial Guinea","country",85,999,0,0,2535.5,597
+"Eritrea","country",0,4,0,0,455141.5,3530
+"Eritrea","country",5,9,0,0,440788,783
+"Eritrea","country",10,14,1,0,440609.5,512
+"Eritrea","country",15,19,3,0,413263.5,753
+"Eritrea","country",20,24,2,2,339573.5,872
+"Eritrea","country",25,29,3,1,269408,753
+"Eritrea","country",30,34,4,2,200841,617
+"Eritrea","country",35,39,5,3,159134,565
+"Eritrea","country",40,44,4,2,143084.5,673
+"Eritrea","country",45,49,6,4,129067,767
+"Eritrea","country",50,54,7,7,112490.5,981
+"Eritrea","country",55,59,7,5,92952.5,1077
+"Eritrea","country",60,64,8,6,72759,1292
+"Eritrea","country",65,69,8,6,52449.5,1475
+"Eritrea","country",70,74,8,6,39004.5,1771
+"Eritrea","country",75,79,6,6,28086,2056
+"Eritrea","country",80,84,4,4,14568,1739
+"Eritrea","country",85,999,2,2,6226.5,1330
+"Estonia","country",0,4,0,0,69240.5,30
+"Estonia","country",5,9,0,0,72117,7
+"Estonia","country",10,14,0,0,77805,13
+"Estonia","country",15,19,0,0,69925.5,24
+"Estonia","country",20,24,0,0,63862.5,41
+"Estonia","country",25,29,0,0,72679.5,41
+"Estonia","country",30,34,0,0,99394,94
+"Estonia","country",35,39,1,0,100423.5,164
+"Estonia","country",40,44,1,0,93395,221
+"Estonia","country",45,49,6,2,92229.5,315
+"Estonia","country",50,54,14,3,89897.5,453
+"Estonia","country",55,59,25,8,83451.5,663
+"Estonia","country",60,64,43,15,87146,1067
+"Estonia","country",65,69,58,23,79882.5,1452
+"Estonia","country",70,74,66,30,69535.5,1837
+"Estonia","country",75,79,52,29,46213,1765
+"Estonia","country",80,84,54,37,43737,2957
+"Estonia","country",85,999,49,39,39156.5,5939
+"Eswatini","country",0,4,0,0,142458,1531
+"Eswatini","country",5,9,0,0,137754,141
+"Eswatini","country",10,14,0,0,133617,118
+"Eswatini","country",15,19,0,0,127829,212
+"Eswatini","country",20,24,0,0,119398,323
+"Eswatini","country",25,29,0,0,107142.5,398
+"Eswatini","country",30,34,1,1,98452.5,489
+"Eswatini","country",35,39,1,1,86573.5,581
+"Eswatini","country",40,44,2,2,67962.5,597
+"Eswatini","country",45,49,2,1,49545,570
+"Eswatini","country",50,54,1,1,40187,613
+"Eswatini","country",55,59,0,0,32337,643
+"Eswatini","country",60,64,1,1,26720.5,754
+"Eswatini","country",65,69,2,2,20504,791
+"Eswatini","country",70,74,1,0,13369,681
+"Eswatini","country",75,79,1,1,8574.5,589
+"Eswatini","country",80,84,0,0,4457,459
+"Eswatini","country",85,999,0,0,2035.5,386
+"Ethiopia","country",0,4,0,0,18673389.5,186145
+"Ethiopia","country",5,9,0,0,16063479,32256
+"Ethiopia","country",10,14,14,9,15047969.5,19533
+"Ethiopia","country",15,19,0,0,14176948.5,28070
+"Ethiopia","country",20,24,116,87,12499314.5,35347
+"Ethiopia","country",25,29,141,112,10716437.5,32816
+"Ethiopia","country",30,34,165,127,8670616.5,28626
+"Ethiopia","country",35,39,195,153,6601774.5,24414
+"Ethiopia","country",40,44,208,175,5444002,25668
+"Ethiopia","country",45,49,285,197,4472067.5,26079
+"Ethiopia","country",50,54,298,210,3747677.5,31579
+"Ethiopia","country",55,59,280,212,3054275.5,34397
+"Ethiopia","country",60,64,290,213,2298807.5,39890
+"Ethiopia","country",65,69,290,193,1590372.5,43937
+"Ethiopia","country",70,74,202,151,1105955.5,49694
+"Ethiopia","country",75,79,130,103,720113.5,52262
+"Ethiopia","country",80,84,67,54,347508.5,41200
+"Ethiopia","country",85,999,38,30,153577,32070
+"Europe","UN_region",0,4,0,0,35389333.5,30267
+"Europe","UN_region",5,9,0,0,40417997.5,4674
+"Europe","UN_region",10,14,0,0,41040017,5891
+"Europe","UN_region",15,19,14,3,38839498.5,14840
+"Europe","UN_region",20,24,86,10,39268414,25438
+"Europe","UN_region",25,29,250,44,42835352.5,35366
+"Europe","UN_region",30,34,426,178,50662730,63482
+"Europe","UN_region",35,39,882,361,52880297.5,100019
+"Europe","UN_region",40,44,2646,661,52269004,136563
+"Europe","UN_region",45,49,5597,1594,51520470,177067
+"Europe","UN_region",50,54,10316,3115,51639010,253159
+"Europe","UN_region",55,59,16827,5320,51453761,381801
+"Europe","UN_region",60,64,24597,8491,49746352.5,591545
+"Europe","UN_region",65,69,29337,11274,43749589,775251
+"Europe","UN_region",70,74,30809,13655,37433319,960790
+"Europe","UN_region",75,79,23298,11999,25432225,948124
+"Europe","UN_region",80,84,19246,12635,20879822.5,1372742
+"Europe","UN_region",85,999,17309,14082,19253934.5,2919147
+"Fiji","country",0,4,0,0,83818.5,472
+"Fiji","country",5,9,0,0,86779.5,35
+"Fiji","country",10,14,0,0,84103.5,33
+"Fiji","country",15,19,0,0,79674,50
+"Fiji","country",20,24,0,0,73633,68
+"Fiji","country",25,29,0,0,74120,83
+"Fiji","country",30,34,0,0,71912,107
+"Fiji","country",35,39,1,1,69448.5,166
+"Fiji","country",40,44,2,0,63253.5,248
+"Fiji","country",45,49,2,2,50334.5,364
+"Fiji","country",50,54,6,3,46185,590
+"Fiji","country",55,59,3,1,43678.5,850
+"Fiji","country",60,64,9,5,35392,1130
+"Fiji","country",65,69,7,5,24667.5,1139
+"Fiji","country",70,74,6,6,15936.5,1072
+"Fiji","country",75,79,1,1,9716.5,942
+"Fiji","country",80,84,2,2,4721,689
+"Fiji","country",85,999,3,3,2048,512
+"Finland","country",0,4,0,0,240999,136
+"Finland","country",5,9,0,0,290576.5,48
+"Finland","country",10,14,0,0,316124.5,33
+"Finland","country",15,19,0,0,305785.5,122
+"Finland","country",20,24,1,0,304577,176
+"Finland","country",25,29,1,0,345892.5,148
+"Finland","country",30,34,6,0,365806.5,221
+"Finland","country",35,39,7,0,363953.5,266
+"Finland","country",40,44,15,3,354106.5,409
+"Finland","country",45,49,29,5,331211,532
+"Finland","country",50,54,55,12,333095.5,1064
+"Finland","country",55,59,103,26,366958,1856
+"Finland","country",60,64,149,43,356533.5,2771
+"Finland","country",65,69,206,68,354121,4176
+"Finland","country",70,74,263,98,347982.5,7092
+"Finland","country",75,79,231,96,261162,7536
+"Finland","country",80,84,169,88,171428,10013
+"Finland","country",85,999,163,96,158986,26409
+"France","country",0,4,0,0,3418480.5,3078
+"France","country",5,9,0,0,3806780.5,324
+"France","country",10,14,0,0,4062720,335
+"France","country",15,19,3,0,4084770,1015
+"France","country",20,24,5,1,4010343.5,1768
+"France","country",25,29,26,3,3707208.5,1821
+"France","country",30,34,70,11,3909931.5,2490
+"France","country",35,39,101,19,3977662,3745
+"France","country",40,44,257,41,4162128,5459
+"France","country",45,49,492,86,4203534.5,8546
+"France","country",50,54,887,164,4339649.5,14585
+"France","country",55,59,1353,265,4306163.5,20336
+"France","country",60,64,1872,370,4119683.5,30279
+"France","country",65,69,2391,551,3859940,42095
+"France","country",70,74,2954,862,3659763,61837
+"France","country",75,79,2364,881,2589875.5,67818
+"France","country",80,84,1696,884,1770103.5,76274
+"France","country",85,999,2142,1486,2288671,316992
+"French Guiana","country",0,4,0,0,32410,83
+"French Guiana","country",5,9,0,0,30496.5,0
+"French Guiana","country",10,14,0,0,30868,5
+"French Guiana","country",15,19,0,0,28580.5,12
+"French Guiana","country",20,24,0,0,22093,8
+"French Guiana","country",25,29,0,0,19280,26
+"French Guiana","country",30,34,0,0,20361,17
+"French Guiana","country",35,39,0,0,20435.5,24
+"French Guiana","country",40,44,0,0,18520.5,46
+"French Guiana","country",45,49,1,0,16324.5,49
+"French Guiana","country",50,54,1,0,15301.5,61
+"French Guiana","country",55,59,3,2,13281,68
+"French Guiana","country",60,64,1,0,10560.5,97
+"French Guiana","country",65,69,2,0,7561,122
+"French Guiana","country",70,74,1,0,5365.5,165
+"French Guiana","country",75,79,1,2,3442.5,197
+"French Guiana","country",80,84,1,2,1964.5,189
+"French Guiana","country",85,999,0,0,1460,282
+"French Polynesia","country",0,4,0,0,15722.5,20
+"French Polynesia","country",5,9,0,0,19457.5,2
+"French Polynesia","country",10,14,0,0,21776,2
+"French Polynesia","country",15,19,0,0,21565.5,3
+"French Polynesia","country",20,24,0,0,20508,5
+"French Polynesia","country",25,29,0,0,18671,4
+"French Polynesia","country",30,34,0,0,21763.5,6
+"French Polynesia","country",35,39,0,0,22212.5,8
+"French Polynesia","country",40,44,0,0,20176.5,11
+"French Polynesia","country",45,49,0,0,19352.5,19
+"French Polynesia","country",50,54,2,0,19286,32
+"French Polynesia","country",55,59,2,0,17500.5,51
+"French Polynesia","country",60,64,2,0,13864,67
+"French Polynesia","country",65,69,3,1,11010.5,97
+"French Polynesia","country",70,74,3,3,7240,116
+"French Polynesia","country",75,79,4,4,5080,146
+"French Polynesia","country",80,84,2,2,3067.5,162
+"French Polynesia","country",85,999,2,0,2124,239
+"Gabon","country",0,4,0,0,329181.5,2648
+"Gabon","country",5,9,0,0,300719,250
+"Gabon","country",10,14,0,0,263978,175
+"Gabon","country",15,19,0,0,221651.5,254
+"Gabon","country",20,24,1,0,197421.5,331
+"Gabon","country",25,29,0,0,191072,392
+"Gabon","country",30,34,2,2,189613,495
+"Gabon","country",35,39,2,2,172755.5,620
+"Gabon","country",40,44,2,2,144480.5,729
+"Gabon","country",45,49,2,0,114190.5,818
+"Gabon","country",50,54,2,0,88432,914
+"Gabon","country",55,59,4,2,68110.5,993
+"Gabon","country",60,64,5,4,51636,1118
+"Gabon","country",65,69,1,1,37958.5,1217
+"Gabon","country",70,74,2,2,26754.5,1287
+"Gabon","country",75,79,2,0,17153,1249
+"Gabon","country",80,84,1,0,9692.5,1097
+"Gabon","country",85,999,0,0,5947,1260
+"Gambia","country",0,4,0,0,379502.5,3660
+"Gambia","country",5,9,0,0,370277.5,979
+"Gambia","country",10,14,0,0,336034,542
+"Gambia","country",15,19,0,0,286528,661
+"Gambia","country",20,24,0,0,246819.5,784
+"Gambia","country",25,29,2,2,218761.5,769
+"Gambia","country",30,34,2,2,181481,711
+"Gambia","country",35,39,2,2,142230,645
+"Gambia","country",40,44,2,2,107375.5,621
+"Gambia","country",45,49,1,1,87860,632
+"Gambia","country",50,54,2,1,80889,823
+"Gambia","country",55,59,2,2,70031.5,943
+"Gambia","country",60,64,2,2,52491.5,1064
+"Gambia","country",65,69,1,1,33845,1069
+"Gambia","country",70,74,3,2,19949,1009
+"Gambia","country",75,79,3,3,13265,1075
+"Gambia","country",80,84,1,1,6242,816
+"Gambia","country",85,999,0,0,2887.5,688
+"Georgia","country",0,4,0,0,252515,425
+"Georgia","country",5,9,0,0,289273,42
+"Georgia","country",10,14,0,0,262599.5,48
+"Georgia","country",15,19,0,0,214060,96
+"Georgia","country",20,24,0,0,212314.5,171
+"Georgia","country",25,29,1,0,233531,210
+"Georgia","country",30,34,1,1,282709,335
+"Georgia","country",35,39,0,1,279382,499
+"Georgia","country",40,44,5,3,251000.5,776
+"Georgia","country",45,49,15,6,237675,1142
+"Georgia","country",50,54,29,13,227634,1644
+"Georgia","country",55,59,53,26,237840,2658
+"Georgia","country",60,64,82,39,241734,3916
+"Georgia","country",65,69,104,45,196550,4780
+"Georgia","country",70,74,101,54,153615,5786
+"Georgia","country",75,79,70,49,82923,4798
+"Georgia","country",80,84,57,45,81143,8455
+"Georgia","country",85,999,39,36,58285,10557
+"Germany","country",0,4,0,0,3963211,2938
+"Germany","country",5,9,0,0,3956549,384
+"Germany","country",10,14,0,0,3778762.5,353
+"Germany","country",15,19,2,0,3827410.5,819
+"Germany","country",20,24,13,0,4415607.5,1259
+"Germany","country",25,29,23,0,4884908.5,1690
+"Germany","country",30,34,22,10,5546110.5,2795
+"Germany","country",35,39,62,19,5411100.5,4451
+"Germany","country",40,44,221,52,5240161.5,6491
+"Germany","country",45,49,457,116,4918280.5,9340
+"Germany","country",50,54,1088,293,6161074.5,20374
+"Germany","country",55,59,2018,573,6932319.5,39581
+"Germany","country",60,64,2624,769,6165884,58010
+"Germany","country",65,69,2917,953,5080993,72502
+"Germany","country",70,74,3265,1188,4306883.5,94515
+"Germany","country",75,79,2876,1270,3228586,105026
+"Germany","country",80,84,3390,1845,3466314.5,221548
+"Germany","country",85,999,2957,1765,2802070,440684
+"Ghana","country",0,4,0,0,4204477.5,37244
+"Ghana","country",5,9,0,0,4140784.5,11631
+"Ghana","country",10,14,0,0,3763835,6494
+"Ghana","country",15,19,0,0,3380325,8195
+"Ghana","country",20,24,7,10,2959281.5,9878
+"Ghana","country",25,29,25,7,2615020,9537
+"Ghana","country",30,34,34,13,2430647,9686
+"Ghana","country",35,39,38,18,2188742.5,9862
+"Ghana","country",40,44,43,27,1847685,10380
+"Ghana","country",45,49,48,33,1488872.5,10191
+"Ghana","country",50,54,62,37,1226375.5,11833
+"Ghana","country",55,59,66,40,998618.5,12863
+"Ghana","country",60,64,53,37,723879.5,14103
+"Ghana","country",65,69,37,34,484160.5,14832
+"Ghana","country",70,74,32,30,325155.5,15956
+"Ghana","country",75,79,22,21,202111.5,15994
+"Ghana","country",80,84,11,11,114572,14547
+"Ghana","country",85,999,5,5,54608.5,11972
+"Greece","country",0,4,0,0,417714.5,407
+"Greece","country",5,9,0,0,480464.5,67
+"Greece","country",10,14,0,0,543767,74
+"Greece","country",15,19,0,0,526900,146
+"Greece","country",20,24,0,0,527188.5,241
+"Greece","country",25,29,0,0,525934,289
+"Greece","country",30,34,1,0,558433.5,407
+"Greece","country",35,39,4,1,632413.5,602
+"Greece","country",40,44,8,2,773557,1116
+"Greece","country",45,49,25,5,785379,1779
+"Greece","country",50,54,50,12,800273.5,3054
+"Greece","country",55,59,77,19,733482.5,4334
+"Greece","country",60,64,109,28,688343.5,6436
+"Greece","country",65,69,146,42,621442,8566
+"Greece","country",70,74,182,63,561825,12628
+"Greece","country",75,79,188,75,464861,17317
+"Greece","country",80,84,156,87,364208,24169
+"Greece","country",85,999,154,122,406293,64898
+"Guadeloupe","country",0,4,0,0,19504.5,41
+"Guadeloupe","country",5,9,0,0,21154.5,1
+"Guadeloupe","country",10,14,0,0,23968.5,1
+"Guadeloupe","country",15,19,0,0,25341.5,8
+"Guadeloupe","country",20,24,0,0,19353.5,11
+"Guadeloupe","country",25,29,0,0,16497.5,12
+"Guadeloupe","country",30,34,0,0,18896,29
+"Guadeloupe","country",35,39,0,0,18967.5,33
+"Guadeloupe","country",40,44,2,0,20318.5,28
+"Guadeloupe","country",45,49,3,1,25386,70
+"Guadeloupe","country",50,54,5,1,29126.5,110
+"Guadeloupe","country",55,59,8,1,31776.5,189
+"Guadeloupe","country",60,64,9,2,29609.5,263
+"Guadeloupe","country",65,69,9,3,25762.5,315
+"Guadeloupe","country",70,74,8,2,22285,452
+"Guadeloupe","country",75,79,8,5,15403.5,426
+"Guadeloupe","country",80,84,4,4,9960.5,527
+"Guadeloupe","country",85,999,3,3,11385.5,1363
+"Guam","country",0,4,0,0,14905,39
+"Guam","country",5,9,0,0,14837,1
+"Guam","country",10,14,0,0,13183.5,3
+"Guam","country",15,19,0,0,11852.5,8
+"Guam","country",20,24,0,0,11707.5,12
+"Guam","country",25,29,0,0,11710,17
+"Guam","country",30,34,0,0,10596.5,17
+"Guam","country",35,39,0,0,9571,27
+"Guam","country",40,44,0,0,9124,29
+"Guam","country",45,49,1,0,9606.5,44
+"Guam","country",50,54,2,2,10137,75
+"Guam","country",55,59,2,0,9916,99
+"Guam","country",60,64,2,2,8804.5,115
+"Guam","country",65,69,2,2,7073,126
+"Guam","country",70,74,2,0,5477,127
+"Guam","country",75,79,2,0,3305,118
+"Guam","country",80,84,1,1,1857.5,99
+"Guam","country",85,999,0,0,1516.5,155
+"Guatemala","country",0,4,0,0,1911305.5,8382
+"Guatemala","country",5,9,0,0,2004499.5,614
+"Guatemala","country",10,14,0,0,1922954.5,727
+"Guatemala","country",15,19,0,0,1890324.5,2123
+"Guatemala","country",20,24,0,0,1815964.5,2933
+"Guatemala","country",25,29,1,0,1651462.5,2901
+"Guatemala","country",30,34,2,1,1435470.5,3032
+"Guatemala","country",35,39,4,2,1185223,3351
+"Guatemala","country",40,44,5,1,964246.5,3916
+"Guatemala","country",45,49,8,7,750950.5,4253
+"Guatemala","country",50,54,7,4,594903,4770
+"Guatemala","country",55,59,6,4,489887,6109
+"Guatemala","country",60,64,8,4,404348,6911
+"Guatemala","country",65,69,10,6,324273,7998
+"Guatemala","country",70,74,9,6,230722,8368
+"Guatemala","country",75,79,4,4,148739.5,9263
+"Guatemala","country",80,84,6,3,79857,9099
+"Guatemala","country",85,999,10,7,42746,9496
+"Guinea","country",0,4,0,0,2166367.5,45619
+"Guinea","country",5,9,0,0,1937394,6920
+"Guinea","country",10,14,3,2,1738921,3597
+"Guinea","country",15,19,1,1,1517856,4203
+"Guinea","country",20,24,1,1,1349283,5042
+"Guinea","country",25,29,6,5,1184417.5,4858
+"Guinea","country",30,34,5,4,959940.5,4331
+"Guinea","country",35,39,5,4,732627.5,3737
+"Guinea","country",40,44,5,4,557187.5,3477
+"Guinea","country",45,49,5,3,455008.5,3407
+"Guinea","country",50,54,5,3,389435.5,4032
+"Guinea","country",55,59,7,5,326469.5,4523
+"Guinea","country",60,64,10,7,257991.5,5404
+"Guinea","country",65,69,12,9,192764.5,6298
+"Guinea","country",70,74,11,8,136324,7109
+"Guinea","country",75,79,7,5,85882.5,7147
+"Guinea","country",80,84,4,4,45414.5,6031
+"Guinea","country",85,999,2,2,21852,4984
+"Guinea-Bissau","country",0,4,0,0,294521,4573
+"Guinea-Bissau","country",5,9,0,0,282159.5,458
+"Guinea-Bissau","country",10,14,0,0,259314.5,304
+"Guinea-Bissau","country",15,19,0,0,228133.5,397
+"Guinea-Bissau","country",20,24,0,0,197514.5,486
+"Guinea-Bissau","country",25,29,0,0,171049,498
+"Guinea-Bissau","country",30,34,1,0,146603,517
+"Guinea-Bissau","country",35,39,2,0,126559,569
+"Guinea-Bissau","country",40,44,2,0,103445.5,602
+"Guinea-Bissau","country",45,49,2,2,85573,656
+"Guinea-Bissau","country",50,54,2,2,62966,671
+"Guinea-Bissau","country",55,59,2,2,45699,675
+"Guinea-Bissau","country",60,64,2,2,36924.5,814
+"Guinea-Bissau","country",65,69,2,2,28660,960
+"Guinea-Bissau","country",70,74,2,2,18778.5,996
+"Guinea-Bissau","country",75,79,1,1,10169.5,849
+"Guinea-Bissau","country",80,84,0,0,4954.5,640
+"Guinea-Bissau","country",85,999,0,0,2504.5,543
+"Guyana","country",0,4,0,0,83242.5,453
+"Guyana","country",5,9,0,0,81340.5,19
+"Guyana","country",10,14,0,0,77003,24
+"Guyana","country",15,19,0,0,71446,51
+"Guyana","country",20,24,0,0,77270.5,106
+"Guyana","country",25,29,0,0,74640,141
+"Guyana","country",30,34,0,0,58622.5,145
+"Guyana","country",35,39,0,0,47462,153
+"Guyana","country",40,44,0,0,46025,215
+"Guyana","country",45,49,0,0,45191,305
+"Guyana","country",50,54,0,0,41633,431
+"Guyana","country",55,59,4,2,36633.5,547
+"Guyana","country",60,64,0,0,30001.5,662
+"Guyana","country",65,69,4,2,20991,685
+"Guyana","country",70,74,0,0,13914.5,626
+"Guyana","country",75,79,2,2,8473,530
+"Guyana","country",80,84,1,1,4589.5,430
+"Guyana","country",85,999,1,1,3158,482
+"Haiti","country",0,4,0,0,1240434.5,14892
+"Haiti","country",5,9,0,0,1227060.5,1656
+"Haiti","country",10,14,0,0,1205893,1298
+"Haiti","country",15,19,1,1,1147683,2021
+"Haiti","country",20,24,3,0,1089148,2796
+"Haiti","country",25,29,2,1,1011278,2869
+"Haiti","country",30,34,4,1,928854,3035
+"Haiti","country",35,39,6,3,792411.5,3261
+"Haiti","country",40,44,6,3,666210.5,3699
+"Haiti","country",45,49,15,13,555349.5,4344
+"Haiti","country",50,54,15,2,452819.5,5118
+"Haiti","country",55,59,20,3,371030.5,6099
+"Haiti","country",60,64,22,4,293087,7227
+"Haiti","country",65,69,21,15,220801.5,8323
+"Haiti","country",70,74,37,25,149498.5,8847
+"Haiti","country",75,79,5,2,90364.5,8496
+"Haiti","country",80,84,4,1,44302.5,6661
+"Haiti","country",85,999,8,0,17379.5,4518
+"Honduras","country",0,4,0,0,1130878.5,3711
+"Honduras","country",5,9,0,0,1084632.5,382
+"Honduras","country",10,14,0,0,1068718.5,365
+"Honduras","country",15,19,2,0,1064510.5,874
+"Honduras","country",20,24,2,1,1042852.5,1161
+"Honduras","country",25,29,2,0,954283.5,1122
+"Honduras","country",30,34,4,9,841857,1183
+"Honduras","country",35,39,5,10,740315,1417
+"Honduras","country",40,44,10,8,642352.5,1809
+"Honduras","country",45,49,13,9,513336.5,2251
+"Honduras","country",50,54,17,6,394424.5,2698
+"Honduras","country",55,59,29,7,306573,3259
+"Honduras","country",60,64,20,1,243144.5,4049
+"Honduras","country",65,69,19,13,187552,4935
+"Honduras","country",70,74,23,4,128128,5368
+"Honduras","country",75,79,8,6,68327,4649
+"Honduras","country",80,84,10,4,34301,3775
+"Honduras","country",85,999,10,4,17685,3477
+"Hungary","country",0,4,0,0,466950.5,381
+"Hungary","country",5,9,0,0,467798,59
+"Hungary","country",10,14,0,0,474375,59
+"Hungary","country",15,19,0,0,492746,127
+"Hungary","country",20,24,1,0,509365,202
+"Hungary","country",25,29,4,0,600186,300
+"Hungary","country",30,34,8,1,633153,411
+"Hungary","country",35,39,11,4,619777.5,636
+"Hungary","country",40,44,66,18,742596,1263
+"Hungary","country",45,49,168,53,829767.5,2662
+"Hungary","country",50,54,269,88,703505.5,4475
+"Hungary","country",55,59,354,121,579286,6516
+"Hungary","country",60,64,478,187,569100.5,9901
+"Hungary","country",65,69,671,292,655609,15927
+"Hungary","country",70,74,577,292,519427,17025
+"Hungary","country",75,79,420,258,372567.5,18834
+"Hungary","country",80,84,269,205,251057,20952
+"Hungary","country",85,999,191,192,197038.5,34109
+"Iceland","country",0,4,0,0,22916,7
+"Iceland","country",5,9,0,0,22342.5,1
+"Iceland","country",10,14,0,0,24644.5,0
+"Iceland","country",15,19,0,0,23439.5,0
+"Iceland","country",20,24,0,0,25539.5,11
+"Iceland","country",25,29,0,0,30629,11
+"Iceland","country",30,34,0,0,31267,11
+"Iceland","country",35,39,1,0,26873,0
+"Iceland","country",40,44,2,0,25830,8
+"Iceland","country",45,49,3,0,23979,64
+"Iceland","country",50,54,3,0,21980,93
+"Iceland","country",55,59,8,0,22384,149
+"Iceland","country",60,64,5,0,21056,266
+"Iceland","country",65,69,7,2,18373.5,211
+"Iceland","country",70,74,8,1,14913.5,258
+"Iceland","country",75,79,6,2,10878,300
+"Iceland","country",80,84,7,2,6662,268
+"Iceland","country",85,999,5,2,6648.5,1165
+"India","country",0,4,0,0,115769541,682130
+"India","country",5,9,0,0,121058308.5,55632
+"India","country",10,14,16,7,126479798,48585
+"India","country",15,19,99,54,129366254,83282
+"India","country",20,24,353,190,128941119,114347
+"India","country",25,29,682,375,122842521.5,144624
+"India","country",30,34,954,526,116819480.5,170842
+"India","country",35,39,1088,599,108009909,222619
+"India","country",40,44,1527,688,94728197.5,296483
+"India","country",45,49,2202,1203,82869033,367196
+"India","country",50,54,2973,1793,71585747.5,498285
+"India","country",55,59,3928,2400,60985613.5,771441
+"India","country",60,64,4638,2705,50478592,926966
+"India","country",65,69,4636,2530,39417348,1114600
+"India","country",70,74,3483,1952,26322950,1117473
+"India","country",75,79,2184,1325,15353554,996245
+"India","country",80,84,1270,832,8753980.5,854268
+"India","country",85,999,784,559,5641265,908161
+"Indonesia","country",0,4,0,0,22488310.5,96506
+"Indonesia","country",5,9,0,0,23833942.5,11459
+"Indonesia","country",10,14,0,0,24149561.5,10906
+"Indonesia","country",15,19,26,3,22776321,23271
+"Indonesia","country",20,24,41,6,22040795,30164
+"Indonesia","country",25,29,204,63,21749592,31451
+"Indonesia","country",30,34,185,68,21010309.5,36088
+"Indonesia","country",35,39,377,151,20977656.5,48564
+"Indonesia","country",40,44,762,292,20335480,67601
+"Indonesia","country",45,49,1238,519,18556556,94592
+"Indonesia","country",50,54,1830,797,16680769,130691
+"Indonesia","country",55,59,2340,1022,14121211.5,170404
+"Indonesia","country",60,64,2551,1201,11080770.5,207036
+"Indonesia","country",65,69,2315,1248,7868392,229588
+"Indonesia","country",70,74,1701,1113,5007775.5,232440
+"Indonesia","country",75,79,1243,951,3333986,249567
+"Indonesia","country",80,84,841,726,1884437,224757
+"Indonesia","country",85,999,539,509,934662.5,193792
+"Iran","country",0,4,0,0,6478845.5,14901
+"Iran","country",5,9,0,0,7569643.5,2747
+"Iran","country",10,14,0,5,6740149.5,2685
+"Iran","country",15,19,7,3,6009730.5,5444
+"Iran","country",20,24,8,1,5759808.5,5948
+"Iran","country",25,29,36,6,6606018.5,6312
+"Iran","country",30,34,89,39,8536793.5,9138
+"Iran","country",35,39,191,69,9073392,11494
+"Iran","country",40,44,281,54,7532131.5,12742
+"Iran","country",45,49,337,85,5844543,14454
+"Iran","country",50,54,426,134,5056731,18765
+"Iran","country",55,59,507,181,4051849,23930
+"Iran","country",60,64,554,230,3434805.5,32108
+"Iran","country",65,69,531,241,2668052,36316
+"Iran","country",70,74,389,215,2017867,50321
+"Iran","country",75,79,252,186,1175547,61517
+"Iran","country",80,84,158,159,648033.5,66849
+"Iran","country",85,999,114,158,320305.5,62690
+"Iraq","country",0,4,0,0,5514478,27054
+"Iraq","country",5,9,0,0,5737283,2757
+"Iraq","country",10,14,0,0,5313058,2111
+"Iraq","country",15,19,0,0,4541497,3338
+"Iraq","country",20,24,20,8,4114944,4374
+"Iraq","country",25,29,26,3,3672312.5,4205
+"Iraq","country",30,34,31,16,3147032.5,4157
+"Iraq","country",35,39,45,29,2635369,4527
+"Iraq","country",40,44,64,39,2282231.5,5720
+"Iraq","country",45,49,83,50,1981238,7943
+"Iraq","country",50,54,102,60,1625921,10276
+"Iraq","country",55,59,99,57,1256771,12715
+"Iraq","country",60,64,85,50,751072,11922
+"Iraq","country",65,69,95,57,629419,16852
+"Iraq","country",70,74,76,52,430093,18905
+"Iraq","country",75,79,50,39,254214.5,18780
+"Iraq","country",80,84,34,31,128843.5,15925
+"Iraq","country",85,999,20,20,54773.5,11967
+"Ireland","country",0,4,0,0,299501.5,185
+"Ireland","country",5,9,0,0,330574,21
+"Ireland","country",10,14,0,0,364118,22
+"Ireland","country",15,19,0,0,335976.5,62
+"Ireland","country",20,24,0,0,324624,90
+"Ireland","country",25,29,2,0,300013.5,137
+"Ireland","country",30,34,2,0,314934.5,174
+"Ireland","country",35,39,7,3,363711,256
+"Ireland","country",40,44,22,10,410412,451
+"Ireland","country",45,49,41,16,375933.5,610
+"Ireland","country",50,54,70,28,336772.5,887
+"Ireland","country",55,59,105,42,304580,1316
+"Ireland","country",60,64,140,62,274087,1841
+"Ireland","country",65,69,161,88,237446.5,2524
+"Ireland","country",70,74,162,122,200263.5,3702
+"Ireland","country",75,79,166,137,153662,4816
+"Ireland","country",80,84,122,122,96570.5,5636
+"Ireland","country",85,999,148,144,86835,12413
+"Israel","country",0,4,0,0,877830,596
+"Israel","country",5,9,0,0,858255.5,67
+"Israel","country",10,14,0,0,794912,70
+"Israel","country",15,19,1,0,720634.5,145
+"Israel","country",20,24,2,0,671719,240
+"Israel","country",25,29,1,0,617825,238
+"Israel","country",30,34,9,1,592267,248
+"Israel","country",35,39,25,3,575288,349
+"Israel","country",40,44,44,4,544491.5,463
+"Israel","country",45,49,68,8,524031.5,718
+"Israel","country",50,54,85,11,452402,999
+"Israel","country",55,59,95,15,388320,1499
+"Israel","country",60,64,108,20,365211,2280
+"Israel","country",65,69,111,28,340751.5,3598
+"Israel","country",70,74,92,37,306142,5156
+"Israel","country",75,79,66,40,201808,5583
+"Israel","country",80,84,48,41,132362,7650
+"Israel","country",85,999,70,73,138900.5,19783
+"Italy","country",0,4,0,0,2120216,1530
+"Italy","country",5,9,0,0,2478651,288
+"Italy","country",10,14,0,0,2787810.5,349
+"Italy","country",15,19,2,0,2882807.5,744
+"Italy","country",20,24,6,0,3006490,1053
+"Italy","country",25,29,13,1,3100325,1336
+"Italy","country",30,34,28,7,3350014,1755
+"Italy","country",35,39,80,16,3405321,2457
+"Italy","country",40,44,203,38,3884577.5,4300
+"Italy","country",45,49,450,85,4575178.5,7878
+"Italy","country",50,54,768,155,4817796.5,13045
+"Italy","country",55,59,1099,234,4786134,20619
+"Italy","country",60,64,1357,292,4157422,28351
+"Italy","country",65,69,1740,424,3595544,40160
+"Italy","country",70,74,2377,705,3368478.5,62903
+"Italy","country",75,79,2309,867,2712244,81609
+"Italy","country",80,84,2130,1080,2292983,122883
+"Italy","country",85,999,2137,1408,2297121.5,350405
+"Jamaica","country",0,4,0,0,167373,654
+"Jamaica","country",5,9,0,0,181180.5,62
+"Jamaica","country",10,14,0,0,207346.5,67
+"Jamaica","country",15,19,1,0,232659,174
+"Jamaica","country",20,24,2,1,245797.5,280
+"Jamaica","country",25,29,3,0,271606.5,360
+"Jamaica","country",30,34,2,4,252587.5,414
+"Jamaica","country",35,39,3,2,234589.5,530
+"Jamaica","country",40,44,5,2,203902.5,675
+"Jamaica","country",45,49,9,3,183150.5,933
+"Jamaica","country",50,54,17,6,164052.5,1286
+"Jamaica","country",55,59,23,11,152787.5,1816
+"Jamaica","country",60,64,26,15,128121.5,2342
+"Jamaica","country",65,69,24,17,86485.5,2445
+"Jamaica","country",70,74,23,14,55318,2514
+"Jamaica","country",75,79,17,13,40088.5,2948
+"Jamaica","country",80,84,12,10,20494.5,2412
+"Jamaica","country",85,999,10,11,11603,2533
+"Japan","country",0,4,0,0,4294069.5,1855
+"Japan","country",5,9,0,0,5059642,324
+"Japan","country",10,14,0,0,5469671.5,441
+"Japan","country",15,19,0,0,5714785.5,1325
+"Japan","country",20,24,10,1,6072917.5,2214
+"Japan","country",25,29,136,11,6042187,2288
+"Japan","country",30,34,0,15,6234500.5,2872
+"Japan","country",35,39,137,74,7018543.5,4429
+"Japan","country",40,44,435,75,7884941.5,7361
+"Japan","country",45,49,1163,218,9628323,14261
+"Japan","country",50,54,2322,467,9417991.5,22270
+"Japan","country",55,59,3553,804,7916157,29036
+"Japan","country",60,64,5109,1225,7491251,43174
+"Japan","country",65,69,6815,1786,7595657.5,69510
+"Japan","country",70,74,8195,2563,9259720,139623
+"Japan","country",75,79,7648,2910,7396998,180545
+"Japan","country",80,84,5835,2823,5912446,258932
+"Japan","country",85,999,7085,4364,6587775.5,834841
+"Jordan","country",0,4,0,0,1166809,3337
+"Jordan","country",5,9,0,0,1198916,252
+"Jordan","country",10,14,0,0,1219741,213
+"Jordan","country",15,19,0,0,1073682.5,352
+"Jordan","country",20,24,2,0,980401.5,456
+"Jordan","country",25,29,3,3,1005695.5,516
+"Jordan","country",30,34,10,4,893971.5,541
+"Jordan","country",35,39,21,9,780946,641
+"Jordan","country",40,44,31,14,674010.5,862
+"Jordan","country",45,49,41,19,590117.5,1322
+"Jordan","country",50,54,49,24,516153.5,1940
+"Jordan","country",55,59,48,24,405191,2602
+"Jordan","country",60,64,40,20,284384.5,2972
+"Jordan","country",65,69,31,16,193246.5,3486
+"Jordan","country",70,74,24,14,128416,4011
+"Jordan","country",75,79,19,13,77816.5,4143
+"Jordan","country",80,84,13,10,44496.5,4115
+"Jordan","country",85,999,8,8,22268,3847
+"Kazakhstan","country",0,4,0,0,2124540.5,4102
+"Kazakhstan","country",5,9,0,0,1985372,517
+"Kazakhstan","country",10,14,0,0,1825646,519
+"Kazakhstan","country",15,19,0,0,1413957,826
+"Kazakhstan","country",20,24,2,2,1178785,911
+"Kazakhstan","country",25,29,5,2,1381609.5,1483
+"Kazakhstan","country",30,34,29,10,1609643.5,2618
+"Kazakhstan","country",35,39,11,13,1502845,3656
+"Kazakhstan","country",40,44,25,19,1282070.5,5253
+"Kazakhstan","country",45,49,65,38,1164424.5,6468
+"Kazakhstan","country",50,54,115,62,1052269,8113
+"Kazakhstan","country",55,59,215,110,996608,11120
+"Kazakhstan","country",60,64,301,161,916991.5,15487
+"Kazakhstan","country",65,69,317,160,685777.5,17558
+"Kazakhstan","country",70,74,224,111,440706,17314
+"Kazakhstan","country",75,79,122,62,183637.5,10731
+"Kazakhstan","country",80,84,98,52,182292,16641
+"Kazakhstan","country",85,999,48,32,107434,16761
+"Kenya","country",0,4,0,0,6981963,61102
+"Kenya","country",5,9,0,0,6808044,6360
+"Kenya","country",10,14,0,0,6864580.5,5613
+"Kenya","country",15,19,3,2,6161637,9639
+"Kenya","country",20,24,10,6,5233066,13666
+"Kenya","country",25,29,15,23,4420907.5,16474
+"Kenya","country",30,34,55,16,3966112.5,20198
+"Kenya","country",35,39,32,9,3374913,23328
+"Kenya","country",40,44,68,40,2714711.5,24383
+"Kenya","country",45,49,105,65,2165159,25316
+"Kenya","country",50,54,130,88,1729985,26557
+"Kenya","country",55,59,156,106,1329550,26661
+"Kenya","country",60,64,161,104,948084.5,26392
+"Kenya","country",65,69,124,86,618981,23549
+"Kenya","country",70,74,72,65,401005,20804
+"Kenya","country",75,79,49,50,251719,17966
+"Kenya","country",80,84,36,36,148506,15587
+"Kenya","country",85,999,28,28,133536,27679
+"Kuwait","country",0,4,0,0,271172.5,436
+"Kuwait","country",5,9,0,0,309117,47
+"Kuwait","country",10,14,0,0,301626.5,59
+"Kuwait","country",15,19,0,0,250254,82
+"Kuwait","country",20,24,0,0,234054.5,107
+"Kuwait","country",25,29,1,0,457525.5,170
+"Kuwait","country",30,34,3,0,531083,231
+"Kuwait","country",35,39,3,1,586790.5,299
+"Kuwait","country",40,44,7,4,523308.5,382
+"Kuwait","country",45,49,14,6,400840,464
+"Kuwait","country",50,54,19,9,297526,569
+"Kuwait","country",55,59,24,11,193655,627
+"Kuwait","country",60,64,24,11,106503,646
+"Kuwait","country",65,69,19,8,59703.5,698
+"Kuwait","country",70,74,9,5,31734,789
+"Kuwait","country",75,79,5,3,18391.5,971
+"Kuwait","country",80,84,3,2,10479.5,1240
+"Kuwait","country",85,999,1,1,5746,1174
+"Kyrgyzstan","country",0,4,0,0,803071.5,2680
+"Kyrgyzstan","country",5,9,0,0,783383,191
+"Kyrgyzstan","country",10,14,0,0,703536.5,235
+"Kyrgyzstan","country",15,19,0,0,561674,304
+"Kyrgyzstan","country",20,24,0,1,520631.5,379
+"Kyrgyzstan","country",25,29,3,2,555740,458
+"Kyrgyzstan","country",30,34,7,2,555476.5,711
+"Kyrgyzstan","country",35,39,5,6,479521.5,1130
+"Kyrgyzstan","country",40,44,6,4,401803.5,1596
+"Kyrgyzstan","country",45,49,10,6,351933.5,1934
+"Kyrgyzstan","country",50,54,15,10,324369.5,2505
+"Kyrgyzstan","country",55,59,24,16,296935.5,3526
+"Kyrgyzstan","country",60,64,37,22,256055,4652
+"Kyrgyzstan","country",65,69,41,27,169790.5,4827
+"Kyrgyzstan","country",70,74,30,22,101716,4425
+"Kyrgyzstan","country",75,79,15,12,37627.5,3169
+"Kyrgyzstan","country",80,84,12,8,33657,4332
+"Kyrgyzstan","country",85,999,14,9,18865.5,4508
+"Laos","country",0,4,0,0,799582.5,6642
+"Laos","country",5,9,0,0,785427,604
+"Laos","country",10,14,0,0,752002,469
+"Laos","country",15,19,0,0,726122,773
+"Laos","country",20,24,0,0,720223,1086
+"Laos","country",25,29,7,2,677603.5,1104
+"Laos","country",30,34,7,2,630800,1191
+"Laos","country",35,39,11,5,547129,1333
+"Laos","country",40,44,19,9,446377.5,1532
+"Laos","country",45,49,29,14,368825.5,1918
+"Laos","country",50,54,39,19,307824,2448
+"Laos","country",55,59,45,20,258967,3185
+"Laos","country",60,64,46,23,204235,3928
+"Laos","country",65,69,43,27,143811,4437
+"Laos","country",70,74,36,28,92215,4639
+"Laos","country",75,79,26,23,54381,4476
+"Laos","country",80,84,17,16,28511,3863
+"Laos","country",85,999,10,10,14971.5,3728
+"Latin America and the Caribbean","UN_subregion",0,4,0,0,48232609,155639
+"Latin America and the Caribbean","UN_subregion",5,9,0,0,51280124.5,14986
+"Latin America and the Caribbean","UN_subregion",10,14,20,2,52295706,16802
+"Latin America and the Caribbean","UN_subregion",15,19,52,11,52762177.5,50732
+"Latin America and the Caribbean","UN_subregion",20,24,144,41,53479091.5,80001
+"Latin America and the Caribbean","UN_subregion",25,29,329,83,52642392,86356
+"Latin America and the Caribbean","UN_subregion",30,34,391,234,51031366,92938
+"Latin America and the Caribbean","UN_subregion",35,39,775,305,48557250.5,108766
+"Latin America and the Caribbean","UN_subregion",40,44,1506,475,44934585.5,132952
+"Latin America and the Caribbean","UN_subregion",45,49,2425,782,40586348.5,165892
+"Latin America and the Caribbean","UN_subregion",50,54,3576,1185,36432088,215552
+"Latin America and the Caribbean","UN_subregion",55,59,4949,1754,32815806.5,288788
+"Latin America and the Caribbean","UN_subregion",60,64,5810,2189,27755430,362397
+"Latin America and the Caribbean","UN_subregion",65,69,6052,2494,21858406,423531
+"Latin America and the Caribbean","UN_subregion",70,74,5569,2465,16191538.5,471821
+"Latin America and the Caribbean","UN_subregion",75,79,4470,2214,10874382.5,524317
+"Latin America and the Caribbean","UN_subregion",80,84,3395,1885,6662389,551709
+"Latin America and the Caribbean","UN_subregion",85,999,3503,2179,4881693.5,869884
+"Latvia","country",0,4,0,0,91657.5,73
+"Latvia","country",5,9,0,0,107656.5,10
+"Latvia","country",10,14,0,0,100264,13
+"Latvia","country",15,19,0,0,95457,46
+"Latvia","country",20,24,0,0,85130.5,66
+"Latvia","country",25,29,0,0,94749.5,96
+"Latvia","country",30,34,0,0,131564.5,194
+"Latvia","country",35,39,1,0,136827.5,295
+"Latvia","country",40,44,3,0,122750,471
+"Latvia","country",45,49,10,3,127447.5,646
+"Latvia","country",50,54,20,8,129301.5,975
+"Latvia","country",55,59,35,16,127922,1474
+"Latvia","country",60,64,63,30,135090.5,2170
+"Latvia","country",65,69,80,39,113443,2676
+"Latvia","country",70,74,87,48,96800,3268
+"Latvia","country",75,79,70,47,69837.5,3419
+"Latvia","country",80,84,65,56,65256.5,5191
+"Latvia","country",85,999,50,50,49907.5,8780
+"Lebanon","country",0,4,0,0,456425,1631
+"Lebanon","country",5,9,0,0,547241,108
+"Lebanon","country",10,14,0,0,557995,92
+"Lebanon","country",15,19,0,0,511014,160
+"Lebanon","country",20,24,0,0,467880.5,210
+"Lebanon","country",25,29,3,0,397464.5,188
+"Lebanon","country",30,34,3,1,356310.5,197
+"Lebanon","country",35,39,9,4,360593,266
+"Lebanon","country",40,44,15,6,343990.5,385
+"Lebanon","country",45,49,22,9,318673.5,614
+"Lebanon","country",50,54,29,14,326954.5,1052
+"Lebanon","country",55,59,34,18,302226,1661
+"Lebanon","country",60,64,37,19,251220.5,2264
+"Lebanon","country",65,69,38,18,195710.5,3101
+"Lebanon","country",70,74,29,16,150076,4224
+"Lebanon","country",75,79,19,13,97140.5,4587
+"Lebanon","country",80,84,13,12,59167.5,4944
+"Lebanon","country",85,999,13,13,44405.5,7453
+"Lesotho","country",0,4,0,0,270301.5,4105
+"Lesotho","country",5,9,0,0,277730.5,371
+"Lesotho","country",10,14,0,0,258890.5,310
+"Lesotho","country",15,19,0,0,236214.5,553
+"Lesotho","country",20,24,0,0,214200,862
+"Lesotho","country",25,29,1,1,204772.5,1223
+"Lesotho","country",30,34,1,1,205211.5,1689
+"Lesotho","country",35,39,1,1,172196.5,1890
+"Lesotho","country",40,44,3,2,121094,1668
+"Lesotho","country",45,49,3,2,78913,1362
+"Lesotho","country",50,54,3,2,60440.5,1312
+"Lesotho","country",55,59,3,2,53323,1439
+"Lesotho","country",60,64,4,2,46111,1667
+"Lesotho","country",65,69,5,3,34428,1641
+"Lesotho","country",70,74,4,2,22838.5,1394
+"Lesotho","country",75,79,4,4,13887.5,1114
+"Lesotho","country",80,84,2,2,9370.5,1082
+"Lesotho","country",85,999,1,1,6187,1280
+"Liberia","country",0,4,0,0,764873.5,12149
+"Liberia","country",5,9,0,0,725650,963
+"Liberia","country",10,14,0,0,684806.5,723
+"Liberia","country",15,19,0,0,601697,1050
+"Liberia","country",20,24,0,0,494349.5,1247
+"Liberia","country",25,29,2,2,397079,1209
+"Liberia","country",30,34,2,2,341389.5,1292
+"Liberia","country",35,39,3,3,306371,1517
+"Liberia","country",40,44,3,3,262780.5,1732
+"Liberia","country",45,49,3,2,209981,1884
+"Liberia","country",50,54,4,3,167660.5,2129
+"Liberia","country",55,59,5,3,136756,2437
+"Liberia","country",60,64,5,3,105131.5,2789
+"Liberia","country",65,69,5,3,75385.5,3031
+"Liberia","country",70,74,4,2,48953,3104
+"Liberia","country",75,79,4,4,30568,3052
+"Liberia","country",80,84,2,2,14430.5,2203
+"Liberia","country",85,999,1,1,5431.5,1326
+"Libya","country",0,4,0,0,656921,1331
+"Libya","country",5,9,0,0,700398.5,176
+"Libya","country",10,14,0,0,702202.5,183
+"Libya","country",15,19,1,0,656310.5,452
+"Libya","country",20,24,1,0,579917.5,569
+"Libya","country",25,29,4,4,534722,560
+"Libya","country",30,34,6,4,525680.5,658
+"Libya","country",35,39,11,5,540056,918
+"Libya","country",40,44,22,6,564977,1422
+"Libya","country",45,49,33,12,508929,1999
+"Libya","country",50,54,41,15,414460,2535
+"Libya","country",55,59,32,14,293307.5,2782
+"Libya","country",60,64,24,12,202888.5,2985
+"Libya","country",65,69,27,14,122102,2796
+"Libya","country",70,74,32,20,97205.5,3559
+"Libya","country",75,79,35,31,63698.5,3861
+"Libya","country",80,84,32,38,37509,3767
+"Libya","country",85,999,25,38,22519,4183
+"Lithuania","country",0,4,0,0,132148,91
+"Lithuania","country",5,9,0,0,149498,24
+"Lithuania","country",10,14,0,0,142271.5,22
+"Lithuania","country",15,19,0,0,132486,67
+"Lithuania","country",20,24,0,0,153493.5,118
+"Lithuania","country",25,29,0,0,179992,182
+"Lithuania","country",30,34,2,0,202118,319
+"Lithuania","country",35,39,2,0,191741,466
+"Lithuania","country",40,44,5,2,172716.5,604
+"Lithuania","country",45,49,11,5,185481.5,980
+"Lithuania","country",50,54,25,12,201338,1497
+"Lithuania","country",55,59,47,24,202726.5,2261
+"Lithuania","country",60,64,80,41,211447.5,3528
+"Lithuania","country",65,69,87,48,160551,3936
+"Lithuania","country",70,74,90,56,133966.5,4463
+"Lithuania","country",75,79,79,58,99876.5,5037
+"Lithuania","country",80,84,72,64,87917,7064
+"Lithuania","country",85,999,66,68,77150.5,14074
+"Luxembourg","country",0,4,0,0,33895,37
+"Luxembourg","country",5,9,0,0,35162,19
+"Luxembourg","country",10,14,0,0,34681.5,10
+"Luxembourg","country",15,19,0,0,33864.5,17
+"Luxembourg","country",20,24,0,0,38831,25
+"Luxembourg","country",25,29,0,0,49555.5,24
+"Luxembourg","country",30,34,0,0,52838.5,27
+"Luxembourg","country",35,39,1,0,51128,19
+"Luxembourg","country",40,44,2,0,49745,33
+"Luxembourg","country",45,49,2,0,46740,58
+"Luxembourg","country",50,54,9,2,47243,95
+"Luxembourg","country",55,59,10,2,45200.5,200
+"Luxembourg","country",60,64,11,3,37460.5,268
+"Luxembourg","country",65,69,10,3,29801,341
+"Luxembourg","country",70,74,15,5,23730,381
+"Luxembourg","country",75,79,5,5,17528,467
+"Luxembourg","country",80,84,9,6,12912.5,704
+"Luxembourg","country",85,999,14,7,12996,1822
+"Madagascar","country",0,4,0,0,4509734.5,64157
+"Madagascar","country",5,9,0,0,3962552,11540
+"Madagascar","country",10,14,0,0,3661873,6383
+"Madagascar","country",15,19,0,0,3258966.5,7954
+"Madagascar","country",20,24,6,4,2952161.5,9865
+"Madagascar","country",25,29,10,6,2499371.5,9149
+"Madagascar","country",30,34,13,7,2007244.5,8182
+"Madagascar","country",35,39,17,10,1665061,7854
+"Madagascar","country",40,44,14,8,1437063,8613
+"Madagascar","country",45,49,18,10,1199916,8877
+"Madagascar","country",50,54,25,15,954364.5,9939
+"Madagascar","country",55,59,32,19,740265.5,10254
+"Madagascar","country",60,64,42,28,594111.5,12438
+"Madagascar","country",65,69,53,38,447134.5,14530
+"Madagascar","country",70,74,51,39,291049.5,14840
+"Madagascar","country",75,79,38,34,143493.5,11734
+"Madagascar","country",80,84,27,25,75184,9936
+"Madagascar","country",85,999,18,18,37714,8979
+"Malawi","country",0,4,0,0,3031170.5,26238
+"Malawi","country",5,9,0,0,2849523,2458
+"Malawi","country",10,14,0,0,2744479.5,1955
+"Malawi","country",15,19,0,0,2405376,3027
+"Malawi","country",20,24,5,4,1978406.5,3745
+"Malawi","country",25,29,14,12,1654146,3941
+"Malawi","country",30,34,14,10,1407493,4368
+"Malawi","country",35,39,27,20,1204452.5,5183
+"Malawi","country",40,44,28,21,967684,5914
+"Malawi","country",45,49,20,15,655062,5674
+"Malawi","country",50,54,25,18,478001.5,5719
+"Malawi","country",55,59,8,6,376327.5,6142
+"Malawi","country",60,64,22,16,279100,6734
+"Malawi","country",65,69,17,12,191738.5,6831
+"Malawi","country",70,74,18,13,143209.5,7652
+"Malawi","country",75,79,15,11,107656,8605
+"Malawi","country",80,84,9,7,59661,7270
+"Malawi","country",85,999,4,3,35241,7905
+"Malaysia","country",0,4,0,0,2359932.5,3456
+"Malaysia","country",5,9,0,0,2820950,508
+"Malaysia","country",10,14,0,0,2741372,642
+"Malaysia","country",15,19,5,0,2896890.5,1777
+"Malaysia","country",20,24,17,2,3061366.5,2059
+"Malaysia","country",25,29,31,18,3106976.5,2253
+"Malaysia","country",30,34,38,19,3125109,3536
+"Malaysia","country",35,39,82,27,2978994,5336
+"Malaysia","country",40,44,135,40,2529691.5,7037
+"Malaysia","country",45,49,196,67,2038592,8513
+"Malaysia","country",50,54,291,108,1732084,11358
+"Malaysia","country",55,59,385,151,1519121,15174
+"Malaysia","country",60,64,453,184,1291320.5,18410
+"Malaysia","country",65,69,433,199,996564.5,22261
+"Malaysia","country",70,74,367,208,705836.5,23390
+"Malaysia","country",75,79,267,195,403570,24245
+"Malaysia","country",80,84,182,165,226893.5,18070
+"Malaysia","country",85,999,163,175,160228.5,24438
+"Maldives","country",0,4,0,0,31642,34
+"Maldives","country",5,9,0,0,36838,2
+"Maldives","country",10,14,0,0,38345.5,3
+"Maldives","country",15,19,0,0,29858,10
+"Maldives","country",20,24,0,0,40191.5,11
+"Maldives","country",25,29,1,0,65965.5,22
+"Maldives","country",30,34,1,0,71001.5,24
+"Maldives","country",35,39,1,0,62670.5,23
+"Maldives","country",40,44,2,1,42898,30
+"Maldives","country",45,49,3,1,29688,33
+"Maldives","country",50,54,3,1,22659,35
+"Maldives","country",55,59,3,1,17053,53
+"Maldives","country",60,64,3,1,13904,87
+"Maldives","country",65,69,3,1,8546,105
+"Maldives","country",70,74,1,0,4971,117
+"Maldives","country",75,79,1,1,3952.5,176
+"Maldives","country",80,84,1,1,2376,189
+"Maldives","country",85,999,1,1,1546.5,266
+"Mali","country",0,4,0,0,4079299,86122
+"Mali","country",5,9,0,0,3592353.5,9556
+"Mali","country",10,14,1,0,3114823.5,5051
+"Mali","country",15,19,2,2,2581001.5,6577
+"Mali","country",20,24,14,11,2034463.5,7652
+"Mali","country",25,29,24,20,1611628.5,6450
+"Mali","country",30,34,32,26,1360053.5,5918
+"Mali","country",35,39,39,32,1170697,5760
+"Mali","country",40,44,45,34,975101,5876
+"Mali","country",45,49,46,35,745711,5615
+"Mali","country",50,54,43,32,542991.5,5696
+"Mali","country",55,59,39,30,398886.5,5947
+"Mali","country",60,64,36,28,305839.5,7092
+"Mali","country",65,69,38,29,234977.5,8592
+"Mali","country",70,74,32,25,165579.5,10208
+"Mali","country",75,79,23,18,101673,10663
+"Mali","country",80,84,13,10,44442.5,7722
+"Mali","country",85,999,5,4,13118,3893
+"Malta","country",0,4,0,0,22657.5,37
+"Malta","country",5,9,0,0,23928,5
+"Malta","country",10,14,0,0,23196.5,4
+"Malta","country",15,19,0,0,22091,4
+"Malta","country",20,24,0,0,27989.5,8
+"Malta","country",25,29,0,0,42131.5,10
+"Malta","country",30,34,1,0,49912.5,28
+"Malta","country",35,39,1,0,45668.5,22
+"Malta","country",40,44,2,0,41318.5,48
+"Malta","country",45,49,4,0,36338.5,66
+"Malta","country",50,54,5,1,30381,72
+"Malta","country",55,59,6,2,29226,125
+"Malta","country",60,64,8,3,31494.5,202
+"Malta","country",65,69,12,4,29208.5,311
+"Malta","country",70,74,15,8,27984,521
+"Malta","country",75,79,15,9,22004,698
+"Malta","country",80,84,9,8,11439,643
+"Malta","country",85,999,12,9,11223,1311
+"Martinique","country",0,4,0,0,15837,32
+"Martinique","country",5,9,0,0,17524,0
+"Martinique","country",10,14,0,0,19903,0
+"Martinique","country",15,19,0,0,20555,5
+"Martinique","country",20,24,0,0,16588,12
+"Martinique","country",25,29,0,0,14537.5,10
+"Martinique","country",30,34,0,0,17583,33
+"Martinique","country",35,39,0,0,17719,26
+"Martinique","country",40,44,1,0,17240.5,19
+"Martinique","country",45,49,2,0,21061,41
+"Martinique","country",50,54,4,0,27782.5,102
+"Martinique","country",55,59,5,3,31347.5,168
+"Martinique","country",60,64,7,3,29715.5,225
+"Martinique","country",65,69,8,2,25267.5,302
+"Martinique","country",70,74,9,3,19988,386
+"Martinique","country",75,79,7,3,14844,475
+"Martinique","country",80,84,6,3,10868.5,620
+"Martinique","country",85,999,8,4,11097.5,1397
+"Mauritania","country",0,4,0,0,785270.5,6594
+"Mauritania","country",5,9,0,0,704580.5,545
+"Mauritania","country",10,14,0,0,623851,394
+"Mauritania","country",15,19,0,0,521018.5,636
+"Mauritania","country",20,24,2,1,428824.5,679
+"Mauritania","country",25,29,2,2,364063.5,601
+"Mauritania","country",30,34,3,2,305879.5,593
+"Mauritania","country",35,39,4,2,256613.5,662
+"Mauritania","country",40,44,5,3,209263.5,764
+"Mauritania","country",45,49,6,4,173521,952
+"Mauritania","country",50,54,7,5,143449.5,1203
+"Mauritania","country",55,59,8,6,114076.5,1475
+"Mauritania","country",60,64,8,6,88790.5,1819
+"Mauritania","country",65,69,6,4,64483,2106
+"Mauritania","country",70,74,5,3,43240.5,2301
+"Mauritania","country",75,79,4,4,26797.5,2314
+"Mauritania","country",80,84,2,2,14149.5,1925
+"Mauritania","country",85,999,2,2,7764.5,1874
+"Mauritius","country",0,4,0,0,60933.5,183
+"Mauritius","country",5,9,0,0,62525,13
+"Mauritius","country",10,14,0,0,74029.5,14
+"Mauritius","country",15,19,0,0,92171.5,52
+"Mauritius","country",20,24,0,0,95110.5,94
+"Mauritius","country",25,29,0,0,103260,121
+"Mauritius","country",30,34,0,0,104364.5,169
+"Mauritius","country",35,39,2,0,91064,219
+"Mauritius","country",40,44,3,2,101661.5,376
+"Mauritius","country",45,49,5,1,87821,451
+"Mauritius","country",50,54,8,5,80956,636
+"Mauritius","country",55,59,13,2,86864,923
+"Mauritius","country",60,64,17,5,77182.5,1226
+"Mauritius","country",65,69,19,9,61857,1522
+"Mauritius","country",70,74,18,8,45588,1709
+"Mauritius","country",75,79,11,5,25226.5,1444
+"Mauritius","country",80,84,6,6,14044.5,1244
+"Mauritius","country",85,999,5,5,11470,1851
+"Melanesia","UN_subregion",0,4,0,0,1473895.5,11605
+"Melanesia","UN_subregion",5,9,0,0,1413697,1222
+"Melanesia","UN_subregion",10,14,0,0,1326786.5,959
+"Melanesia","UN_subregion",15,19,0,0,1231236,1805
+"Melanesia","UN_subregion",20,24,0,0,1135016.5,2290
+"Melanesia","UN_subregion",25,29,0,0,1046309,2267
+"Melanesia","UN_subregion",30,34,0,3,964152,2487
+"Melanesia","UN_subregion",35,39,8,3,853261.5,2939
+"Melanesia","UN_subregion",40,44,14,5,732219.5,3613
+"Melanesia","UN_subregion",45,49,22,10,624565.5,4623
+"Melanesia","UN_subregion",50,54,41,19,516304,5754
+"Melanesia","UN_subregion",55,59,47,22,417300,6969
+"Melanesia","UN_subregion",60,64,67,33,308372.5,7933
+"Melanesia","UN_subregion",65,69,59,36,204730.5,7933
+"Melanesia","UN_subregion",70,74,38,28,129015.5,7610
+"Melanesia","UN_subregion",75,79,23,20,73577,6652
+"Melanesia","UN_subregion",80,84,20,18,35797,4980
+"Melanesia","UN_subregion",85,999,18,15,17591.5,4386
+"Mexico","country",0,4,0,0,10375479.5,28308
+"Mexico","country",5,9,0,0,10933111.5,2978
+"Mexico","country",10,14,0,0,11245088,3570
+"Mexico","country",15,19,9,2,11190985.5,10435
+"Mexico","country",20,24,20,6,10951830.5,17686
+"Mexico","country",25,29,43,14,10599014.5,21384
+"Mexico","country",30,34,88,24,10114950,22538
+"Mexico","country",35,39,102,39,9210778.5,24315
+"Mexico","country",40,44,173,63,8409909.5,28690
+"Mexico","country",45,49,276,89,7804505.5,37687
+"Mexico","country",50,54,380,124,7023129,47299
+"Mexico","country",55,59,474,160,5971279,60584
+"Mexico","country",60,64,541,190,4821623.5,71441
+"Mexico","country",65,69,532,209,3640248.5,76294
+"Mexico","country",70,74,418,195,2631142.5,82569
+"Mexico","country",75,79,295,161,1796176.5,89297
+"Mexico","country",80,84,187,111,1114689,90411
+"Mexico","country",85,999,165,102,779176.5,123143
+"Micronesia","UN_subregion",0,4,0,0,14905,39
+"Micronesia","UN_subregion",5,9,0,0,14837,1
+"Micronesia","UN_subregion",10,14,0,0,13183.5,3
+"Micronesia","UN_subregion",15,19,0,0,11852.5,8
+"Micronesia","UN_subregion",20,24,0,0,11707.5,12
+"Micronesia","UN_subregion",25,29,0,0,11710,17
+"Micronesia","UN_subregion",30,34,0,0,10596.5,17
+"Micronesia","UN_subregion",35,39,0,0,9571,27
+"Micronesia","UN_subregion",40,44,0,0,9124,29
+"Micronesia","UN_subregion",45,49,1,0,9606.5,44
+"Micronesia","UN_subregion",50,54,2,2,10137,75
+"Micronesia","UN_subregion",55,59,2,0,9916,99
+"Micronesia","UN_subregion",60,64,2,2,8804.5,115
+"Micronesia","UN_subregion",65,69,2,2,7073,126
+"Micronesia","UN_subregion",70,74,2,0,5477,127
+"Micronesia","UN_subregion",75,79,2,0,3305,118
+"Micronesia","UN_subregion",80,84,1,1,1857.5,99
+"Micronesia","UN_subregion",85,999,0,0,1516.5,155
+"Moldova","country",0,4,0,0,185336.5,466
+"Moldova","country",5,9,0,0,226415.5,38
+"Moldova","country",10,14,0,0,200675,45
+"Moldova","country",15,19,0,0,171443,94
+"Moldova","country",20,24,0,0,145762,113
+"Moldova","country",25,29,2,0,181475,182
+"Moldova","country",30,34,2,2,232042.5,371
+"Moldova","country",35,39,2,2,246968,582
+"Moldova","country",40,44,12,7,206044,837
+"Moldova","country",45,49,30,15,194437,1238
+"Moldova","country",50,54,51,26,180362,1558
+"Moldova","country",55,59,92,46,189515.5,2496
+"Moldova","country",60,64,157,89,219954,4376
+"Moldova","country",65,69,162,99,181344.5,5297
+"Moldova","country",70,74,132,92,144311.5,6323
+"Moldova","country",75,79,49,40,55762.5,4173
+"Moldova","country",80,84,34,32,46575.5,5272
+"Moldova","country",85,999,16,20,31560.5,6271
+"Mongolia","country",0,4,0,0,364182,923
+"Mongolia","country",5,9,0,0,410735.5,88
+"Mongolia","country",10,14,0,0,338566,94
+"Mongolia","country",15,19,0,0,234016,161
+"Mongolia","country",20,24,0,0,220700.5,202
+"Mongolia","country",25,29,1,0,243614,303
+"Mongolia","country",30,34,2,0,286870.5,515
+"Mongolia","country",35,39,1,1,267371.5,797
+"Mongolia","country",40,44,2,1,225498,1038
+"Mongolia","country",45,49,6,1,202348.5,1437
+"Mongolia","country",50,54,4,2,172863.5,1684
+"Mongolia","country",55,59,7,2,148100.5,2077
+"Mongolia","country",60,64,7,3,114838.5,2082
+"Mongolia","country",65,69,5,0,68726,1808
+"Mongolia","country",70,74,7,1,37645.5,1568
+"Mongolia","country",75,79,2,6,25176,1686
+"Mongolia","country",80,84,4,9,14848,1597
+"Mongolia","country",85,999,1,4,9914.5,2021
+"Montenegro","country",0,4,0,0,35986.5,34
+"Montenegro","country",5,9,0,0,38099,10
+"Montenegro","country",10,14,0,0,39448.5,9
+"Montenegro","country",15,19,0,0,37317.5,20
+"Montenegro","country",20,24,0,0,37669,19
+"Montenegro","country",25,29,0,0,37730.5,17
+"Montenegro","country",30,34,0,0,37633,32
+"Montenegro","country",35,39,1,0,42731,61
+"Montenegro","country",40,44,2,1,43060.5,81
+"Montenegro","country",45,49,6,2,40728,116
+"Montenegro","country",50,54,8,3,38891.5,199
+"Montenegro","country",55,59,9,4,40076.5,351
+"Montenegro","country",60,64,13,6,39889,591
+"Montenegro","country",65,69,15,7,36670,876
+"Montenegro","country",70,74,14,8,28339,1058
+"Montenegro","country",75,79,8,6,16302,947
+"Montenegro","country",80,84,7,6,13602.5,1235
+"Montenegro","country",85,999,5,5,10473.5,1676
+"Morocco","country",0,4,0,0,3210598,10959
+"Morocco","country",5,9,0,0,3290921,959
+"Morocco","country",10,14,0,0,3354958.5,822
+"Morocco","country",15,19,1,1,3072819,1405
+"Morocco","country",20,24,14,14,2921431,1882
+"Morocco","country",25,29,28,23,2887515.5,1984
+"Morocco","country",30,34,44,26,2916255,2351
+"Morocco","country",35,39,75,18,2803013,3021
+"Morocco","country",40,44,115,35,2540561.5,4175
+"Morocco","country",45,49,153,58,2259065,6306
+"Morocco","country",50,54,212,88,1968657,9080
+"Morocco","country",55,59,289,126,1764587,13702
+"Morocco","country",60,64,359,153,1535339.5,19523
+"Morocco","country",65,69,329,153,1195631,25802
+"Morocco","country",70,74,217,124,776952.5,28297
+"Morocco","country",75,79,152,113,462960,28303
+"Morocco","country",80,84,109,105,245632.5,25666
+"Morocco","country",85,999,60,74,122167,23755
+"Mozambique","country",0,4,0,0,5547107,81122
+"Mozambique","country",5,9,0,0,4866223.5,6176
+"Mozambique","country",10,14,0,0,4266737,4217
+"Mozambique","country",15,19,0,0,3525150,5769
+"Mozambique","country",20,24,8,6,3063043.5,7354
+"Mozambique","country",25,29,11,9,2532238.5,7432
+"Mozambique","country",30,34,21,17,2075976,7593
+"Mozambique","country",35,39,19,11,1659895,7906
+"Mozambique","country",40,44,14,9,1319301.5,8278
+"Mozambique","country",45,49,12,8,1026938.5,8720
+"Mozambique","country",50,54,11,8,824286.5,9909
+"Mozambique","country",55,59,18,13,573520,9345
+"Mozambique","country",60,64,26,19,470239,10943
+"Mozambique","country",65,69,33,24,399803,14460
+"Mozambique","country",70,74,32,25,273822.5,16878
+"Mozambique","country",75,79,25,22,146644,15053
+"Mozambique","country",80,84,14,13,62451,9974
+"Mozambique","country",85,999,7,7,22869.5,5791
+"Myanmar (Burma)","country",0,4,0,0,4463439,37381
+"Myanmar (Burma)","country",5,9,0,0,4443035,4894
+"Myanmar (Burma)","country",10,14,0,0,4386553.5,3929
+"Myanmar (Burma)","country",15,19,2,0,4478440,7328
+"Myanmar (Burma)","country",20,24,34,3,4494784,11422
+"Myanmar (Burma)","country",25,29,55,18,4395183.5,11946
+"Myanmar (Burma)","country",30,34,43,23,4188612.5,12444
+"Myanmar (Burma)","country",35,39,58,24,4177082.5,14996
+"Myanmar (Burma)","country",40,44,99,45,3790574.5,17766
+"Myanmar (Burma)","country",45,49,150,67,3421905,22487
+"Myanmar (Burma)","country",50,54,224,106,3061456.5,29150
+"Myanmar (Burma)","country",55,59,287,144,2627923.5,37152
+"Myanmar (Burma)","country",60,64,348,194,2130857,45847
+"Myanmar (Burma)","country",65,69,402,263,1619429,54274
+"Myanmar (Burma)","country",70,74,360,272,1060285.5,56477
+"Myanmar (Burma)","country",75,79,256,216,581212.5,50240
+"Myanmar (Burma)","country",80,84,172,158,295070.5,41424
+"Myanmar (Burma)","country",85,999,114,112,140943.5,34313
+"Namibia","country",0,4,0,0,408907,3034
+"Namibia","country",5,9,0,0,362886,305
+"Namibia","country",10,14,0,0,311047,220
+"Namibia","country",15,19,0,0,268167,351
+"Namibia","country",20,24,0,0,260692.5,547
+"Namibia","country",25,29,1,0,251376.5,766
+"Namibia","country",30,34,3,1,226929,950
+"Namibia","country",35,39,4,2,183349.5,1075
+"Namibia","country",40,44,4,2,151885.5,1224
+"Namibia","country",45,49,4,2,124983.5,1381
+"Namibia","country",50,54,5,3,97996,1477
+"Namibia","country",55,59,6,3,77726.5,1576
+"Namibia","country",60,64,6,5,61907.5,1775
+"Namibia","country",65,69,6,5,40832.5,1676
+"Namibia","country",70,74,5,4,28029,1611
+"Namibia","country",75,79,4,3,17804.5,1424
+"Namibia","country",80,84,3,3,9364,1066
+"Namibia","country",85,999,1,1,5779,1130
+"Nepal","country",0,4,0,0,2806206.5,16030
+"Nepal","country",5,9,0,0,2863925,1964
+"Nepal","country",10,14,1,0,2928696.5,1646
+"Nepal","country",15,19,8,4,3070256,3027
+"Nepal","country",20,24,15,15,2985868,4121
+"Nepal","country",25,29,12,12,2670136.5,4012
+"Nepal","country",30,34,16,21,2228180.5,3897
+"Nepal","country",35,39,20,16,1959421,4423
+"Nepal","country",40,44,26,14,1704730.5,5445
+"Nepal","country",45,49,31,13,1471957.5,7228
+"Nepal","country",50,54,38,18,1259337.5,9469
+"Nepal","country",55,59,44,23,1035642.5,12277
+"Nepal","country",60,64,49,25,889458,16714
+"Nepal","country",65,69,56,27,729511,22115
+"Nepal","country",70,74,55,31,543757.5,27033
+"Nepal","country",75,79,49,30,335790,27361
+"Nepal","country",80,84,33,22,164029.5,21886
+"Nepal","country",85,999,18,12,68532,16045
+"Netherlands","country",0,4,0,0,885957.5,696
+"Netherlands","country",5,9,0,0,904051,57
+"Netherlands","country",10,14,0,0,958498.5,71
+"Netherlands","country",15,19,0,0,1023658,178
+"Netherlands","country",20,24,2,0,1164090.5,325
+"Netherlands","country",25,29,10,0,1180131.5,369
+"Netherlands","country",30,34,13,2,1191437.5,507
+"Netherlands","country",35,39,14,6,1111809,650
+"Netherlands","country",40,44,57,15,1064416,982
+"Netherlands","country",45,49,131,33,1079722,1627
+"Netherlands","country",50,54,304,68,1292014,3305
+"Netherlands","country",55,59,530,104,1294259,5490
+"Netherlands","country",60,64,761,136,1191167,8162
+"Netherlands","country",65,69,912,183,1029583,11493
+"Netherlands","country",70,74,997,274,931835,16746
+"Netherlands","country",75,79,839,310,738852.5,23381
+"Netherlands","country",80,84,505,278,463086.5,27087
+"Netherlands","country",85,999,365,313,399852.5,65694
+"New Caledonia","country",0,4,0,0,20730.5,50
+"New Caledonia","country",5,9,0,0,20748,2
+"New Caledonia","country",10,14,0,0,21004.5,3
+"New Caledonia","country",15,19,0,0,21350.5,12
+"New Caledonia","country",20,24,0,0,20454,19
+"New Caledonia","country",25,29,0,0,19566,22
+"New Caledonia","country",30,34,0,0,21480,27
+"New Caledonia","country",35,39,0,0,21250.5,30
+"New Caledonia","country",40,44,1,0,20077,50
+"New Caledonia","country",45,49,1,0,19914,70
+"New Caledonia","country",50,54,2,0,19385.5,89
+"New Caledonia","country",55,59,4,1,16595,105
+"New Caledonia","country",60,64,5,3,13578,134
+"New Caledonia","country",65,69,5,3,10345.5,137
+"New Caledonia","country",70,74,4,3,8186.5,153
+"New Caledonia","country",75,79,3,1,6045,209
+"New Caledonia","country",80,84,3,1,3815,302
+"New Caledonia","country",85,999,3,1,2597.5,538
+"New Zealand","country",0,4,0,0,299235,365
+"New Zealand","country",5,9,0,0,320131,44
+"New Zealand","country",10,14,0,0,337202,80
+"New Zealand","country",15,19,0,0,317439.5,199
+"New Zealand","country",20,24,1,0,327465,250
+"New Zealand","country",25,29,6,2,360443.5,202
+"New Zealand","country",30,34,1,2,387965.5,329
+"New Zealand","country",35,39,5,3,346414,275
+"New Zealand","country",40,44,16,6,316710.5,382
+"New Zealand","country",45,49,36,10,314966,733
+"New Zealand","country",50,54,72,18,333816.5,1025
+"New Zealand","country",55,59,122,28,320701,1358
+"New Zealand","country",60,64,175,41,305260,1869
+"New Zealand","country",65,69,206,57,259215.5,2720
+"New Zealand","country",70,74,227,77,220995,4215
+"New Zealand","country",75,79,198,87,161457.5,5084
+"New Zealand","country",80,84,136,79,108791.5,6140
+"New Zealand","country",85,999,130,98,93525.5,15846
+"Nicaragua","country",0,4,0,0,660178.5,2017
+"Nicaragua","country",5,9,0,0,669231,161
+"Nicaragua","country",10,14,0,0,666023,187
+"Nicaragua","country",15,19,1,0,639857,385
+"Nicaragua","country",20,24,1,0,618484.5,616
+"Nicaragua","country",25,29,3,1,601275,727
+"Nicaragua","country",30,34,4,1,557963.5,830
+"Nicaragua","country",35,39,6,3,487764.5,969
+"Nicaragua","country",40,44,6,5,421629,1241
+"Nicaragua","country",45,49,8,5,356990.5,1413
+"Nicaragua","country",50,54,10,7,291871,1605
+"Nicaragua","country",55,59,13,8,230055,2082
+"Nicaragua","country",60,64,18,10,176687.5,2538
+"Nicaragua","country",65,69,19,13,134574.5,2936
+"Nicaragua","country",70,74,13,8,100298,2929
+"Nicaragua","country",75,79,11,6,61314.5,3111
+"Nicaragua","country",80,84,11,7,37297.5,3684
+"Nicaragua","country",85,999,12,8,19159,4142
+"Niger","country",0,4,0,0,4564725,121430
+"Niger","country",5,9,0,0,3985158,7176
+"Niger","country",10,14,0,0,3429428,4088
+"Niger","country",15,19,5,4,2839780,5095
+"Niger","country",20,24,17,14,2275105,5839
+"Niger","country",25,29,19,16,1773473,4911
+"Niger","country",30,34,23,21,1398044.5,4487
+"Niger","country",35,39,32,28,1149447.5,4428
+"Niger","country",40,44,18,13,953373,4835
+"Niger","country",45,49,35,27,765513.5,5138
+"Niger","country",50,54,13,13,623501,6052
+"Niger","country",55,59,27,20,510112.5,7127
+"Niger","country",60,64,27,20,398673,8606
+"Niger","country",65,69,17,13,289777,9882
+"Niger","country",70,74,9,9,188612,10901
+"Niger","country",75,79,6,6,109193.5,10797
+"Niger","country",80,84,3,3,45006,7542
+"Niger","country",85,999,1,1,13050.5,3849
+"Nigeria","country",0,4,0,0,33327207,787808
+"Nigeria","country",5,9,0,0,31639870.5,223615
+"Nigeria","country",10,14,0,0,28650154.5,108139
+"Nigeria","country",15,19,0,0,24573894,111478
+"Nigeria","country",20,24,13,9,20282224,120612
+"Nigeria","country",25,29,28,69,16788444,110237
+"Nigeria","country",30,34,176,66,14140249,102739
+"Nigeria","country",35,39,148,69,12275082.5,100978
+"Nigeria","country",40,44,193,111,10592486,101752
+"Nigeria","country",45,49,275,163,8501087.5,94468
+"Nigeria","country",50,54,343,238,6555096,94388
+"Nigeria","country",55,59,470,314,5138482,98295
+"Nigeria","country",60,64,509,362,3974368.5,110988
+"Nigeria","country",65,69,428,341,2904796,122622
+"Nigeria","country",70,74,300,265,1913840.5,125989
+"Nigeria","country",75,79,174,163,1160643,117907
+"Nigeria","country",80,84,72,70,528977.5,83100
+"Nigeria","country",85,999,22,22,203993,52299
+"North Korea","country",0,4,0,0,1714872.5,6165
+"North Korea","country",5,9,0,0,1669241,1184
+"North Korea","country",10,14,0,0,1624638.5,916
+"North Korea","country",15,19,1,1,1687884.5,1804
+"North Korea","country",20,24,4,2,1880560.5,2878
+"North Korea","country",25,29,27,11,1990526.5,3284
+"North Korea","country",30,34,8,3,1931561.5,3483
+"North Korea","country",35,39,30,14,1801147.5,3708
+"North Korea","country",40,44,79,30,1642500,4535
+"North Korea","country",45,49,193,88,1826109.5,6796
+"North Korea","country",50,54,412,201,2209773,12847
+"North Korea","country",55,59,521,252,1830740,13814
+"North Korea","country",60,64,671,338,1466973,17610
+"North Korea","country",65,69,567,302,1016353.5,19535
+"North Korea","country",70,74,469,266,752180.5,26371
+"North Korea","country",75,79,466,302,672086.5,41654
+"North Korea","country",80,84,256,198,415047.5,45063
+"North Korea","country",85,999,110,109,196649,38047
+"North Macedonia","country",0,4,0,0,98512.5,68
+"North Macedonia","country",5,9,0,0,110001,7
+"North Macedonia","country",10,14,0,0,107984,14
+"North Macedonia","country",15,19,0,0,103661.5,23
+"North Macedonia","country",20,24,0,0,108588.5,41
+"North Macedonia","country",25,29,0,0,116932,40
+"North Macedonia","country",30,34,0,1,123653,67
+"North Macedonia","country",35,39,3,1,127137,105
+"North Macedonia","country",40,44,8,2,129408,166
+"North Macedonia","country",45,49,19,7,126669,295
+"North Macedonia","country",50,54,34,13,124258,567
+"North Macedonia","country",55,59,54,22,127080.5,936
+"North Macedonia","country",60,64,72,31,122631,1572
+"North Macedonia","country",65,69,80,39,113312,2543
+"North Macedonia","country",70,74,69,40,88756.5,3393
+"North Macedonia","country",75,79,45,32,54536.5,3550
+"North Macedonia","country",80,84,27,23,34287.5,3703
+"North Macedonia","country",85,999,15,15,22824.5,4529
+"Northern Africa","UN_subregion",0,4,0,0,29243150,162298
+"Northern Africa","UN_subregion",5,9,0,0,29940449.5,20827
+"Northern Africa","UN_subregion",10,14,20,0,26956593.5,14429
+"Northern Africa","UN_subregion",15,19,69,36,23485955,21224
+"Northern Africa","UN_subregion",20,24,120,92,21315183.5,25054
+"Northern Africa","UN_subregion",25,29,204,118,20327381,25363
+"Northern Africa","UN_subregion",30,34,276,126,19882183,27362
+"Northern Africa","UN_subregion",35,39,397,135,18654141.5,30905
+"Northern Africa","UN_subregion",40,44,545,187,16375358.5,37660
+"Northern Africa","UN_subregion",45,49,689,257,13861415.5,47828
+"Northern Africa","UN_subregion",50,54,873,348,11892388,71312
+"Northern Africa","UN_subregion",55,59,1103,447,10079093,101083
+"Northern Africa","UN_subregion",60,64,1230,527,8125724.5,134813
+"Northern Africa","UN_subregion",65,69,1163,565,6130023.5,166841
+"Northern Africa","UN_subregion",70,74,895,538,3967962,176745
+"Northern Africa","UN_subregion",75,79,639,513,2204877.5,161954
+"Northern Africa","UN_subregion",80,84,451,476,1118709,133998
+"Northern Africa","UN_subregion",85,999,332,448,590598,128156
+"Northern America","UN_subregion",0,4,0,0,20673706,25487
+"Northern America","UN_subregion",5,9,0,0,22546021,2397
+"Northern America","UN_subregion",10,14,2,0,23888687.5,3383
+"Northern America","UN_subregion",15,19,21,2,24509408.5,12475
+"Northern America","UN_subregion",20,24,92,10,24797162,24491
+"Northern America","UN_subregion",25,29,159,43,25684192.5,33022
+"Northern America","UN_subregion",30,34,545,110,27224652,43061
+"Northern America","UN_subregion",35,39,1327,251,26133290,50122
+"Northern America","UN_subregion",40,44,2515,494,24998456,59654
+"Northern America","UN_subregion",45,49,3784,767,22774890,77398
+"Northern America","UN_subregion",50,54,5761,1217,23587360,125012
+"Northern America","UN_subregion",55,59,7222,1703,24167343,201554
+"Northern America","UN_subregion",60,64,8192,2167,24230835.5,281861
+"Northern America","UN_subregion",65,69,7520,2259,21165610,320018
+"Northern America","UN_subregion",70,74,6106,2212,17067576,384825
+"Northern America","UN_subregion",75,79,4498,2329,12252217,427168
+"Northern America","UN_subregion",80,84,2796,2159,7537641.5,435771
+"Northern America","UN_subregion",85,999,2728,3084,7116256,1017328
+"Northern Europe","UN_subregion",0,4,0,0,5691509,4275
+"Northern Europe","UN_subregion",5,9,0,0,6346339,498
+"Northern Europe","UN_subregion",10,14,0,0,6532815,597
+"Northern Europe","UN_subregion",15,19,2,0,6109711,1491
+"Northern Europe","UN_subregion",20,24,15,1,6337906,2645
+"Northern Europe","UN_subregion",25,29,47,19,6982964.5,3559
+"Northern Europe","UN_subregion",30,34,67,52,7259478.5,5005
+"Northern Europe","UN_subregion",35,39,126,80,7148250.5,7135
+"Northern Europe","UN_subregion",40,44,337,146,6878779.5,10056
+"Northern Europe","UN_subregion",45,49,668,240,6783497.5,15480
+"Northern Europe","UN_subregion",50,54,1364,448,7155787.5,24209
+"Northern Europe","UN_subregion",55,59,2299,707,6963778,35514
+"Northern Europe","UN_subregion",60,64,3047,991,6339765.5,51083
+"Northern Europe","UN_subregion",65,69,3613,1385,5619514,69321
+"Northern Europe","UN_subregion",70,74,4293,2094,5253354,104471
+"Northern Europe","UN_subregion",75,79,4204,2577,4274592,136614
+"Northern Europe","UN_subregion",80,84,2983,2340,2793709.5,165213
+"Northern Europe","UN_subregion",85,999,3061,2996,2662351.5,403687
+"Norway","country",0,4,0,0,278902.5,120
+"Norway","country",5,9,0,0,307122.5,25
+"Norway","country",10,14,0,0,329962,27
+"Norway","country",15,19,0,0,322051,73
+"Norway","country",20,24,1,0,334433,112
+"Norway","country",25,29,1,0,367426.5,170
+"Norway","country",30,34,8,1,390249.5,172
+"Norway","country",35,39,10,1,366942.5,212
+"Norway","country",40,44,22,3,353287,338
+"Norway","country",45,49,46,8,361742.5,504
+"Norway","country",50,54,87,17,379572,879
+"Norway","country",55,59,137,26,351201.5,1259
+"Norway","country",60,64,185,33,313670,1841
+"Norway","country",65,69,240,51,286760.5,2882
+"Norway","country",70,74,273,79,255776,4391
+"Norway","country",75,79,258,99,214600,6484
+"Norway","country",80,84,158,83,124833,6850
+"Norway","country",85,999,146,105,118269.5,19273
+"Oceania","UN_region",0,4,0,0,3356619,13490
+"Oceania","UN_region",5,9,0,0,3410700,1387
+"Oceania","UN_region",10,14,0,0,3364891.5,1063
+"Oceania","UN_region",15,19,2,0,3139730.5,2044
+"Oceania","UN_region",20,24,7,0,3148219,2588
+"Oceania","UN_region",25,29,30,8,3310384.5,2521
+"Oceania","UN_region",30,34,58,20,3338392,2871
+"Oceania","UN_region",35,39,128,22,3150883.5,3286
+"Oceania","UN_region",40,44,214,34,2809000,4098
+"Oceania","UN_region",45,49,336,62,2616125.5,6622
+"Oceania","UN_region",50,54,509,109,2549909,10199
+"Oceania","UN_region",55,59,688,155,2321081.5,17894
+"Oceania","UN_region",60,64,875,227,2143194,29890
+"Oceania","UN_region",65,69,943,284,1802428.5,23257
+"Oceania","UN_region",70,74,967,353,1521142.5,31782
+"Oceania","UN_region",75,79,820,401,1123165.5,34688
+"Oceania","UN_region",80,84,578,383,718496.5,41139
+"Oceania","UN_region",85,999,592,514,673001.5,106489
+"Oman","country",0,4,0,0,435437,831
+"Oman","country",5,9,0,0,452609.5,110
+"Oman","country",10,14,0,0,352259.5,111
+"Oman","country",15,19,0,0,265237.5,106
+"Oman","country",20,24,1,0,338366,129
+"Oman","country",25,29,2,0,524389.5,222
+"Oman","country",30,34,9,5,615301,337
+"Oman","country",35,39,15,7,568472.5,358
+"Oman","country",40,44,16,8,412650.5,425
+"Oman","country",45,49,20,10,270495.5,405
+"Oman","country",50,54,20,10,175489.5,436
+"Oman","country",55,59,18,10,114876.5,543
+"Oman","country",60,64,16,9,78933.5,701
+"Oman","country",65,69,12,6,49347,816
+"Oman","country",70,74,7,4,34315,1020
+"Oman","country",75,79,6,4,21962.5,1150
+"Oman","country",80,84,5,5,12253,1083
+"Oman","country",85,999,4,4,7830.5,1291
+"Pakistan","country",0,4,0,0,31524855.5,417327
+"Pakistan","country",5,9,0,0,30227948,22652
+"Pakistan","country",10,14,13,0,29171386,17553
+"Pakistan","country",15,19,68,34,25398966,26162
+"Pakistan","country",20,24,145,73,22928288,33676
+"Pakistan","country",25,29,177,90,19741677.5,31344
+"Pakistan","country",30,34,168,85,17203852.5,31536
+"Pakistan","country",35,39,210,106,14647052,34616
+"Pakistan","country",40,44,248,112,11949081.5,39838
+"Pakistan","country",45,49,279,140,9781514,49789
+"Pakistan","country",50,54,315,171,8237681,64419
+"Pakistan","country",55,59,358,200,7078848,86153
+"Pakistan","country",60,64,380,203,5789332.5,110114
+"Pakistan","country",65,69,350,179,4203139.5,127798
+"Pakistan","country",70,74,303,158,2719331.5,135584
+"Pakistan","country",75,79,252,142,1826099.5,149486
+"Pakistan","country",80,84,162,99,888707,119391
+"Pakistan","country",85,999,96,64,382907,89847
+"Palestinian Territories","country",0,4,0,0,722295.5,2116
+"Palestinian Territories","country",5,9,0,0,702289,180
+"Palestinian Territories","country",10,14,0,0,628022,131
+"Palestinian Territories","country",15,19,0,0,539627.5,214
+"Palestinian Territories","country",20,24,1,0,477590,272
+"Palestinian Territories","country",25,29,5,0,454457,276
+"Palestinian Territories","country",30,34,5,3,405410.5,283
+"Palestinian Territories","country",35,39,9,4,319783.5,295
+"Palestinian Territories","country",40,44,12,6,250474,348
+"Palestinian Territories","country",45,49,17,9,200486.5,473
+"Palestinian Territories","country",50,54,21,12,164706,645
+"Palestinian Territories","country",55,59,25,13,137060,915
+"Palestinian Territories","country",60,64,24,13,106625,1163
+"Palestinian Territories","country",65,69,20,11,78452,1468
+"Palestinian Territories","country",70,74,20,12,54954,1768
+"Palestinian Territories","country",75,79,15,11,34689.5,1906
+"Palestinian Territories","country",80,84,9,7,18889,1777
+"Palestinian Territories","country",85,999,5,5,9459,1639
+"Panama","country",0,4,0,0,365940,1188
+"Panama","country",5,9,0,0,388121,91
+"Panama","country",10,14,0,0,375619,131
+"Panama","country",15,19,0,0,360822,224
+"Panama","country",20,24,2,0,351588,415
+"Panama","country",25,29,2,1,340128,406
+"Panama","country",30,34,1,1,328454.5,450
+"Panama","country",35,39,2,1,313904.5,430
+"Panama","country",40,44,4,2,286481,521
+"Panama","country",45,49,9,2,268606,669
+"Panama","country",50,54,17,4,247701.5,878
+"Panama","country",55,59,26,8,215152.5,1246
+"Panama","country",60,64,32,9,172470,1383
+"Panama","country",65,69,31,10,134484.5,1714
+"Panama","country",70,74,26,11,99940.5,2017
+"Panama","country",75,79,21,11,69590.5,2263
+"Panama","country",80,84,15,9,45323,2333
+"Panama","country",85,999,16,11,36446.5,4551
+"Papua New Guinea","country",0,4,0,0,1222355.5,10531
+"Papua New Guinea","country",5,9,0,0,1163648,1095
+"Papua New Guinea","country",10,14,0,0,1094820.5,855
+"Papua New Guinea","country",15,19,0,0,1020967.5,1633
+"Papua New Guinea","country",20,24,0,0,944320,2067
+"Papua New Guinea","country",25,29,0,0,868523,2035
+"Papua New Guinea","country",30,34,0,3,794441.5,2218
+"Papua New Guinea","country",35,39,7,2,692555,2581
+"Papua New Guinea","country",40,44,10,5,592383.5,3129
+"Papua New Guinea","country",45,49,18,8,504180,3935
+"Papua New Guinea","country",50,54,28,14,410522,4762
+"Papua New Guinea","country",55,59,40,20,326510,5645
+"Papua New Guinea","country",60,64,49,23,236644,6240
+"Papua New Guinea","country",65,69,43,21,152846,6149
+"Papua New Guinea","country",70,74,25,18,93394,5823
+"Papua New Guinea","country",75,79,19,18,51274,4972
+"Papua New Guinea","country",80,84,15,15,23399.5,3473
+"Papua New Guinea","country",85,999,11,11,10385.5,2706
+"Paraguay","country",0,4,0,0,681706.5,2402
+"Paraguay","country",5,9,0,0,663184.5,164
+"Paraguay","country",10,14,0,0,610670,197
+"Paraguay","country",15,19,0,0,581046,544
+"Paraguay","country",20,24,1,0,596511.5,755
+"Paraguay","country",25,29,1,0,598316,770
+"Paraguay","country",30,34,8,2,567199,854
+"Paraguay","country",35,39,11,4,503027.5,1169
+"Paraguay","country",40,44,15,7,407626.5,1313
+"Paraguay","country",45,49,17,6,335817,1600
+"Paraguay","country",50,54,21,7,303880,2168
+"Paraguay","country",55,59,29,7,275105,3272
+"Paraguay","country",60,64,38,14,215136,3991
+"Paraguay","country",65,69,41,14,158403,4243
+"Paraguay","country",70,74,30,15,114768,4538
+"Paraguay","country",75,79,21,11,77187,5110
+"Paraguay","country",80,84,14,9,42886,4522
+"Paraguay","country",85,999,12,9,27994.5,5377
+"Peru","country",0,4,0,0,2697090,8263
+"Peru","country",5,9,0,0,2737386.5,919
+"Peru","country",10,14,0,0,2855759.5,1155
+"Peru","country",15,19,2,0,2864084.5,2139
+"Peru","country",20,24,6,2,2770232.5,2823
+"Peru","country",25,29,7,3,2760149.5,3545
+"Peru","country",30,34,8,4,2693090.5,3727
+"Peru","country",35,39,23,8,2476240.5,4345
+"Peru","country",40,44,36,14,2208692.5,5107
+"Peru","country",45,49,54,19,2021859.5,6275
+"Peru","country",50,54,73,23,1760430.5,7873
+"Peru","country",55,59,90,31,1461549,10095
+"Peru","country",60,64,98,43,1219459.5,12247
+"Peru","country",65,69,110,52,991588.5,15085
+"Peru","country",70,74,114,54,773308.5,18129
+"Peru","country",75,79,109,50,536796,21562
+"Peru","country",80,84,97,56,353192,23662
+"Peru","country",85,999,100,75,294528.5,66934
+"Philippines","country",0,4,0,0,10098659,52758
+"Philippines","country",5,9,0,0,11581473.5,5710
+"Philippines","country",10,14,6,1,11746759,5260
+"Philippines","country",15,19,18,3,11031403.5,8813
+"Philippines","country",20,24,98,7,10733439,12640
+"Philippines","country",25,29,77,17,10017729,15543
+"Philippines","country",30,34,80,24,9078052.5,18171
+"Philippines","country",35,39,157,74,7783971.5,21803
+"Philippines","country",40,44,275,88,6967236.5,28017
+"Philippines","country",45,49,436,160,5881033.5,35759
+"Philippines","country",50,54,665,269,5252125.5,47684
+"Philippines","country",55,59,928,371,4437605,58555
+"Philippines","country",60,64,1091,464,3609549.5,72666
+"Philippines","country",65,69,1095,541,2623165.5,82821
+"Philippines","country",70,74,908,547,1685133,85094
+"Philippines","country",75,79,607,441,826920.5,66019
+"Philippines","country",80,84,363,313,411298.5,52347
+"Philippines","country",85,999,246,250,198784,44450
+"Poland","country",0,4,0,0,1821562,1267
+"Poland","country",5,9,0,0,1959879,172
+"Poland","country",10,14,0,0,2100695.5,218
+"Poland","country",15,19,0,0,1851656.5,617
+"Poland","country",20,24,7,0,1920844,1036
+"Poland","country",25,29,11,0,2342110.5,1568
+"Poland","country",30,34,39,3,2773693,2595
+"Poland","country",35,39,18,13,3208196,4177
+"Poland","country",40,44,127,48,3174015.5,6168
+"Poland","country",45,49,298,100,2831890.5,8974
+"Poland","country",50,54,504,171,2353333.5,12236
+"Poland","country",55,59,872,306,2230181.5,18736
+"Poland","country",60,64,1565,586,2517015,33512
+"Poland","country",65,69,2163,880,2508218,49341
+"Poland","country",70,74,2053,1008,2029108,55571
+"Poland","country",75,79,1295,740,1131530,45233
+"Poland","country",80,84,995,733,805530,53480
+"Poland","country",85,999,975,881,826280.5,126652
+"Polynesia","UN_subregion",0,4,0,0,44621.5,111
+"Polynesia","UN_subregion",5,9,0,0,48158.5,14
+"Polynesia","UN_subregion",10,14,0,0,47666.5,13
+"Polynesia","UN_subregion",15,19,0,0,42026,24
+"Polynesia","UN_subregion",20,24,0,0,36527.5,28
+"Polynesia","UN_subregion",25,29,0,0,33067.5,26
+"Polynesia","UN_subregion",30,34,0,0,34279,28
+"Polynesia","UN_subregion",35,39,0,0,33454.5,35
+"Polynesia","UN_subregion",40,44,0,0,30597,46
+"Polynesia","UN_subregion",45,49,1,0,29222,70
+"Polynesia","UN_subregion",50,54,5,1,29100.5,109
+"Polynesia","UN_subregion",55,59,5,1,25772.5,151
+"Polynesia","UN_subregion",60,64,5,3,20663,192
+"Polynesia","UN_subregion",65,69,6,2,15918,237
+"Polynesia","UN_subregion",70,74,5,4,10347,254
+"Polynesia","UN_subregion",75,79,5,5,7141.5,292
+"Polynesia","UN_subregion",80,84,3,3,4209.5,292
+"Polynesia","UN_subregion",85,999,2,0,2866.5,397
+"Portugal","country",0,4,0,0,426770.5,344
+"Portugal","country",5,9,0,0,432898.5,58
+"Portugal","country",10,14,0,0,494781.5,63
+"Portugal","country",15,19,0,0,526052,129
+"Portugal","country",20,24,1,0,561785.5,203
+"Portugal","country",25,29,2,0,545885,221
+"Portugal","country",30,34,7,2,564843.5,375
+"Portugal","country",35,39,15,5,624571,507
+"Portugal","country",40,44,52,13,733497,928
+"Portugal","country",45,49,117,28,811038,1807
+"Portugal","country",50,54,188,47,759767.5,2741
+"Portugal","country",55,59,281,71,748014,4186
+"Portugal","country",60,64,386,100,719572,6068
+"Portugal","country",65,69,489,143,662189,7907
+"Portugal","country",70,74,589,211,610302,10935
+"Portugal","country",75,79,542,249,486811,14757
+"Portugal","country",80,84,438,264,351532.5,20273
+"Portugal","country",85,999,445,338,356762,54010
+"Puerto Rico","country",0,4,0,0,100204.5,117
+"Puerto Rico","country",5,9,0,0,134203,13
+"Puerto Rico","country",10,14,0,0,166442,14
+"Puerto Rico","country",15,19,0,0,190995,97
+"Puerto Rico","country",20,24,0,0,208880.5,238
+"Puerto Rico","country",25,29,1,0,193655.5,300
+"Puerto Rico","country",30,34,1,0,185312,354
+"Puerto Rico","country",35,39,5,0,184474.5,415
+"Puerto Rico","country",40,44,10,2,205983,559
+"Puerto Rico","country",45,49,20,5,211896,684
+"Puerto Rico","country",50,54,34,10,222558,1007
+"Puerto Rico","country",55,59,50,18,233375.5,1502
+"Puerto Rico","country",60,64,67,23,231153,2073
+"Puerto Rico","country",65,69,71,24,217176.5,2772
+"Puerto Rico","country",70,74,72,29,194297.5,3832
+"Puerto Rico","country",75,79,64,33,157242,5170
+"Puerto Rico","country",80,84,42,31,104091.5,5771
+"Puerto Rico","country",85,999,41,41,99028.5,12313
+"Qatar","country",0,4,0,0,155426.5,155
+"Qatar","country",5,9,0,0,154806,27
+"Qatar","country",10,14,0,0,130809.5,17
+"Qatar","country",15,19,0,0,100380,48
+"Qatar","country",20,24,0,0,185848,45
+"Qatar","country",25,29,1,0,389408,86
+"Qatar","country",30,34,2,1,486496.5,133
+"Qatar","country",35,39,7,2,449061.5,152
+"Qatar","country",40,44,2,0,328547.5,188
+"Qatar","country",45,49,11,4,211484.5,208
+"Qatar","country",50,54,7,2,137317.5,218
+"Qatar","country",55,59,3,1,78354,191
+"Qatar","country",60,64,13,5,44278.5,214
+"Qatar","country",65,69,6,3,21048.5,207
+"Qatar","country",70,74,3,1,9931.5,192
+"Qatar","country",75,79,2,2,5214.5,188
+"Qatar","country",80,84,1,1,2406,162
+"Qatar","country",85,999,1,1,1636.5,266
+"Romania","country",0,4,0,0,975941.5,1246
+"Romania","country",5,9,0,0,1019091.5,170
+"Romania","country",10,14,0,0,1074694,200
+"Romania","country",15,19,0,0,1060958.5,461
+"Romania","country",20,24,2,0,997405.5,571
+"Romania","country",25,29,14,0,1009914.5,670
+"Romania","country",30,34,3,2,1255119.5,1126
+"Romania","country",35,39,19,6,1246462.5,1644
+"Romania","country",40,44,92,26,1431104.5,3445
+"Romania","country",45,49,221,65,1496662,6203
+"Romania","country",50,54,452,145,1643888.5,11676
+"Romania","country",55,59,515,149,1096597.5,12459
+"Romania","country",60,64,768,290,1118489.5,19025
+"Romania","country",65,69,1011,441,1238211,28438
+"Romania","country",70,74,937,471,1016545.5,33045
+"Romania","country",75,79,619,369,630472.5,32744
+"Romania","country",80,84,463,356,482768.5,42549
+"Romania","country",85,999,353,351,372445.5,72553
+"Russia","country",0,4,0,0,7541062,6816
+"Russia","country",5,9,0,0,9529158.5,1361
+"Russia","country",10,14,0,0,8681873.5,1893
+"Russia","country",15,19,3,2,7531834,4648
+"Russia","country",20,24,17,6,7016953,8758
+"Russia","country",25,29,47,17,7948340,13231
+"Russia","country",30,34,63,57,11691281,29172
+"Russia","country",35,39,213,121,12685996,49381
+"Russia","country",40,44,561,105,11041753,62722
+"Russia","country",45,49,1032,346,10167858.5,67513
+"Russia","country",50,54,1648,681,9022436.5,79165
+"Russia","country",55,59,2894,1310,9118495,115112
+"Russia","country",60,64,5189,2444,10200108.5,191904
+"Russia","country",65,69,5879,3039,8529344.5,237609
+"Russia","country",70,74,5177,3108,6524011.5,246034
+"Russia","country",75,79,2336,1606,2828088.5,159800
+"Russia","country",80,84,2422,1926,3199550.5,285337
+"Russia","country",85,999,1484,1412,2321754.5,349041
+"Rwanda","country",0,4,0,0,1862547.5,14903
+"Rwanda","country",5,9,0,0,1741307.5,1408
+"Rwanda","country",10,14,0,0,1604936,1064
+"Rwanda","country",15,19,0,0,1555183.5,1820
+"Rwanda","country",20,24,3,2,1227959,2118
+"Rwanda","country",25,29,6,5,1049755.5,2258
+"Rwanda","country",30,34,6,5,975462.5,2679
+"Rwanda","country",35,39,10,6,884344,3268
+"Rwanda","country",40,44,13,9,726855,3645
+"Rwanda","country",45,49,16,11,485077.5,3360
+"Rwanda","country",50,54,19,12,395660.5,3967
+"Rwanda","country",55,59,27,18,323021,4619
+"Rwanda","country",60,64,27,19,310904.5,6649
+"Rwanda","country",65,69,21,15,220447.5,7104
+"Rwanda","country",70,74,13,11,148749,7516
+"Rwanda","country",75,79,7,6,77111,6073
+"Rwanda","country",80,84,4,4,41703,5163
+"Rwanda","country",85,999,3,3,20005.5,4202
+"Réunion","country",0,4,0,0,58018.5,82
+"Réunion","country",5,9,0,0,62466.5,7
+"Réunion","country",10,14,0,0,66897.5,4
+"Réunion","country",15,19,0,0,65379.5,9
+"Réunion","country",20,24,0,0,50693,13
+"Réunion","country",25,29,0,0,45982,23
+"Réunion","country",30,34,0,0,53082.5,47
+"Réunion","country",35,39,1,0,54230,58
+"Réunion","country",40,44,3,0,55441,96
+"Réunion","country",45,49,5,0,56325.5,145
+"Réunion","country",50,54,9,1,61590,223
+"Réunion","country",55,59,14,2,63917.5,356
+"Réunion","country",60,64,17,6,52727,473
+"Réunion","country",65,69,18,5,44412.5,560
+"Réunion","country",70,74,17,5,31329,560
+"Réunion","country",75,79,13,3,21472.5,621
+"Réunion","country",80,84,9,4,14561,720
+"Réunion","country",85,999,8,10,13015,1593
+"Samoa","country",0,4,0,0,28899,91
+"Samoa","country",5,9,0,0,28701,12
+"Samoa","country",10,14,0,0,25890.5,11
+"Samoa","country",15,19,0,0,20460.5,21
+"Samoa","country",20,24,0,0,16019.5,23
+"Samoa","country",25,29,0,0,14396.5,22
+"Samoa","country",30,34,0,0,12515.5,22
+"Samoa","country",35,39,0,0,11242,27
+"Samoa","country",40,44,0,0,10420.5,35
+"Samoa","country",45,49,1,0,9869.5,51
+"Samoa","country",50,54,3,1,9814.5,77
+"Samoa","country",55,59,3,1,8272,100
+"Samoa","country",60,64,3,3,6799,125
+"Samoa","country",65,69,3,1,4907.5,140
+"Samoa","country",70,74,2,1,3107,138
+"Samoa","country",75,79,1,1,2061.5,146
+"Samoa","country",80,84,1,1,1142,130
+"Samoa","country",85,999,0,0,742.5,158
+"Saudi Arabia","country",0,4,0,0,2614981.5,3200
+"Saudi Arabia","country",5,9,0,0,2753530.5,614
+"Saudi Arabia","country",10,14,0,0,2560950,714
+"Saudi Arabia","country",15,19,2,0,2259783,1320
+"Saudi Arabia","country",20,24,6,6,2550859.5,1921
+"Saudi Arabia","country",25,29,19,4,3556439,2505
+"Saudi Arabia","country",30,34,40,17,3892724,2905
+"Saudi Arabia","country",35,39,88,37,3496906,3556
+"Saudi Arabia","country",40,44,168,74,2672697,4148
+"Saudi Arabia","country",45,49,247,109,1868651,4630
+"Saudi Arabia","country",50,54,261,119,1406928.5,6008
+"Saudi Arabia","country",55,59,243,117,1012640,6934
+"Saudi Arabia","country",60,64,209,99,658724.5,6948
+"Saudi Arabia","country",65,69,159,75,354012.5,5977
+"Saudi Arabia","country",70,74,92,52,233153,7042
+"Saudi Arabia","country",75,79,58,40,150505,7905
+"Saudi Arabia","country",80,84,39,32,81787,7465
+"Saudi Arabia","country",85,999,27,27,50079.5,8906
+"Senegal","country",0,4,0,0,2424217,18986
+"Senegal","country",5,9,0,0,2302224.5,2664
+"Senegal","country",10,14,1,1,2185784,1837
+"Senegal","country",15,19,1,1,1954208,2441
+"Senegal","country",20,24,6,5,1702863,3032
+"Senegal","country",25,29,13,9,1448789.5,2873
+"Senegal","country",30,34,16,10,1190400.5,2888
+"Senegal","country",35,39,19,12,1009859,2984
+"Senegal","country",40,44,21,13,826313,3395
+"Senegal","country",45,49,22,13,668217.5,3788
+"Senegal","country",50,54,24,16,536362,4532
+"Senegal","country",55,59,25,17,435039.5,5366
+"Senegal","country",60,64,25,18,337847.5,6446
+"Senegal","country",65,69,25,19,264737.5,8041
+"Senegal","country",70,74,21,18,177282,9323
+"Senegal","country",75,79,16,14,105008,9954
+"Senegal","country",80,84,11,10,61178.5,9866
+"Senegal","country",85,999,6,5,20772,6081
+"Serbia","country",0,4,0,0,318877,303
+"Serbia","country",5,9,0,0,326660.5,38
+"Serbia","country",10,14,0,0,329315,35
+"Serbia","country",15,19,0,0,345477,115
+"Serbia","country",20,24,0,0,352405,164
+"Serbia","country",25,29,2,0,392086,221
+"Serbia","country",30,34,3,2,418163,303
+"Serbia","country",35,39,10,3,462954.5,525
+"Serbia","country",40,44,39,10,481498.5,917
+"Serbia","country",45,49,107,35,480000,1454
+"Serbia","country",50,54,191,67,456104.5,2372
+"Serbia","country",55,59,296,116,454941,4122
+"Serbia","country",60,64,390,163,473389.5,7228
+"Serbia","country",65,69,457,211,513484.5,13142
+"Serbia","country",70,74,454,248,435514.5,18046
+"Serbia","country",75,79,312,207,241079.5,16017
+"Serbia","country",80,84,211,171,180127,18984
+"Serbia","country",85,999,139,142,129136.5,23652
+"Sierra Leone","country",0,4,0,0,1153474,25804
+"Sierra Leone","country",5,9,0,0,1064451,1994
+"Sierra Leone","country",10,14,0,0,1008062.5,1280
+"Sierra Leone","country",15,19,0,0,905608,1761
+"Sierra Leone","country",20,24,0,0,802395,1992
+"Sierra Leone","country",25,29,1,1,677329.5,1731
+"Sierra Leone","country",30,34,1,0,569897.5,1667
+"Sierra Leone","country",35,39,0,0,479745,1781
+"Sierra Leone","country",40,44,0,0,396622.5,1970
+"Sierra Leone","country",45,49,0,0,324771.5,2245
+"Sierra Leone","country",50,54,0,0,262642.5,2663
+"Sierra Leone","country",55,59,1,1,209838,3144
+"Sierra Leone","country",60,64,1,1,159149.5,3771
+"Sierra Leone","country",65,69,0,0,112989.5,4231
+"Sierra Leone","country",70,74,0,0,73668,4547
+"Sierra Leone","country",75,79,0,0,46612,4623
+"Sierra Leone","country",80,84,0,0,21152,3243
+"Sierra Leone","country",85,999,1,1,8398.5,2100
+"Singapore","country",0,4,0,0,224899.5,108
+"Singapore","country",5,9,0,0,222309.5,17
+"Singapore","country",10,14,0,0,231076,45
+"Singapore","country",15,19,0,0,385215.5,118
+"Singapore","country",20,24,1,0,550460,136
+"Singapore","country",25,29,4,0,584949,129
+"Singapore","country",30,34,7,1,543519.5,156
+"Singapore","country",35,39,13,6,448157,214
+"Singapore","country",40,44,33,9,402492,385
+"Singapore","country",45,49,67,19,368947.5,733
+"Singapore","country",50,54,111,35,336546.5,1075
+"Singapore","country",55,59,174,57,327781,1776
+"Singapore","country",60,64,245,90,306510.5,2708
+"Singapore","country",65,69,281,119,259751.5,3281
+"Singapore","country",70,74,218,102,197887.5,3078
+"Singapore","country",75,79,123,70,112224,2860
+"Singapore","country",80,84,90,63,79127,3657
+"Singapore","country",85,999,104,87,68031,7867
+"Slovakia","country",0,4,0,0,288221,324
+"Slovakia","country",5,9,0,0,291239,36
+"Slovakia","country",10,14,0,0,294518.5,43
+"Slovakia","country",15,19,0,0,267979,87
+"Slovakia","country",20,24,1,0,275182.5,140
+"Slovakia","country",25,29,2,0,327236,194
+"Slovakia","country",30,34,4,1,394690,327
+"Slovakia","country",35,39,10,2,430412.5,524
+"Slovakia","country",40,44,19,8,450586.5,795
+"Slovakia","country",45,49,55,17,438100.5,1356
+"Slovakia","country",50,54,91,29,356219,1903
+"Slovakia","country",55,59,157,54,351954,3000
+"Slovakia","country",60,64,241,92,345182.5,4764
+"Slovakia","country",65,69,322,138,338791.5,6766
+"Slovakia","country",70,74,306,156,268943,8232
+"Slovakia","country",75,79,208,129,166488,7904
+"Slovakia","country",80,84,140,109,107323.5,8535
+"Slovakia","country",85,999,109,107,80129.5,13461
+"Slovenia","country",0,4,0,0,98100.5,56
+"Slovenia","country",5,9,0,0,107464,9
+"Slovenia","country",10,14,0,0,113754.5,13
+"Slovenia","country",15,19,0,0,97560,16
+"Slovenia","country",20,24,0,0,102520,34
+"Slovenia","country",25,29,1,0,114575,60
+"Slovenia","country",30,34,2,0,131211.5,81
+"Slovenia","country",35,39,3,0,146767.5,123
+"Slovenia","country",40,44,10,2,161911,191
+"Slovenia","country",45,49,20,4,157185.5,292
+"Slovenia","country",50,54,35,8,146892,428
+"Slovenia","country",55,59,58,15,152943,764
+"Slovenia","country",60,64,77,23,142657,1242
+"Slovenia","country",65,69,103,36,138228.5,1862
+"Slovenia","country",70,74,105,45,114016.5,2371
+"Slovenia","country",75,79,79,44,75872,2993
+"Slovenia","country",80,84,69,47,58654.5,3921
+"Slovenia","country",85,999,63,55,54915,8039
+"Solomon Islands","country",0,4,0,0,103127,389
+"Solomon Islands","country",5,9,0,0,100924,72
+"Solomon Islands","country",10,14,0,0,90746,53
+"Solomon Islands","country",15,19,0,0,80126,82
+"Solomon Islands","country",20,24,0,0,71633.5,103
+"Solomon Islands","country",25,29,0,0,58993,92
+"Solomon Islands","country",30,34,0,0,52837.5,96
+"Solomon Islands","country",35,39,0,0,49860.5,117
+"Solomon Islands","country",40,44,1,0,42483,141
+"Solomon Islands","country",45,49,1,0,36574.5,185
+"Solomon Islands","country",50,54,3,0,28874.5,225
+"Solomon Islands","country",55,59,0,0,21228,258
+"Solomon Islands","country",60,64,2,0,15316,294
+"Solomon Islands","country",65,69,2,5,11262,349
+"Solomon Islands","country",70,74,2,0,7900.5,396
+"Solomon Islands","country",75,79,0,0,4587.5,381
+"Solomon Islands","country",80,84,0,0,2855,393
+"Solomon Islands","country",85,999,1,0,1737.5,431
+"Somalia","country",0,4,0,0,3342170,110771
+"Somalia","country",5,9,0,0,2787749,15366
+"Somalia","country",10,14,2,2,2205187,7141
+"Somalia","country",15,19,0,0,1950792.5,7307
+"Somalia","country",20,24,9,6,1632578,8512
+"Somalia","country",25,29,13,9,1324693,7498
+"Somalia","country",30,34,12,8,958221,5838
+"Somalia","country",35,39,14,10,862350,5859
+"Somalia","country",40,44,19,14,693139,5660
+"Somalia","country",45,49,26,20,540029.5,5277
+"Somalia","country",50,54,33,26,434064,5682
+"Somalia","country",55,59,38,31,346364.5,5998
+"Somalia","country",60,64,39,33,272068.5,6935
+"Somalia","country",65,69,34,31,203805,7912
+"Somalia","country",70,74,24,24,133410.5,7980
+"Somalia","country",75,79,16,16,68945.5,6296
+"Somalia","country",80,84,8,8,32742.5,4765
+"Somalia","country",85,999,5,5,13587.5,3287
+"South Africa","country",0,4,0,0,5829285,49001
+"South Africa","country",5,9,0,0,5200557,2892
+"South Africa","country",10,14,2,0,5388893.5,3403
+"South Africa","country",15,19,6,2,5101227.5,7909
+"South Africa","country",20,24,16,4,5237294.5,14514
+"South Africa","country",25,29,56,14,5671582.5,22422
+"South Africa","country",30,34,88,25,5657866,28697
+"South Africa","country",35,39,178,43,5220333,31200
+"South Africa","country",40,44,212,45,4290973,31764
+"South Africa","country",45,49,261,64,3334920.5,32001
+"South Africa","country",50,54,324,92,2841649,36063
+"South Africa","country",55,59,394,118,2488940,43499
+"South Africa","country",60,64,391,143,2146607,52389
+"South Africa","country",65,69,394,153,1613053,55079
+"South Africa","country",70,74,381,129,1048442,49078
+"South Africa","country",75,79,287,120,570705,37849
+"South Africa","country",80,84,166,105,382778,35235
+"South Africa","country",85,999,78,75,353303.5,53483
+"South Korea","country",0,4,0,0,1463191,780
+"South Korea","country",5,9,0,0,2135208.5,126
+"South Korea","country",10,14,0,0,2312190.5,168
+"South Korea","country",15,19,1,0,2316342,376
+"South Korea","country",20,24,18,1,3129837.5,839
+"South Korea","country",25,29,26,5,3642105,1248
+"South Korea","country",30,34,91,9,3397243.5,1691
+"South Korea","country",35,39,216,26,3508742,2270
+"South Korea","country",40,44,410,53,4028717,3701
+"South Korea","country",45,49,690,113,4059397,6266
+"South Korea","country",50,54,1041,202,4491542,12641
+"South Korea","country",55,59,1385,307,4090015.5,14891
+"South Korea","country",60,64,1683,418,4153991,21148
+"South Korea","country",65,69,1633,461,3094319.5,31865
+"South Korea","country",70,74,1400,491,2152927,37592
+"South Korea","country",75,79,1210,661,1592942,47350
+"South Korea","country",80,84,945,788,1236240.5,65438
+"South Korea","country",85,999,789,939,977560,142235
+"South Sudan","country",0,4,0,0,1429247,31427
+"South Sudan","country",5,9,0,0,1486257.5,6932
+"South Sudan","country",10,14,1,0,1587099,4352
+"South Sudan","country",15,19,2,0,1367254,4865
+"South Sudan","country",20,24,6,3,1001507,4974
+"South Sudan","country",25,29,8,4,664228.5,3551
+"South Sudan","country",30,34,6,4,554400.5,3221
+"South Sudan","country",35,39,8,4,574928,3864
+"South Sudan","country",40,44,10,6,608180.5,5003
+"South Sudan","country",45,49,14,10,530130,5222
+"South Sudan","country",50,54,17,12,405670.5,5282
+"South Sudan","country",55,59,20,15,290638,4964
+"South Sudan","country",60,64,20,16,209099.5,5201
+"South Sudan","country",65,69,17,15,141948.5,5335
+"South Sudan","country",70,74,13,13,87169,5101
+"South Sudan","country",75,79,10,10,51542,4664
+"South Sudan","country",80,84,6,6,23740.5,3379
+"South Sudan","country",85,999,3,3,8137.5,1835
+"South-eastern Asia","UN_subregion",0,4,0,0,52952718.5,241968
+"South-eastern Asia","UN_subregion",5,9,0,0,57929173,33945
+"South-eastern Asia","UN_subregion",10,14,12,1,57988851,30405
+"South-eastern Asia","UN_subregion",15,19,64,8,55438993.5,58533
+"South-eastern Asia","UN_subregion",20,24,228,22,54231172.5,77603
+"South-eastern Asia","UN_subregion",25,29,568,165,54713357.5,86640
+"South-eastern Asia","UN_subregion",30,34,483,191,54030613,101780
+"South-eastern Asia","UN_subregion",35,39,935,389,51958915.5,131236
+"South-eastern Asia","UN_subregion",40,44,1877,658,48233063.5,176427
+"South-eastern Asia","UN_subregion",45,49,3141,1206,43263874,230314
+"South-eastern Asia","UN_subregion",50,54,4915,1995,39711623,306675
+"South-eastern Asia","UN_subregion",55,59,6731,2746,34667952,383373
+"South-eastern Asia","UN_subregion",60,64,7924,3443,28352195.5,462325
+"South-eastern Asia","UN_subregion",65,69,7710,3847,20873969.5,524686
+"South-eastern Asia","UN_subregion",70,74,5922,3610,13853203,547385
+"South-eastern Asia","UN_subregion",75,79,4131,3009,8398865.5,538645
+"South-eastern Asia","UN_subregion",80,84,2807,2379,4973721,497299
+"South-eastern Asia","UN_subregion",85,999,2292,2236,3326150.5,566155
+"Southern Asia","UN_subregion",0,4,0,0,181186112.5,1316219
+"Southern Asia","UN_subregion",5,9,0,0,185177922.5,98773
+"Southern Asia","UN_subregion",10,14,39,13,189131904.5,82657
+"Southern Asia","UN_subregion",15,19,203,107,187508291,150576
+"Southern Asia","UN_subregion",20,24,632,342,182236254.5,180955
+"Southern Asia","UN_subregion",25,29,1062,588,171856028.5,209196
+"Southern Asia","UN_subregion",30,34,1415,775,161675870,235167
+"Southern Asia","UN_subregion",35,39,1710,893,150208158,297360
+"Southern Asia","UN_subregion",40,44,2343,977,129598407,386109
+"Southern Asia","UN_subregion",45,49,3173,1615,111275237.5,482733
+"Southern Asia","UN_subregion",50,54,4159,2349,95834848,653521
+"Southern Asia","UN_subregion",55,59,5339,3089,81274347,974838
+"Southern Asia","UN_subregion",60,64,6157,3452,67306138.5,1177606
+"Southern Asia","UN_subregion",65,69,6071,3231,52413676.5,1414759
+"Southern Asia","UN_subregion",70,74,4689,2601,35485867,1464046
+"Southern Asia","UN_subregion",75,79,3116,1901,21265971,1370673
+"Southern Asia","UN_subregion",80,84,1857,1259,11828058.5,1175154
+"Southern Asia","UN_subregion",85,999,1191,915,7204195,1194592
+"Southern Europe","UN_subregion",0,4,0,0,5802890.5,4729
+"Southern Europe","UN_subregion",5,9,0,0,6694044.5,785
+"Southern Europe","UN_subregion",10,14,0,0,7457243.5,942
+"Southern Europe","UN_subregion",15,19,4,0,7566651.5,1937
+"Southern Europe","UN_subregion",20,24,15,0,7738602.5,2784
+"Southern Europe","UN_subregion",25,29,34,1,8018587,3331
+"Southern Europe","UN_subregion",30,34,79,16,8648937,4653
+"Southern Europe","UN_subregion",35,39,203,36,9245808.5,6884
+"Southern Europe","UN_subregion",40,44,553,112,10686450.5,12269
+"Southern Europe","UN_subregion",45,49,1302,280,11683974.5,22031
+"Southern Europe","UN_subregion",50,54,2294,519,11608133.5,36070
+"Southern Europe","UN_subregion",55,59,3447,824,11411182.5,58242
+"Southern Europe","UN_subregion",60,64,4445,1127,10272419,85737
+"Southern Europe","UN_subregion",65,69,5347,1543,8966340.5,117926
+"Southern Europe","UN_subregion",70,74,6292,2144,8010982,167012
+"Southern Europe","UN_subregion",75,79,5636,2388,6301611.5,209488
+"Southern Europe","UN_subregion",80,84,4492,2557,4858741,280927
+"Southern Europe","UN_subregion",85,999,4437,3378,5133400.5,765688
+"Spain","country",0,4,0,0,1811811,1348
+"Spain","country",5,9,0,0,2202205.5,248
+"Spain","country",10,14,0,0,2488687.5,302
+"Spain","country",15,19,2,0,2482022,545
+"Spain","country",20,24,5,0,2426845.5,770
+"Spain","country",25,29,10,0,2536980,818
+"Spain","country",30,34,27,2,2789523.5,1222
+"Spain","country",35,39,65,7,3102836.5,1856
+"Spain","country",40,44,179,32,3756847.5,3428
+"Spain","country",45,49,461,89,4003943.5,6588
+"Spain","country",50,54,862,164,3779729,10820
+"Spain","country",55,59,1308,249,3625354,17654
+"Spain","country",60,64,1638,323,3166003.5,25370
+"Spain","country",65,69,1810,412,2596492.5,29888
+"Spain","country",70,74,2035,576,2261690.5,39006
+"Spain","country",75,79,1833,700,1891874.5,54581
+"Spain","country",80,84,1198,666,1284183,63344
+"Spain","country",85,999,1283,1094,1621353,223736
+"Sri Lanka","country",0,4,0,0,1647731,2135
+"Sri Lanka","country",5,9,0,0,1734772,216
+"Sri Lanka","country",10,14,0,0,1798820,250
+"Sri Lanka","country",15,19,0,0,1794252.5,474
+"Sri Lanka","country",20,24,1,0,1667941.5,726
+"Sri Lanka","country",25,29,13,7,1652090.5,869
+"Sri Lanka","country",30,34,13,6,1565618.5,1074
+"Sri Lanka","country",35,39,17,7,1576177.5,1638
+"Sri Lanka","country",40,44,34,13,1649818.5,2898
+"Sri Lanka","country",45,49,59,30,1411731.5,4055
+"Sri Lanka","country",50,54,98,50,1336928,6215
+"Sri Lanka","country",55,59,158,77,1251499,9186
+"Sri Lanka","country",60,64,205,96,1148409.5,13547
+"Sri Lanka","country",65,69,218,100,959325.5,18436
+"Sri Lanka","country",70,74,205,97,758972,24050
+"Sri Lanka","country",75,79,149,74,478297.5,24545
+"Sri Lanka","country",80,84,76,41,245556,21370
+"Sri Lanka","country",85,999,54,32,157024,27328
+"St. Lucia","country",0,4,0,0,10303,35
+"St. Lucia","country",5,9,0,0,10555.5,4
+"St. Lucia","country",10,14,0,0,11646.5,4
+"St. Lucia","country",15,19,0,0,12742.5,10
+"St. Lucia","country",20,24,0,0,14614,16
+"St. Lucia","country",25,29,0,0,16268,19
+"St. Lucia","country",30,34,0,0,15249.5,21
+"St. Lucia","country",35,39,0,0,14206.5,26
+"St. Lucia","country",40,44,0,0,12976.5,36
+"St. Lucia","country",45,49,0,0,12336,54
+"St. Lucia","country",50,54,0,0,11976.5,82
+"St. Lucia","country",55,59,2,1,11070.5,118
+"St. Lucia","country",60,64,3,1,8740,146
+"St. Lucia","country",65,69,1,0,6155,162
+"St. Lucia","country",70,74,0,0,4286,181
+"St. Lucia","country",75,79,1,1,2990,205
+"St. Lucia","country",80,84,1,1,1636,181
+"St. Lucia","country",85,999,0,0,1029,212
+"Sub-Saharan Africa","UN_subregion",0,4,0,0,179658592.5,2872646
+"Sub-Saharan Africa","UN_subregion",5,9,0,0,162370346.5,518769
+"Sub-Saharan Africa","UN_subregion",10,14,34,20,146696207,277261
+"Sub-Saharan Africa","UN_subregion",15,19,54,31,127693292,337311
+"Sub-Saharan Africa","UN_subregion",20,24,336,233,108421830,403883
+"Sub-Saharan Africa","UN_subregion",25,29,569,440,92297453,387135
+"Sub-Saharan Africa","UN_subregion",30,34,876,500,78600481,375787
+"Sub-Saharan Africa","UN_subregion",35,39,1058,604,66529692.5,380312
+"Sub-Saharan Africa","UN_subregion",40,44,1258,714,54926982.5,392332
+"Sub-Saharan Africa","UN_subregion",45,49,1637,932,43735606,390335
+"Sub-Saharan Africa","UN_subregion",50,54,1961,1186,34894887.5,421739
+"Sub-Saharan Africa","UN_subregion",55,59,2264,1374,27547299,449065
+"Sub-Saharan Africa","UN_subregion",60,64,2365,1524,21350945.5,511484
+"Sub-Saharan Africa","UN_subregion",65,69,2216,1504,15539309,558098
+"Sub-Saharan Africa","UN_subregion",70,74,1732,1232,10377666.5,570246
+"Sub-Saharan Africa","UN_subregion",75,79,1248,962,6219863.5,526425
+"Sub-Saharan Africa","UN_subregion",80,84,683,584,3164197,407704
+"Sub-Saharan Africa","UN_subregion",85,999,348,338,1702941,354026
+"Sudan","country",0,4,0,0,7605322,84340
+"Sudan","country",5,9,0,0,6600240.5,12936
+"Sudan","country",10,14,16,0,5998108.5,7557
+"Sudan","country",15,19,49,30,5394482,10463
+"Sudan","country",20,24,54,31,4755360.5,13183
+"Sudan","country",25,29,52,32,4070922.5,12687
+"Sudan","country",30,34,48,26,3248504.5,11104
+"Sudan","country",35,39,39,16,2618191,10212
+"Sudan","country",40,44,30,9,2135506,10799
+"Sudan","country",45,49,40,11,1722189.5,10971
+"Sudan","country",50,54,47,17,1497249,13892
+"Sudan","country",55,59,64,25,1220413,15190
+"Sudan","country",60,64,84,39,973621.5,18739
+"Sudan","country",65,69,89,51,713165.5,21737
+"Sudan","country",70,74,81,62,427167,20955
+"Sudan","country",75,79,64,66,231294.5,18345
+"Sudan","country",80,84,41,55,111107.5,14365
+"Sudan","country",85,999,28,46,60500.5,14593
+"Suriname","country",0,4,0,0,53340.5,181
+"Suriname","country",5,9,0,0,55086,18
+"Suriname","country",10,14,0,0,55185.5,19
+"Suriname","country",15,19,0,0,54557.5,45
+"Suriname","country",20,24,0,0,55412,67
+"Suriname","country",25,29,0,0,48280,78
+"Suriname","country",30,34,0,0,43840,91
+"Suriname","country",35,39,1,0,44142,126
+"Suriname","country",40,44,0,0,38788.5,126
+"Suriname","country",45,49,3,1,36197,171
+"Suriname","country",50,54,2,1,35199.5,264
+"Suriname","country",55,59,3,1,32208,377
+"Suriname","country",60,64,1,0,25090,411
+"Suriname","country",65,69,1,1,17972.5,432
+"Suriname","country",70,74,6,3,11799,419
+"Suriname","country",75,79,2,1,7772.5,414
+"Suriname","country",80,84,2,1,4900,415
+"Suriname","country",85,999,1,0,3393.5,513
+"Sweden","country",0,4,0,0,582404,279
+"Sweden","country",5,9,0,0,622383,38
+"Sweden","country",10,14,0,0,629321,51
+"Sweden","country",15,19,0,0,596915,144
+"Sweden","country",20,24,1,0,581851.5,228
+"Sweden","country",25,29,5,0,679484,297
+"Sweden","country",30,34,4,2,771316.5,366
+"Sweden","country",35,39,11,3,685241,414
+"Sweden","country",40,44,31,7,643370.5,532
+"Sweden","country",45,49,65,13,656611.5,752
+"Sweden","country",50,54,115,24,661989,1327
+"Sweden","country",55,59,193,42,670678,2269
+"Sweden","country",60,64,253,62,572449,3303
+"Sweden","country",65,69,336,96,541476.5,5361
+"Sweden","country",70,74,418,150,530249.5,8925
+"Sweden","country",75,79,433,197,490229.5,13932
+"Sweden","country",80,84,273,164,299838,16046
+"Sweden","country",85,999,230,193,271530.5,40408
+"Switzerland","country",0,4,0,0,437339,325
+"Switzerland","country",5,9,0,0,447973.5,37
+"Switzerland","country",10,14,0,0,439706.5,46
+"Switzerland","country",15,19,0,0,425013,94
+"Switzerland","country",20,24,1,0,466899.5,167
+"Switzerland","country",25,29,5,0,549230.5,236
+"Switzerland","country",30,34,4,0,627455,289
+"Switzerland","country",35,39,8,2,631069,290
+"Switzerland","country",40,44,29,5,617049.5,419
+"Switzerland","country",45,49,63,11,596727.5,655
+"Switzerland","country",50,54,127,24,642787.5,1290
+"Switzerland","country",55,59,203,41,661788.5,2418
+"Switzerland","country",60,64,234,51,559403,3268
+"Switzerland","country",65,69,243,63,453540.5,4525
+"Switzerland","country",70,74,259,86,401061.5,6748
+"Switzerland","country",75,79,250,107,350860.5,9510
+"Switzerland","country",80,84,180,98,242268,11417
+"Switzerland","country",85,999,172,126,242009.5,34799
+"Syria","country",0,4,0,0,2122848.5,9942
+"Syria","country",5,9,0,0,2177811.5,946
+"Syria","country",10,14,1,0,2872588,1029
+"Syria","country",15,19,1,0,2700566.5,1996
+"Syria","country",20,24,2,0,2489905.5,2909
+"Syria","country",25,29,10,0,1775584.5,2184
+"Syria","country",30,34,19,14,1352842.5,1800
+"Syria","country",35,39,33,21,1317296,2160
+"Syria","country",40,44,10,11,1232952,2850
+"Syria","country",45,49,13,11,1091745.5,3971
+"Syria","country",50,54,37,24,933258,5329
+"Syria","country",55,59,42,23,760337.5,7019
+"Syria","country",60,64,22,4,586225,8627
+"Syria","country",65,69,74,43,432743.5,10570
+"Syria","country",70,74,36,24,296175,12228
+"Syria","country",75,79,66,48,177249,12161
+"Syria","country",80,84,60,45,93252.5,10906
+"Syria","country",85,999,67,50,48791.5,10591
+"São Tomé & Príncipe","country",0,4,0,0,30109,92
+"São Tomé & Príncipe","country",5,9,0,0,29656.5,14
+"São Tomé & Príncipe","country",10,14,0,0,28010.5,13
+"São Tomé & Príncipe","country",15,19,0,0,25988.5,34
+"São Tomé & Príncipe","country",20,24,0,0,20244.5,41
+"São Tomé & Príncipe","country",25,29,0,0,15784,36
+"São Tomé & Príncipe","country",30,34,0,0,13772.5,37
+"São Tomé & Príncipe","country",35,39,0,0,13598.5,48
+"São Tomé & Príncipe","country",40,44,0,0,12334,61
+"São Tomé & Príncipe","country",45,49,0,0,9723,70
+"São Tomé & Príncipe","country",50,54,0,0,7598,80
+"São Tomé & Príncipe","country",55,59,0,0,6012.5,91
+"São Tomé & Príncipe","country",60,64,1,1,4764,105
+"São Tomé & Príncipe","country",65,69,0,0,3287,107
+"São Tomé & Príncipe","country",70,74,0,0,2195.5,107
+"São Tomé & Príncipe","country",75,79,0,0,1524.5,114
+"São Tomé & Príncipe","country",80,84,0,0,1109.5,128
+"São Tomé & Príncipe","country",85,999,0,0,593,118
+"Tajikistan","country",0,4,0,0,1329868,8478
+"Tajikistan","country",5,9,0,0,1300312,411
+"Tajikistan","country",10,14,4,1,1095509.5,292
+"Tajikistan","country",15,19,4,4,863326,415
+"Tajikistan","country",20,24,4,4,916831,633
+"Tajikistan","country",25,29,4,3,848740.5,765
+"Tajikistan","country",30,34,6,4,821975,1035
+"Tajikistan","country",35,39,7,5,683386,1270
+"Tajikistan","country",40,44,8,4,522926.5,1376
+"Tajikistan","country",45,49,10,4,433066,1686
+"Tajikistan","country",50,54,15,8,389282.5,2436
+"Tajikistan","country",55,59,21,13,344101.5,3659
+"Tajikistan","country",60,64,22,16,279281.5,4771
+"Tajikistan","country",65,69,18,13,169926.5,4696
+"Tajikistan","country",70,74,14,8,94597.5,4285
+"Tajikistan","country",75,79,10,5,40792.5,3134
+"Tajikistan","country",80,84,9,6,31430.5,3975
+"Tajikistan","country",85,999,7,6,16869,3706
+"Tanzania","country",0,4,0,0,10595923,92401
+"Tanzania","country",5,9,0,0,9209830.5,8080
+"Tanzania","country",10,14,0,0,7966116,5792
+"Tanzania","country",15,19,0,0,7113487.5,9363
+"Tanzania","country",20,24,16,11,5999898,12115
+"Tanzania","country",25,29,14,9,5026652.5,12983
+"Tanzania","country",30,34,22,14,4180678,13928
+"Tanzania","country",35,39,27,18,3485053,15505
+"Tanzania","country",40,44,45,24,2883909,17155
+"Tanzania","country",45,49,53,26,2343235.5,19029
+"Tanzania","country",50,54,73,39,1753680,19898
+"Tanzania","country",55,59,86,47,1231685,19223
+"Tanzania","country",60,64,77,51,957637,21751
+"Tanzania","country",65,69,86,61,778552,25356
+"Tanzania","country",70,74,104,79,559343.5,26287
+"Tanzania","country",75,79,91,78,349430.5,23853
+"Tanzania","country",80,84,52,50,172749,17435
+"Tanzania","country",85,999,24,25,103961,18023
+"Thailand","country",0,4,0,0,3187635,5245
+"Thailand","country",5,9,0,0,3757384,1354
+"Thailand","country",10,14,3,0,4125870,2569
+"Thailand","country",15,19,5,1,4432367.5,6106
+"Thailand","country",20,24,16,2,4766788,6660
+"Thailand","country",25,29,54,12,5159237,7883
+"Thailand","country",30,34,42,21,5088055.5,9867
+"Thailand","country",35,39,95,32,5141609.5,17104
+"Thailand","country",40,44,235,68,5395837,30029
+"Thailand","country",45,49,463,153,5363547.5,39346
+"Thailand","country",50,54,789,284,5508385,45027
+"Thailand","country",55,59,1125,417,5167214.5,49100
+"Thailand","country",60,64,1401,545,4529024,49172
+"Thailand","country",65,69,1461,651,3579689,54711
+"Thailand","country",70,74,1234,683,2634781.5,64222
+"Thailand","country",75,79,939,634,1708893.5,68792
+"Thailand","country",80,84,670,548,1150036.5,75447
+"Thailand","country",85,999,597,591,1038974,129527
+"Timor-Leste","country",0,4,0,0,162124.5,1527
+"Timor-Leste","country",5,9,0,0,162149,149
+"Timor-Leste","country",10,14,0,0,152711.5,112
+"Timor-Leste","country",15,19,0,0,159117.5,196
+"Timor-Leste","country",20,24,0,0,139044,241
+"Timor-Leste","country",25,29,0,0,113971.5,215
+"Timor-Leste","country",30,34,0,0,96317,209
+"Timor-Leste","country",35,39,1,0,82254,227
+"Timor-Leste","country",40,44,2,2,55939.5,212
+"Timor-Leste","country",45,49,2,0,54600,313
+"Timor-Leste","country",50,54,4,2,49918.5,428
+"Timor-Leste","country",55,59,5,3,37491.5,493
+"Timor-Leste","country",60,64,5,3,29643,606
+"Timor-Leste","country",65,69,3,1,22149,725
+"Timor-Leste","country",70,74,3,1,23879.5,1275
+"Timor-Leste","country",75,79,3,3,17657,1491
+"Timor-Leste","country",80,84,2,2,7754.5,1064
+"Timor-Leste","country",85,999,2,2,2574,602
+"Togo","country",0,4,0,0,1327238,17148
+"Togo","country",5,9,0,0,1212456.5,3370
+"Togo","country",10,14,0,0,1115922,1844
+"Togo","country",15,19,0,0,941699,2390
+"Togo","country",20,24,1,1,801993,2849
+"Togo","country",25,29,4,3,694406.5,2636
+"Togo","country",30,34,4,4,612996,2578
+"Togo","country",35,39,3,3,532737.5,2560
+"Togo","country",40,44,6,4,460078,2718
+"Togo","country",45,49,10,6,384191,2845
+"Togo","country",50,54,12,8,305638.5,3188
+"Togo","country",55,59,13,9,237967.5,3551
+"Togo","country",60,64,12,8,179232,4198
+"Togo","country",65,69,9,6,129810,4810
+"Togo","country",70,74,8,5,84811.5,5304
+"Togo","country",75,79,7,6,45312,4804
+"Togo","country",80,84,4,3,17928.5,3174
+"Togo","country",85,999,2,2,5321,1588
+"Trinidad & Tobago","country",0,4,0,0,86018.5,272
+"Trinidad & Tobago","country",5,9,0,0,92536,24
+"Trinidad & Tobago","country",10,14,0,0,95171,27
+"Trinidad & Tobago","country",15,19,0,0,93514,77
+"Trinidad & Tobago","country",20,24,1,0,95136,168
+"Trinidad & Tobago","country",25,29,1,1,103943,243
+"Trinidad & Tobago","country",30,34,2,0,120993,252
+"Trinidad & Tobago","country",35,39,4,1,136657.5,360
+"Trinidad & Tobago","country",40,44,7,0,123985.5,391
+"Trinidad & Tobago","country",45,49,9,1,103062.5,444
+"Trinidad & Tobago","country",50,54,11,4,91160.5,587
+"Trinidad & Tobago","country",55,59,15,6,94805.5,826
+"Trinidad & Tobago","country",60,64,20,6,89030,1264
+"Trinidad & Tobago","country",65,69,21,11,71815,1377
+"Trinidad & Tobago","country",70,74,18,12,50160,1697
+"Trinidad & Tobago","country",75,79,14,9,27920,1603
+"Trinidad & Tobago","country",80,84,8,5,13124.5,1316
+"Trinidad & Tobago","country",85,999,5,4,6889,1376
+"Tunisia","country",0,4,0,0,938973.5,2007
+"Tunisia","country",5,9,0,0,1076507.5,261
+"Tunisia","country",10,14,0,0,982668,281
+"Tunisia","country",15,19,0,0,838143,426
+"Tunisia","country",20,24,3,1,805772.5,612
+"Tunisia","country",25,29,7,7,900895,743
+"Tunisia","country",30,34,15,8,936360.5,906
+"Tunisia","country",35,39,24,5,955399.5,1225
+"Tunisia","country",40,44,37,10,889955,1509
+"Tunisia","country",45,49,49,17,795663.5,2000
+"Tunisia","country",50,54,69,25,699338.5,2635
+"Tunisia","country",55,59,92,34,673071,4285
+"Tunisia","country",60,64,102,38,555361,6408
+"Tunisia","country",65,69,103,43,456105,9328
+"Tunisia","country",70,74,84,41,285331.5,9839
+"Tunisia","country",75,79,62,41,166680.5,9913
+"Tunisia","country",80,84,51,44,100664,10259
+"Tunisia","country",85,999,45,50,62444,12005
+"Turkey","country",0,4,0,0,5988450,10601
+"Turkey","country",5,9,0,0,6737397.5,364
+"Turkey","country",10,14,0,0,6592224,433
+"Turkey","country",15,19,1,3,6341835.5,876
+"Turkey","country",20,24,17,11,6997619,1647
+"Turkey","country",25,29,74,15,6814730,2424
+"Turkey","country",30,34,64,45,6581355.5,3493
+"Turkey","country",35,39,142,56,6535727.5,5350
+"Turkey","country",40,44,295,94,6729742.5,9365
+"Turkey","country",45,49,486,155,5883706.5,13642
+"Turkey","country",50,54,720,222,4870734,20162
+"Turkey","country",55,59,952,310,4791723,32631
+"Turkey","country",60,64,1137,383,3731561.5,43900
+"Turkey","country",65,69,1182,435,3209777,61637
+"Turkey","country",70,74,1038,416,2270730,68322
+"Turkey","country",75,79,771,413,1437858.5,68723
+"Turkey","country",80,84,502,382,878597,80216
+"Turkey","country",85,999,354,390,664703.5,131985
+"Turkmenistan","country",0,4,0,0,814469.5,6642
+"Turkmenistan","country",5,9,0,0,810223,365
+"Turkmenistan","country",10,14,1,0,666541,216
+"Turkmenistan","country",15,19,2,0,499337,304
+"Turkmenistan","country",20,24,2,2,569412.5,498
+"Turkmenistan","country",25,29,2,2,669144.5,754
+"Turkmenistan","country",30,34,4,4,619890.5,915
+"Turkmenistan","country",35,39,6,4,528259,1156
+"Turkmenistan","country",40,44,10,5,439614,1409
+"Turkmenistan","country",45,49,14,8,415651.5,2020
+"Turkmenistan","country",50,54,19,11,375021.5,2766
+"Turkmenistan","country",55,59,24,14,295226,3481
+"Turkmenistan","country",60,64,27,16,234965,4350
+"Turkmenistan","country",65,69,25,15,142111.5,4128
+"Turkmenistan","country",70,74,16,11,78047.5,3662
+"Turkmenistan","country",75,79,8,6,31502.5,2430
+"Turkmenistan","country",80,84,6,5,25736,3343
+"Turkmenistan","country",85,999,5,5,15040.5,3400
+"Uganda","country",0,4,0,0,7786402,69104
+"Uganda","country",5,9,0,0,6896441,6285
+"Uganda","country",10,14,0,0,6280048,4654
+"Uganda","country",15,19,0,0,5567885,7211
+"Uganda","country",20,24,2,1,4778587.5,9360
+"Uganda","country",25,29,18,13,3981772.5,9913
+"Uganda","country",30,34,15,10,3107857.5,9971
+"Uganda","country",35,39,27,16,2286257,9855
+"Uganda","country",40,44,31,17,1717728,10024
+"Uganda","country",45,49,46,33,1382902,11095
+"Uganda","country",50,54,66,50,1113956.5,12546
+"Uganda","country",55,59,91,63,822816,12862
+"Uganda","country",60,64,91,65,589305.5,13541
+"Uganda","country",65,69,74,58,414504.5,13288
+"Uganda","country",70,74,49,42,275542,11536
+"Uganda","country",75,79,27,26,144130,7921
+"Uganda","country",80,84,12,12,88001.5,6878
+"Uganda","country",85,999,5,5,78583,12153
+"Ukraine","country",0,4,0,0,1555464,1962
+"Ukraine","country",5,9,0,0,2168921.5,474
+"Ukraine","country",10,14,0,0,2359751,774
+"Ukraine","country",15,19,0,1,1996472.5,2475
+"Ukraine","country",20,24,4,2,1815721.5,4549
+"Ukraine","country",25,29,9,4,2309017.5,6660
+"Ukraine","country",30,34,23,13,3180644.5,10956
+"Ukraine","country",35,39,37,33,3533773.5,15593
+"Ukraine","country",40,44,152,40,3160705,19049
+"Ukraine","country",45,49,328,134,2830658,20676
+"Ukraine","country",50,54,607,267,2834878.5,26312
+"Ukraine","country",55,59,1061,483,2993712.5,37342
+"Ukraine","country",60,64,1716,832,2978993,53648
+"Ukraine","country",65,69,1849,994,2466739,62973
+"Ukraine","country",70,74,1674,1023,1917643.5,75852
+"Ukraine","country",75,79,812,551,1010124,53850
+"Ukraine","country",80,84,712,561,1119539.5,86036
+"Ukraine","country",85,999,285,301,816007,103205
+"United Arab Emirates","country",0,4,0,0,563781,610
+"United Arab Emirates","country",5,9,0,0,602749.5,61
+"United Arab Emirates","country",10,14,0,0,520915,76
+"United Arab Emirates","country",15,19,0,0,499067,108
+"United Arab Emirates","country",20,24,0,0,931808,312
+"United Arab Emirates","country",25,29,2,0,1415698.5,517
+"United Arab Emirates","country",30,34,6,2,1558712.5,683
+"United Arab Emirates","country",35,39,5,1,1338249,793
+"United Arab Emirates","country",40,44,8,8,978533,929
+"United Arab Emirates","country",45,49,10,3,669204.5,921
+"United Arab Emirates","country",50,54,24,8,474765,863
+"United Arab Emirates","country",55,59,37,14,349302.5,778
+"United Arab Emirates","country",60,64,38,16,171357.5,789
+"United Arab Emirates","country",65,69,23,10,76055.5,811
+"United Arab Emirates","country",70,74,13,6,54159,996
+"United Arab Emirates","country",75,79,12,7,20694,807
+"United Arab Emirates","country",80,84,6,5,12428.5,1128
+"United Arab Emirates","country",85,999,4,4,4606.5,904
+"United Kingdom","country",0,4,0,0,3662706.5,3141
+"United Kingdom","country",5,9,0,0,4139827,309
+"United Kingdom","country",10,14,0,0,4216973.5,394
+"United Kingdom","country",15,19,2,0,3881855.5,893
+"United Kingdom","country",20,24,11,1,4088994.5,1685
+"United Kingdom","country",25,29,35,19,4504285.5,2356
+"United Kingdom","country",30,34,41,49,4565689,3275
+"United Kingdom","country",35,39,84,72,4572286,4854
+"United Kingdom","country",40,44,220,119,4356888,6662
+"United Kingdom","country",45,49,413,182,4242921,10483
+"United Kingdom","country",50,54,886,332,4609902.5,15980
+"United Kingdom","country",55,59,1480,501,4416934.5,22395
+"United Kingdom","country",60,64,1911,673,4013493,31514
+"United Kingdom","country",65,69,2156,922,3503446.5,41626
+"United Kingdom","country",70,74,2590,1438,3301219.5,64171
+"United Kingdom","country",75,79,2561,1818,2648450,83710
+"United Kingdom","country",80,84,1851,1649,1732543,101124
+"United Kingdom","country",85,999,2044,2221,1720900,253950
+"United States","country",0,4,0,0,18785092.5,23713
+"United States","country",5,9,0,0,20508040,2249
+"United States","country",10,14,2,0,21779388.5,3185
+"United States","country",15,19,18,2,22417723,11810
+"United States","country",20,24,82,8,22333654,23221
+"United States","country",25,29,143,35,22997309,31184
+"United States","country",30,34,477,89,24462986.5,40583
+"United States","country",35,39,1172,211,23426514,46786
+"United States","country",40,44,2244,427,22423954.5,55647
+"United States","country",45,49,3384,666,20359775,72048
+"United States","country",50,54,5183,1069,21147526.5,116438
+"United States","country",55,59,6397,1483,21514930.5,184865
+"United States","country",60,64,7172,1865,21590887.5,256408
+"United States","country",65,69,6495,1940,18856580.5,293919
+"United States","country",70,74,5137,1848,15187400,350146
+"United States","country",75,79,3692,1802,10873794,387195
+"United States","country",80,84,2224,1539,6658008.5,391014
+"United States","country",85,999,2108,2061,6210481,896892
+"Uruguay","country",0,4,0,0,183057,262
+"Uruguay","country",5,9,0,0,232004.5,27
+"Uruguay","country",10,14,0,0,231479,34
+"Uruguay","country",15,19,0,0,237930.5,170
+"Uruguay","country",20,24,0,0,247418.5,291
+"Uruguay","country",25,29,2,0,253096,329
+"Uruguay","country",30,34,4,0,242294.5,339
+"Uruguay","country",35,39,5,2,220400,431
+"Uruguay","country",40,44,9,2,217447,556
+"Uruguay","country",45,49,20,4,224389,784
+"Uruguay","country",50,54,32,9,198518,1026
+"Uruguay","country",55,59,49,15,195873.5,1679
+"Uruguay","country",60,64,70,22,177568.5,2565
+"Uruguay","country",65,69,82,27,151820,3286
+"Uruguay","country",70,74,87,34,121736,4060
+"Uruguay","country",75,79,79,38,97850,4721
+"Uruguay","country",80,84,61,35,74140,5451
+"Uruguay","country",85,999,76,49,83891,10720
+"Uzbekistan","country",0,4,0,0,4133426,12251
+"Uzbekistan","country",5,9,0,0,3485905.5,2436
+"Uzbekistan","country",10,14,1,1,3060897.5,1977
+"Uzbekistan","country",15,19,2,1,2571486.5,2380
+"Uzbekistan","country",20,24,7,5,2552875.5,2468
+"Uzbekistan","country",25,29,19,8,3005424.5,2999
+"Uzbekistan","country",30,34,26,19,3042547.5,4018
+"Uzbekistan","country",35,39,45,23,2737337,5451
+"Uzbekistan","country",40,44,72,33,2177519,7122
+"Uzbekistan","country",45,49,107,54,1891100.5,10352
+"Uzbekistan","country",50,54,141,77,1626906,13084
+"Uzbekistan","country",55,59,193,111,1499911.5,17715
+"Uzbekistan","country",60,64,238,133,1216268.5,22083
+"Uzbekistan","country",65,69,221,128,839568,24089
+"Uzbekistan","country",70,74,125,78,514299.5,22791
+"Uzbekistan","country",75,79,58,38,268890,18825
+"Uzbekistan","country",80,84,34,23,190209.5,19941
+"Uzbekistan","country",85,999,14,10,124383,21341
+"Vanuatu","country",0,4,0,0,43864,163
+"Vanuatu","country",5,9,0,0,41597.5,18
+"Vanuatu","country",10,14,0,0,36112,15
+"Vanuatu","country",15,19,0,0,29118,28
+"Vanuatu","country",20,24,0,0,24976,33
+"Vanuatu","country",25,29,0,0,25107,35
+"Vanuatu","country",30,34,0,0,23481,39
+"Vanuatu","country",35,39,0,0,20147,45
+"Vanuatu","country",40,44,0,0,14022.5,45
+"Vanuatu","country",45,49,0,0,13562.5,69
+"Vanuatu","country",50,54,2,2,11337,88
+"Vanuatu","country",55,59,0,0,9288.5,111
+"Vanuatu","country",60,64,2,2,7442.5,135
+"Vanuatu","country",65,69,2,2,5609.5,159
+"Vanuatu","country",70,74,1,1,3598,166
+"Vanuatu","country",75,79,0,0,1954,148
+"Vanuatu","country",80,84,0,0,1006.5,123
+"Vanuatu","country",85,999,0,0,823,199
+"Venezuela","country",0,4,0,0,2188211,8070
+"Venezuela","country",5,9,0,0,2604538.5,916
+"Venezuela","country",10,14,0,0,2765703.5,1118
+"Venezuela","country",15,19,6,2,2664648,4348
+"Venezuela","country",20,24,6,2,2141357,6744
+"Venezuela","country",25,29,29,5,1809961,5476
+"Venezuela","country",30,34,16,13,1826064.5,4981
+"Venezuela","country",35,39,22,11,1838820,5393
+"Venezuela","country",40,44,52,20,1818576.5,5720
+"Venezuela","country",45,49,100,32,1715249,6938
+"Venezuela","country",50,54,180,53,1598026.5,9220
+"Venezuela","country",55,59,273,84,1454368,13132
+"Venezuela","country",60,64,326,109,1253389,16779
+"Venezuela","country",65,69,285,109,978224,20979
+"Venezuela","country",70,74,193,82,678657.5,19892
+"Venezuela","country",75,79,132,72,465521.5,23117
+"Venezuela","country",80,84,82,53,269258,25978
+"Venezuela","country",85,999,74,57,142443,28470
+"Vietnam","country",0,4,0,0,7311528,29542
+"Vietnam","country",5,9,0,0,8552639.5,6967
+"Vietnam","country",10,14,3,0,7994276.5,4901
+"Vietnam","country",15,19,8,1,6946479,7681
+"Vietnam","country",20,24,21,2,6321934.5,10135
+"Vietnam","country",25,29,131,33,7488563.5,12780
+"Vietnam","country",30,34,71,29,8802262,16371
+"Vietnam","country",35,39,127,64,8455940.5,17713
+"Vietnam","country",40,44,289,90,7142273,19415
+"Vietnam","country",45,49,519,188,6427005.5,22798
+"Vietnam","country",50,54,878,335,5986181,32917
+"Vietnam","country",55,59,1325,508,5461310,40488
+"Vietnam","country",60,64,1670,677,4586496.5,52973
+"Vietnam","country",65,69,1569,731,3335494.5,62157
+"Vietnam","country",70,74,993,578,2152876,65031
+"Vietnam","country",75,79,589,408,1191401,59703
+"Vietnam","country",80,84,419,340,801340,66750
+"Vietnam","country",85,999,481,464,722654,118444
+"Western Asia","UN_subregion",0,4,0,0,28309394,118810
+"Western Asia","UN_subregion",5,9,0,0,28922886.5,9666
+"Western Asia","UN_subregion",10,14,1,1,27753603,7942
+"Western Asia","UN_subregion",15,19,5,3,25033326.5,13642
+"Western Asia","UN_subregion",20,24,53,27,25155004.5,19447
+"Western Asia","UN_subregion",25,29,166,29,25834334,20812
+"Western Asia","UN_subregion",30,34,245,128,25118559.5,22814
+"Western Asia","UN_subregion",35,39,488,219,23025977,27307
+"Western Asia","UN_subregion",40,44,790,329,20233095.5,35958
+"Western Asia","UN_subregion",45,49,1189,473,16584359.5,47507
+"Western Asia","UN_subregion",50,54,1557,621,13591867,64396
+"Western Asia","UN_subregion",55,59,1881,757,11738279,89366
+"Western Asia","UN_subregion",60,64,2089,831,8804449.5,109952
+"Western Asia","UN_subregion",65,69,2113,885,6804879,139388
+"Western Asia","UN_subregion",70,74,1715,804,4784173,157466
+"Western Asia","UN_subregion",75,79,1272,754,2935105,156715
+"Western Asia","UN_subregion",80,84,875,684,1805269.5,173093
+"Western Asia","UN_subregion",85,999,673,685,1254103,238291
+"Western Europe","UN_subregion",0,4,0,0,9764604,7886
+"Western Europe","UN_subregion",5,9,0,0,10236900.5,915
+"Western Europe","UN_subregion",10,14,0,0,10387051.5,910
+"Western Europe","UN_subregion",15,19,5,0,10489789.5,2430
+"Western Europe","UN_subregion",20,24,23,1,11254086.5,3984
+"Western Europe","UN_subregion",25,29,71,3,11681860.5,4725
+"Western Europe","UN_subregion",30,34,121,26,12728833.5,6923
+"Western Europe","UN_subregion",35,39,214,51,12550688,10263
+"Western Europe","UN_subregion",40,44,633,126,12493700.5,15047
+"Western Europe","UN_subregion",45,49,1266,272,12176687.5,22800
+"Western Europe","UN_subregion",50,54,2647,606,13950520.5,43911
+"Western Europe","UN_subregion",55,59,4491,1078,14756321.5,74849
+"Western Europe","UN_subregion",60,64,5985,1456,13450749,110420
+"Western Europe","UN_subregion",65,69,6989,1919,11601811.5,145885
+"Western Europe","UN_subregion",70,74,8023,2650,10304922,201821
+"Western Europe","UN_subregion",75,79,6800,2840,7695039.5,231630
+"Western Europe","UN_subregion",80,84,6163,3415,6567678.5,370218
+"Western Europe","UN_subregion",85,999,6009,4061,6328803.5,951264
+"Yemen","country",0,4,0,0,6132510,54921
+"Yemen","country",5,9,0,0,5205966,3752
+"Yemen","country",10,14,0,0,4450651,2539
+"Yemen","country",15,19,0,0,3985807,4292
+"Yemen","country",20,24,0,0,3487754,5827
+"Yemen","country",25,29,15,4,3216510,6074
+"Yemen","country",30,34,33,17,2883886.5,6188
+"Yemen","country",35,39,63,33,2367515.5,6439
+"Yemen","country",40,44,78,43,1817599,6927
+"Yemen","country",45,49,84,45,1357749.5,7814
+"Yemen","country",50,54,58,43,1037933.5,9003
+"Yemen","country",55,59,61,44,770637.5,10201
+"Yemen","country",60,64,64,44,551226,11236
+"Yemen","country",65,69,60,40,378854.5,12258
+"Yemen","country",70,74,44,33,261568.5,13826
+"Yemen","country",75,79,33,23,183224,15582
+"Yemen","country",80,84,17,13,93382,13096
+"Yemen","country",85,999,9,7,40101,10011
+"Zambia","country",0,4,0,0,3100767.5,36581
+"Zambia","country",5,9,0,0,2839526.5,3442
+"Zambia","country",10,14,0,0,2612354,2357
+"Zambia","country",15,19,1,0,2242924.5,3141
+"Zambia","country",20,24,6,0,1889510,3751
+"Zambia","country",25,29,7,4,1613783,3800
+"Zambia","country",30,34,7,4,1390541,4033
+"Zambia","country",35,39,14,9,1187518,4502
+"Zambia","country",40,44,23,13,965961.5,4899
+"Zambia","country",45,49,30,17,752566.5,5193
+"Zambia","country",50,54,32,17,537863,5277
+"Zambia","country",55,59,30,18,379997,5269
+"Zambia","country",60,64,26,18,265569,5553
+"Zambia","country",65,69,22,17,175662.5,5925
+"Zambia","country",70,74,18,17,104724,6234
+"Zambia","country",75,79,13,13,56683.5,5722
+"Zambia","country",80,84,8,8,25627,4025
+"Zambia","country",85,999,3,3,11359.5,2813
+"Zimbabwe","country",0,4,0,0,2278428.5,23249
+"Zimbabwe","country",5,9,0,0,2258638,2473
+"Zimbabwe","country",10,14,1,1,2149515.5,2006
+"Zimbabwe","country",15,19,1,0,1805091.5,3116
+"Zimbabwe","country",20,24,2,2,1481202.5,4183
+"Zimbabwe","country",25,29,4,2,1040665.5,4160
+"Zimbabwe","country",30,34,14,9,959798.5,5187
+"Zimbabwe","country",35,39,11,3,1112187,8070
+"Zimbabwe","country",40,44,15,3,907692.5,8356
+"Zimbabwe","country",45,49,19,5,588087.5,6879
+"Zimbabwe","country",50,54,22,12,378364.5,5828
+"Zimbabwe","country",55,59,28,17,274266,5624
+"Zimbabwe","country",60,64,32,20,255310,7336
+"Zimbabwe","country",65,69,38,26,244297.5,9829
+"Zimbabwe","country",70,74,36,27,171279,9776
+"Zimbabwe","country",75,79,29,26,91238,7568
+"Zimbabwe","country",80,84,20,19,45645.5,5581
+"Zimbabwe","country",85,999,10,10,27348,5778
+NA,"country",0,4,0,0,0,0
+NA,"country",5,9,0,0,0,0
+NA,"country",10,14,507,159,0,0
+NA,"country",15,19,1686,711,0,0
+NA,"country",20,24,5769,2595,0,0
+NA,"country",25,29,12450,5262,0,0
+NA,"country",30,34,19794,8640,0,0
+NA,"country",35,39,31806,12489,0,0
+NA,"country",40,44,58227,18795,0,0
+NA,"country",45,49,102252,34386,0,0
+NA,"country",50,54,183705,61452,0,0
+NA,"country",55,59,239694,83973,0,0
+NA,"country",60,64,289707,107070,0,0
+NA,"country",65,69,353499,143118,0,0
+NA,"country",70,74,321774,150987,0,0
+NA,"country",75,79,240825,137757,0,0
+NA,"country",80,84,176043,127587,0,0
+NA,"country",85,999,151236,136164,0,0

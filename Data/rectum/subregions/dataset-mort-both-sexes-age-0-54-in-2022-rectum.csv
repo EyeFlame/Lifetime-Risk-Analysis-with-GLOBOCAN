@@ -1,0 +1,23 @@
+Alpha-3 code,Cancer code,Population code (ISO/UN),Country,Label,Sex,Number,95% UI low,95% UI high,Number,ASR (World),Crude rate,Cumulative risk
+N.A.,9,905,905,Northern America,0,2894,-,-,2894,0.83,1.1,0.06
+N.A.,9,906,906,Eastern Asia,0,15376,-,-,15376,0.79,1.3,0.06
+N.A.,9,910,910,Eastern Africa,0,2186,-,-,2186,0.74,0.50,0.05
+N.A.,9,911,911,Middle Africa,0,603,-,-,603,0.53,0.34,0.04
+N.A.,9,912,912,Northern Africa,0,1300,-,-,1300,0.62,0.59,0.04
+N.A.,9,913,913,Southern Africa,0,320,-,-,320,0.53,0.53,0.04
+N.A.,9,914,914,Western Africa,0,1551,-,-,1551,0.59,0.39,0.04
+N.A.,9,915,915,Caribbean,0,133,-,-,133,0.33,0.38,0.02
+N.A.,9,916,916,Central America,0,498,-,-,498,0.30,0.32,0.02
+N.A.,9,920,920,South-Eastern Asia,0,4635,-,-,4635,0.70,0.82,0.05
+N.A.,9,921,921,South Central Asia,0,8130,-,-,8130,0.44,0.46,0.03
+N.A.,9,922,922,Western Asia,0,1834,-,-,1834,0.69,0.73,0.05
+N.A.,9,923,923,Eastern Europe,0,2931,-,-,2931,0.96,1.5,0.07
+N.A.,9,924,924,Northern Europe,0,988,-,-,988,0.93,1.4,0.07
+N.A.,9,925,925,Southern Europe,0,963,-,-,963,0.54,1.0,0.04
+N.A.,9,926,926,Western Europe,0,1085,-,-,1085,0.53,0.86,0.04
+N.A.,9,927,927,Australia-New Zealand,0,212,-,-,212,0.71,0.96,0.05
+N.A.,9,928,928,Melanesia,0,40,-,-,40,0.46,0.39,0.04
+N.A.,9,931,931,South America,0,2490,-,-,2490,0.59,0.71,0.04
+N.A.,9,954,954,Micronesia,0,6,-,-,6,1.2,1.3,0.10
+N.A.,9,957,957,Polynesia,0,1,-,-,1,0.15,0.17,0.01
+,,,,Total,,48176,,,48176,0.66,0.76,0.05

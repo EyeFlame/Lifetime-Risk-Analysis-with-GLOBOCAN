@@ -1,0 +1,2977 @@
+"","Region","AgeStart","AgeEnd","p_code","a_code","Ri","Di"
+"1","Afghanistan",0,14,4,"AFG",10,0
+"2","Afghanistan",15,19,4,"AFG",26,17
+"3","Afghanistan",20,24,4,"AFG",37,23
+"4","Afghanistan",25,29,4,"AFG",38,25
+"5","Afghanistan",30,34,4,"AFG",55,34
+"6","Afghanistan",35,39,4,"AFG",54,35
+"7","Afghanistan",40,44,4,"AFG",74,43
+"8","Afghanistan",45,49,4,"AFG",93,55
+"9","Afghanistan",50,54,4,"AFG",114,76
+"10","Afghanistan",55,59,4,"AFG",133,88
+"11","Afghanistan",60,64,4,"AFG",144,92
+"12","Afghanistan",65,69,4,"AFG",137,85
+"13","Afghanistan",70,74,4,"AFG",117,76
+"14","Afghanistan",75,79,4,"AFG",78,53
+"15","Afghanistan",80,84,4,"AFG",37,26
+"16","Afghanistan",85,999,4,"AFG",16,11
+"17","Albania",0,14,8,"ALB",0,0
+"18","Albania",15,19,8,"ALB",0,0
+"19","Albania",20,24,8,"ALB",1,0
+"20","Albania",25,29,8,"ALB",4,0
+"21","Albania",30,34,8,"ALB",6,0
+"22","Albania",35,39,8,"ALB",9,0
+"23","Albania",40,44,8,"ALB",16,2
+"24","Albania",45,49,8,"ALB",22,6
+"25","Albania",50,54,8,"ALB",35,12
+"26","Albania",55,59,8,"ALB",63,22
+"27","Albania",60,64,8,"ALB",77,35
+"28","Albania",65,69,8,"ALB",74,46
+"29","Albania",70,74,8,"ALB",68,49
+"30","Albania",75,79,8,"ALB",58,48
+"31","Albania",80,84,8,"ALB",50,40
+"32","Albania",85,999,8,"ALB",39,32
+"33","Algeria",0,14,12,"DZA",3,0
+"34","Algeria",15,19,12,"DZA",13,23
+"35","Algeria",20,24,12,"DZA",39,42
+"36","Algeria",25,29,12,"DZA",65,22
+"37","Algeria",30,34,12,"DZA",116,16
+"38","Algeria",35,39,12,"DZA",241,53
+"39","Algeria",40,44,12,"DZA",399,133
+"40","Algeria",45,49,12,"DZA",542,226
+"41","Algeria",50,54,12,"DZA",740,335
+"42","Algeria",55,59,12,"DZA",972,434
+"43","Algeria",60,64,12,"DZA",1072,501
+"44","Algeria",65,69,12,"DZA",1092,574
+"45","Algeria",70,74,12,"DZA",894,561
+"46","Algeria",75,79,12,"DZA",649,509
+"47","Algeria",80,84,12,"DZA",492,471
+"48","Algeria",85,999,12,"DZA",418,480
+"49","Angola",0,14,24,"AGO",26,0
+"50","Angola",15,19,24,"AGO",9,0
+"51","Angola",20,24,24,"AGO",16,10
+"52","Angola",25,29,24,"AGO",22,12
+"53","Angola",30,34,24,"AGO",70,45
+"54","Angola",35,39,24,"AGO",75,34
+"55","Angola",40,44,24,"AGO",75,38
+"56","Angola",45,49,24,"AGO",62,51
+"57","Angola",50,54,24,"AGO",98,69
+"58","Angola",55,59,24,"AGO",94,60
+"59","Angola",60,64,24,"AGO",90,53
+"60","Angola",65,69,24,"AGO",87,65
+"61","Angola",70,74,24,"AGO",30,19
+"62","Angola",75,79,24,"AGO",25,29
+"63","Angola",80,84,24,"AGO",11,14
+"64","Angola",85,999,24,"AGO",15,13
+"65","Argentina",0,14,32,"ARG",0,1
+"66","Argentina",15,19,32,"ARG",16,4
+"67","Argentina",20,24,32,"ARG",119,11
+"68","Argentina",25,29,32,"ARG",48,57
+"69","Argentina",30,34,32,"ARG",60,36
+"70","Argentina",35,39,32,"ARG",166,64
+"71","Argentina",40,44,32,"ARG",404,143
+"72","Argentina",45,49,32,"ARG",731,256
+"73","Argentina",50,54,32,"ARG",1084,396
+"74","Argentina",55,59,32,"ARG",1535,621
+"75","Argentina",60,64,32,"ARG",1960,875
+"76","Argentina",65,69,32,"ARG",2255,1115
+"77","Argentina",70,74,32,"ARG",2331,1303
+"78","Argentina",75,79,32,"ARG",2044,1342
+"79","Argentina",80,84,32,"ARG",1539,1182
+"80","Argentina",85,999,32,"ARG",1571,1394
+"81","Armenia",0,14,51,"ARM",0,0
+"82","Armenia",15,19,51,"ARM",0,0
+"83","Armenia",20,24,51,"ARM",3,0
+"84","Armenia",25,29,51,"ARM",0,1
+"85","Armenia",30,34,51,"ARM",7,1
+"86","Armenia",35,39,51,"ARM",1,4
+"87","Armenia",40,44,51,"ARM",2,1
+"88","Armenia",45,49,51,"ARM",14,6
+"89","Armenia",50,54,51,"ARM",38,16
+"90","Armenia",55,59,51,"ARM",97,34
+"91","Armenia",60,64,51,"ARM",205,69
+"92","Armenia",65,69,51,"ARM",241,92
+"93","Armenia",70,74,51,"ARM",194,95
+"94","Armenia",75,79,51,"ARM",112,62
+"95","Armenia",80,84,51,"ARM",112,68
+"96","Armenia",85,999,51,"ARM",101,68
+"97","Australia",0,14,36,"AUS",69,0
+"98","Australia",15,19,36,"AUS",66,0
+"99","Australia",20,24,36,"AUS",88,2
+"100","Australia",25,29,36,"AUS",150,13
+"101","Australia",30,34,36,"AUS",234,29
+"102","Australia",35,39,36,"AUS",359,35
+"103","Australia",40,44,36,"AUS",476,54
+"104","Australia",45,49,36,"AUS",687,93
+"105","Australia",50,54,36,"AUS",949,158
+"106","Australia",55,59,36,"AUS",1300,247
+"107","Australia",60,64,36,"AUS",1754,360
+"108","Australia",65,69,36,"AUS",2082,475
+"109","Australia",70,74,36,"AUS",2409,626
+"110","Australia",75,79,36,"AUS",2317,911
+"111","Australia",80,84,36,"AUS",1862,1035
+"112","Australia",85,999,36,"AUS",2286,1677
+"113","Austria",0,14,40,"AUT",3,0
+"114","Austria",15,19,40,"AUT",4,0
+"115","Austria",20,24,40,"AUT",6,0
+"116","Austria",25,29,40,"AUT",12,0
+"117","Austria",30,34,40,"AUT",29,3
+"118","Austria",35,39,40,"AUT",52,5
+"119","Austria",40,44,40,"AUT",89,13
+"120","Austria",45,49,40,"AUT",146,26
+"121","Austria",50,54,40,"AUT",271,63
+"122","Austria",55,59,40,"AUT",426,117
+"123","Austria",60,64,40,"AUT",531,160
+"124","Austria",65,69,40,"AUT",576,216
+"125","Austria",70,74,40,"AUT",627,314
+"126","Austria",75,79,40,"AUT",603,375
+"127","Austria",80,84,40,"AUT",644,489
+"128","Austria",85,999,40,"AUT",520,482
+"129","Azerbaijan",0,14,31,"AZE",1,1
+"130","Azerbaijan",15,19,31,"AZE",4,0
+"131","Azerbaijan",20,24,31,"AZE",5,2
+"132","Azerbaijan",25,29,31,"AZE",8,3
+"133","Azerbaijan",30,34,31,"AZE",15,6
+"134","Azerbaijan",35,39,31,"AZE",41,16
+"135","Azerbaijan",40,44,31,"AZE",68,31
+"136","Azerbaijan",45,49,31,"AZE",125,59
+"137","Azerbaijan",50,54,31,"AZE",203,119
+"138","Azerbaijan",55,59,31,"AZE",253,120
+"139","Azerbaijan",60,64,31,"AZE",335,160
+"140","Azerbaijan",65,69,31,"AZE",275,138
+"141","Azerbaijan",70,74,31,"AZE",169,101
+"142","Azerbaijan",75,79,31,"AZE",92,62
+"143","Azerbaijan",80,84,31,"AZE",83,64
+"144","Azerbaijan",85,999,31,"AZE",64,52
+"145","Bahamas",0,14,44,"BHS",0,0
+"146","Bahamas",15,19,44,"BHS",0,0
+"147","Bahamas",20,24,44,"BHS",1,0
+"148","Bahamas",25,29,44,"BHS",0,0
+"149","Bahamas",30,34,44,"BHS",0,0
+"150","Bahamas",35,39,44,"BHS",0,0
+"151","Bahamas",40,44,44,"BHS",5,0
+"152","Bahamas",45,49,44,"BHS",5,3
+"153","Bahamas",50,54,44,"BHS",7,5
+"154","Bahamas",55,59,44,"BHS",9,8
+"155","Bahamas",60,64,44,"BHS",13,10
+"156","Bahamas",65,69,44,"BHS",12,11
+"157","Bahamas",70,74,44,"BHS",13,9
+"158","Bahamas",75,79,44,"BHS",13,7
+"159","Bahamas",80,84,44,"BHS",8,7
+"160","Bahamas",85,999,44,"BHS",10,4
+"161","Bahrain",0,14,48,"BHR",0,0
+"162","Bahrain",15,19,48,"BHR",0,0
+"163","Bahrain",20,24,48,"BHR",2,0
+"164","Bahrain",25,29,48,"BHR",1,1
+"165","Bahrain",30,34,48,"BHR",3,1
+"166","Bahrain",35,39,48,"BHR",6,2
+"167","Bahrain",40,44,48,"BHR",5,3
+"168","Bahrain",45,49,48,"BHR",9,1
+"169","Bahrain",50,54,48,"BHR",20,6
+"170","Bahrain",55,59,48,"BHR",22,7
+"171","Bahrain",60,64,48,"BHR",29,12
+"172","Bahrain",65,69,48,"BHR",25,10
+"173","Bahrain",70,74,48,"BHR",14,8
+"174","Bahrain",75,79,48,"BHR",10,5
+"175","Bahrain",80,84,48,"BHR",7,5
+"176","Bahrain",85,999,48,"BHR",4,4
+"177","Bangladesh",0,14,50,"BGD",3,1
+"178","Bangladesh",15,19,50,"BGD",30,17
+"179","Bangladesh",20,24,50,"BGD",134,71
+"180","Bangladesh",25,29,50,"BGD",187,121
+"181","Bangladesh",30,34,50,"BGD",295,170
+"182","Bangladesh",35,39,50,"BGD",307,156
+"183","Bangladesh",40,44,50,"BGD",423,203
+"184","Bangladesh",45,49,50,"BGD",520,310
+"185","Bangladesh",50,54,50,"BGD",639,397
+"186","Bangladesh",55,59,50,"BGD",724,454
+"187","Bangladesh",60,64,50,"BGD",663,395
+"188","Bangladesh",65,69,50,"BGD",503,296
+"189","Bangladesh",70,74,50,"BGD",432,257
+"190","Bangladesh",75,79,50,"BGD",388,262
+"191","Bangladesh",80,84,50,"BGD",265,188
+"192","Bangladesh",85,999,50,"BGD",210,159
+"193","Barbados",0,14,52,"BRB",0,0
+"194","Barbados",15,19,52,"BRB",0,0
+"195","Barbados",20,24,52,"BRB",0,0
+"196","Barbados",25,29,52,"BRB",1,0
+"197","Barbados",30,34,52,"BRB",0,0
+"198","Barbados",35,39,52,"BRB",0,0
+"199","Barbados",40,44,52,"BRB",2,0
+"200","Barbados",45,49,52,"BRB",8,1
+"201","Barbados",50,54,52,"BRB",13,5
+"202","Barbados",55,59,52,"BRB",13,9
+"203","Barbados",60,64,52,"BRB",18,14
+"204","Barbados",65,69,52,"BRB",16,12
+"205","Barbados",70,74,52,"BRB",24,17
+"206","Barbados",75,79,52,"BRB",20,17
+"207","Barbados",80,84,52,"BRB",17,13
+"208","Barbados",85,999,52,"BRB",16,14
+"209","Belarus",0,14,112,"BLR",0,0
+"210","Belarus",15,19,112,"BLR",1,0
+"211","Belarus",20,24,112,"BLR",5,1
+"212","Belarus",25,29,112,"BLR",7,1
+"213","Belarus",30,34,112,"BLR",17,5
+"214","Belarus",35,39,112,"BLR",40,18
+"215","Belarus",40,44,112,"BLR",88,12
+"216","Belarus",45,49,112,"BLR",165,53
+"217","Belarus",50,54,112,"BLR",305,120
+"218","Belarus",55,59,112,"BLR",562,231
+"219","Belarus",60,64,112,"BLR",1003,422
+"220","Belarus",65,69,112,"BLR",1247,536
+"221","Belarus",70,74,112,"BLR",1156,536
+"222","Belarus",75,79,112,"BLR",634,342
+"223","Belarus",80,84,112,"BLR",528,346
+"224","Belarus",85,999,112,"BLR",402,347
+"225","Belgium",0,14,56,"BEL",6,0
+"226","Belgium",15,19,56,"BEL",6,0
+"227","Belgium",20,24,56,"BEL",11,0
+"228","Belgium",25,29,56,"BEL",19,0
+"229","Belgium",30,34,56,"BEL",27,4
+"230","Belgium",35,39,56,"BEL",51,4
+"231","Belgium",40,44,56,"BEL",102,15
+"232","Belgium",45,49,56,"BEL",188,35
+"233","Belgium",50,54,56,"BEL",374,76
+"234","Belgium",55,59,56,"BEL",642,140
+"235","Belgium",60,64,56,"BEL",942,212
+"236","Belgium",65,69,56,"BEL",1128,314
+"237","Belgium",70,74,56,"BEL",1228,470
+"238","Belgium",75,79,56,"BEL",1145,546
+"239","Belgium",80,84,56,"BEL",921,569
+"240","Belgium",85,999,56,"BEL",1159,849
+"241","Belize",0,14,84,"BLZ",0,0
+"242","Belize",15,19,84,"BLZ",0,0
+"243","Belize",20,24,84,"BLZ",0,0
+"244","Belize",25,29,84,"BLZ",0,0
+"245","Belize",30,34,84,"BLZ",0,0
+"246","Belize",35,39,84,"BLZ",1,1
+"247","Belize",40,44,84,"BLZ",0,0
+"248","Belize",45,49,84,"BLZ",0,0
+"249","Belize",50,54,84,"BLZ",3,1
+"250","Belize",55,59,84,"BLZ",3,3
+"251","Belize",60,64,84,"BLZ",4,4
+"252","Belize",65,69,84,"BLZ",2,2
+"253","Belize",70,74,84,"BLZ",2,2
+"254","Belize",75,79,84,"BLZ",1,1
+"255","Belize",80,84,84,"BLZ",3,3
+"256","Belize",85,999,84,"BLZ",2,2
+"257","Benin",0,14,204,"BEN",0,0
+"258","Benin",15,19,204,"BEN",4,0
+"259","Benin",20,24,204,"BEN",8,0
+"260","Benin",25,29,204,"BEN",21,9
+"261","Benin",30,34,204,"BEN",22,11
+"262","Benin",35,39,204,"BEN",19,12
+"263","Benin",40,44,204,"BEN",26,14
+"264","Benin",45,49,204,"BEN",31,17
+"265","Benin",50,54,204,"BEN",46,29
+"266","Benin",55,59,204,"BEN",57,35
+"267","Benin",60,64,204,"BEN",55,39
+"268","Benin",65,69,204,"BEN",51,42
+"269","Benin",70,74,204,"BEN",53,45
+"270","Benin",75,79,204,"BEN",47,43
+"271","Benin",80,84,204,"BEN",35,34
+"272","Benin",85,999,204,"BEN",23,23
+"273","Bhutan",0,14,64,"BTN",0,0
+"274","Bhutan",15,19,64,"BTN",0,0
+"275","Bhutan",20,24,64,"BTN",0,0
+"276","Bhutan",25,29,64,"BTN",0,0
+"277","Bhutan",30,34,64,"BTN",0,0
+"278","Bhutan",35,39,64,"BTN",1,1
+"279","Bhutan",40,44,64,"BTN",1,1
+"280","Bhutan",45,49,64,"BTN",2,1
+"281","Bhutan",50,54,64,"BTN",2,1
+"282","Bhutan",55,59,64,"BTN",4,2
+"283","Bhutan",60,64,64,"BTN",4,2
+"284","Bhutan",65,69,64,"BTN",4,3
+"285","Bhutan",70,74,64,"BTN",4,4
+"286","Bhutan",75,79,64,"BTN",4,3
+"287","Bhutan",80,84,64,"BTN",2,1
+"288","Bhutan",85,999,64,"BTN",2,1
+"289","Bolivia (Plurinational State of)",0,14,68,"BOL",0,0
+"290","Bolivia (Plurinational State of)",15,19,68,"BOL",0,0
+"291","Bolivia (Plurinational State of)",20,24,68,"BOL",2,0
+"292","Bolivia (Plurinational State of)",25,29,68,"BOL",4,0
+"293","Bolivia (Plurinational State of)",30,34,68,"BOL",7,2
+"294","Bolivia (Plurinational State of)",35,39,68,"BOL",12,0
+"295","Bolivia (Plurinational State of)",40,44,68,"BOL",24,17
+"296","Bolivia (Plurinational State of)",45,49,68,"BOL",46,32
+"297","Bolivia (Plurinational State of)",50,54,68,"BOL",58,31
+"298","Bolivia (Plurinational State of)",55,59,68,"BOL",83,39
+"299","Bolivia (Plurinational State of)",60,64,68,"BOL",90,42
+"300","Bolivia (Plurinational State of)",65,69,68,"BOL",107,66
+"301","Bolivia (Plurinational State of)",70,74,68,"BOL",110,76
+"302","Bolivia (Plurinational State of)",75,79,68,"BOL",70,58
+"303","Bolivia (Plurinational State of)",80,84,68,"BOL",43,35
+"304","Bolivia (Plurinational State of)",85,999,68,"BOL",45,34
+"305","Bosnia Herzegovina",0,14,70,"BIH",0,0
+"306","Bosnia Herzegovina",15,19,70,"BIH",0,0
+"307","Bosnia Herzegovina",20,24,70,"BIH",2,0
+"308","Bosnia Herzegovina",25,29,70,"BIH",2,0
+"309","Bosnia Herzegovina",30,34,70,"BIH",3,1
+"310","Bosnia Herzegovina",35,39,70,"BIH",16,3
+"311","Bosnia Herzegovina",40,44,70,"BIH",38,10
+"312","Bosnia Herzegovina",45,49,70,"BIH",72,19
+"313","Bosnia Herzegovina",50,54,70,"BIH",115,38
+"314","Bosnia Herzegovina",55,59,70,"BIH",184,76
+"315","Bosnia Herzegovina",60,64,70,"BIH",274,147
+"316","Bosnia Herzegovina",65,69,70,"BIH",369,204
+"317","Bosnia Herzegovina",70,74,70,"BIH",333,197
+"318","Bosnia Herzegovina",75,79,70,"BIH",193,137
+"319","Bosnia Herzegovina",80,84,70,"BIH",152,132
+"320","Bosnia Herzegovina",85,999,70,"BIH",102,122
+"321","Botswana",0,14,72,"BWA",0,0
+"322","Botswana",15,19,72,"BWA",0,0
+"323","Botswana",20,24,72,"BWA",0,0
+"324","Botswana",25,29,72,"BWA",3,1
+"325","Botswana",30,34,72,"BWA",4,2
+"326","Botswana",35,39,72,"BWA",8,3
+"327","Botswana",40,44,72,"BWA",13,8
+"328","Botswana",45,49,72,"BWA",9,1
+"329","Botswana",50,54,72,"BWA",9,3
+"330","Botswana",55,59,72,"BWA",9,2
+"331","Botswana",60,64,72,"BWA",10,5
+"332","Botswana",65,69,72,"BWA",8,6
+"333","Botswana",70,74,72,"BWA",7,7
+"334","Botswana",75,79,72,"BWA",6,6
+"335","Botswana",80,84,72,"BWA",3,3
+"336","Botswana",85,999,72,"BWA",0,0
+"337","Brazil",0,14,76,"BRA",28,4
+"338","Brazil",15,19,76,"BRA",50,13
+"339","Brazil",20,24,76,"BRA",171,50
+"340","Brazil",25,29,76,"BRA",410,96
+"341","Brazil",30,34,76,"BRA",343,333
+"342","Brazil",35,39,76,"BRA",924,337
+"343","Brazil",40,44,76,"BRA",1945,621
+"344","Brazil",45,49,76,"BRA",3150,1106
+"345","Brazil",50,54,76,"BRA",4693,1749
+"346","Brazil",55,59,76,"BRA",6488,2599
+"347","Brazil",60,64,76,"BRA",7638,3351
+"348","Brazil",65,69,76,"BRA",8022,3806
+"349","Brazil",70,74,76,"BRA",7789,3892
+"350","Brazil",75,79,76,"BRA",6741,3683
+"351","Brazil",80,84,76,"BRA",5568,3313
+"352","Brazil",85,999,76,"BRA",6158,3931
+"353","Brunei Darussalam",0,14,96,"BRN",0,0
+"354","Brunei Darussalam",15,19,96,"BRN",0,0
+"355","Brunei Darussalam",20,24,96,"BRN",0,0
+"356","Brunei Darussalam",25,29,96,"BRN",0,0
+"357","Brunei Darussalam",30,34,96,"BRN",1,0
+"358","Brunei Darussalam",35,39,96,"BRN",4,2
+"359","Brunei Darussalam",40,44,96,"BRN",9,3
+"360","Brunei Darussalam",45,49,96,"BRN",13,3
+"361","Brunei Darussalam",50,54,96,"BRN",20,7
+"362","Brunei Darussalam",55,59,96,"BRN",22,8
+"363","Brunei Darussalam",60,64,96,"BRN",24,11
+"364","Brunei Darussalam",65,69,96,"BRN",22,9
+"365","Brunei Darussalam",70,74,96,"BRN",15,9
+"366","Brunei Darussalam",75,79,96,"BRN",10,8
+"367","Brunei Darussalam",80,84,96,"BRN",7,8
+"368","Brunei Darussalam",85,999,96,"BRN",6,9
+"369","Bulgaria",0,14,100,"BGR",1,0
+"370","Bulgaria",15,19,100,"BGR",1,0
+"371","Bulgaria",20,24,100,"BGR",1,0
+"372","Bulgaria",25,29,100,"BGR",4,0
+"373","Bulgaria",30,34,100,"BGR",8,3
+"374","Bulgaria",35,39,100,"BGR",19,8
+"375","Bulgaria",40,44,100,"BGR",44,22
+"376","Bulgaria",45,49,100,"BGR",120,56
+"377","Bulgaria",50,54,100,"BGR",229,102
+"378","Bulgaria",55,59,100,"BGR",382,167
+"379","Bulgaria",60,64,100,"BGR",654,273
+"380","Bulgaria",65,69,100,"BGR",921,393
+"381","Bulgaria",70,74,100,"BGR",1023,503
+"382","Bulgaria",75,79,100,"BGR",814,482
+"383","Bulgaria",80,84,100,"BGR",508,382
+"384","Bulgaria",85,999,100,"BGR",357,368
+"385","Burkina Faso",0,14,854,"BFA",0,0
+"386","Burkina Faso",15,19,854,"BFA",11,9
+"387","Burkina Faso",20,24,854,"BFA",19,14
+"388","Burkina Faso",25,29,854,"BFA",50,40
+"389","Burkina Faso",30,34,854,"BFA",10,8
+"390","Burkina Faso",35,39,854,"BFA",80,62
+"391","Burkina Faso",40,44,854,"BFA",25,18
+"392","Burkina Faso",45,49,854,"BFA",51,49
+"393","Burkina Faso",50,54,854,"BFA",99,73
+"394","Burkina Faso",55,59,854,"BFA",63,47
+"395","Burkina Faso",60,64,854,"BFA",37,30
+"396","Burkina Faso",65,69,854,"BFA",0,0
+"397","Burkina Faso",70,74,854,"BFA",0,0
+"398","Burkina Faso",75,79,854,"BFA",15,12
+"399","Burkina Faso",80,84,854,"BFA",0,0
+"400","Burkina Faso",85,999,854,"BFA",0,0
+"401","Burundi",0,14,108,"BDI",1,0
+"402","Burundi",15,19,108,"BDI",1,0
+"403","Burundi",20,24,108,"BDI",4,2
+"404","Burundi",25,29,108,"BDI",12,7
+"405","Burundi",30,34,108,"BDI",16,9
+"406","Burundi",35,39,108,"BDI",17,13
+"407","Burundi",40,44,108,"BDI",22,12
+"408","Burundi",45,49,108,"BDI",27,14
+"409","Burundi",50,54,108,"BDI",32,20
+"410","Burundi",55,59,108,"BDI",42,32
+"411","Burundi",60,64,108,"BDI",54,44
+"412","Burundi",65,69,108,"BDI",52,45
+"413","Burundi",70,74,108,"BDI",35,32
+"414","Burundi",75,79,108,"BDI",22,22
+"415","Burundi",80,84,108,"BDI",13,13
+"416","Burundi",85,999,108,"BDI",9,9
+"417","Cambodia",0,14,116,"KHM",0,0
+"418","Cambodia",15,19,116,"KHM",1,0
+"419","Cambodia",20,24,116,"KHM",3,1
+"420","Cambodia",25,29,116,"KHM",12,4
+"421","Cambodia",30,34,116,"KHM",30,15
+"422","Cambodia",35,39,116,"KHM",76,35
+"423","Cambodia",40,44,116,"KHM",94,47
+"424","Cambodia",45,49,116,"KHM",105,48
+"425","Cambodia",50,54,116,"KHM",177,85
+"426","Cambodia",55,59,116,"KHM",222,106
+"427","Cambodia",60,64,116,"KHM",225,117
+"428","Cambodia",65,69,116,"KHM",235,139
+"429","Cambodia",70,74,116,"KHM",221,153
+"430","Cambodia",75,79,116,"KHM",159,128
+"431","Cambodia",80,84,116,"KHM",101,93
+"432","Cambodia",85,999,116,"KHM",65,64
+"433","Cameroon",0,14,120,"CMR",2,0
+"434","Cameroon",15,19,120,"CMR",2,0
+"435","Cameroon",20,24,120,"CMR",23,14
+"436","Cameroon",25,29,120,"CMR",33,19
+"437","Cameroon",30,34,120,"CMR",30,18
+"438","Cameroon",35,39,120,"CMR",48,27
+"439","Cameroon",40,44,120,"CMR",72,39
+"440","Cameroon",45,49,120,"CMR",96,60
+"441","Cameroon",50,54,120,"CMR",119,75
+"442","Cameroon",55,59,120,"CMR",132,84
+"443","Cameroon",60,64,120,"CMR",119,80
+"444","Cameroon",65,69,120,"CMR",94,68
+"445","Cameroon",70,74,120,"CMR",69,53
+"446","Cameroon",75,79,120,"CMR",43,39
+"447","Cameroon",80,84,120,"CMR",24,22
+"448","Cameroon",85,999,120,"CMR",10,10
+"449","Canada",0,14,124,"CAN",16,0
+"450","Canada",15,19,124,"CAN",22,1
+"451","Canada",20,24,124,"CAN",24,4
+"452","Canada",25,29,124,"CAN",56,16
+"453","Canada",30,34,124,"CAN",163,46
+"454","Canada",35,39,124,"CAN",343,90
+"455","Canada",40,44,124,"CAN",563,151
+"456","Canada",45,49,124,"CAN",856,225
+"457","Canada",50,54,124,"CAN",1292,339
+"458","Canada",55,59,124,"CAN",2008,521
+"459","Canada",60,64,124,"CAN",2859,738
+"460","Canada",65,69,124,"CAN",3325,880
+"461","Canada",70,74,124,"CAN",3508,894
+"462","Canada",75,79,124,"CAN",3215,1640
+"463","Canada",80,84,124,"CAN",2496,2160
+"464","Canada",85,999,124,"CAN",2979,3816
+"465","Cape Verde",0,14,132,"CPV",0,0
+"466","Cape Verde",15,19,132,"CPV",0,0
+"467","Cape Verde",20,24,132,"CPV",0,0
+"468","Cape Verde",25,29,132,"CPV",0,0
+"469","Cape Verde",30,34,132,"CPV",1,0
+"470","Cape Verde",35,39,132,"CPV",0,0
+"471","Cape Verde",40,44,132,"CPV",4,0
+"472","Cape Verde",45,49,132,"CPV",1,1
+"473","Cape Verde",50,54,132,"CPV",5,1
+"474","Cape Verde",55,59,132,"CPV",6,0
+"475","Cape Verde",60,64,132,"CPV",4,0
+"476","Cape Verde",65,69,132,"CPV",4,0
+"477","Cape Verde",70,74,132,"CPV",1,2
+"478","Cape Verde",75,79,132,"CPV",1,2
+"479","Cape Verde",80,84,132,"CPV",0,3
+"480","Cape Verde",85,999,132,"CPV",1,4
+"481","Central African Republic",0,14,140,"CAF",5,0
+"482","Central African Republic",15,19,140,"CAF",4,0
+"483","Central African Republic",20,24,140,"CAF",8,6
+"484","Central African Republic",25,29,140,"CAF",6,4
+"485","Central African Republic",30,34,140,"CAF",6,3
+"486","Central African Republic",35,39,140,"CAF",8,8
+"487","Central African Republic",40,44,140,"CAF",11,7
+"488","Central African Republic",45,49,140,"CAF",13,9
+"489","Central African Republic",50,54,140,"CAF",15,10
+"490","Central African Republic",55,59,140,"CAF",18,18
+"491","Central African Republic",60,64,140,"CAF",15,11
+"492","Central African Republic",65,69,140,"CAF",14,13
+"493","Central African Republic",70,74,140,"CAF",11,11
+"494","Central African Republic",75,79,140,"CAF",10,10
+"495","Central African Republic",80,84,140,"CAF",6,6
+"496","Central African Republic",85,999,140,"CAF",3,3
+"497","Chad",0,14,148,"TCD",9,0
+"498","Chad",15,19,148,"TCD",16,13
+"499","Chad",20,24,148,"TCD",9,8
+"500","Chad",25,29,148,"TCD",31,27
+"501","Chad",30,34,148,"TCD",10,9
+"502","Chad",35,39,148,"TCD",32,25
+"503","Chad",40,44,148,"TCD",1,2
+"504","Chad",45,49,148,"TCD",35,28
+"505","Chad",50,54,148,"TCD",28,21
+"506","Chad",55,59,148,"TCD",8,6
+"507","Chad",60,64,148,"TCD",10,8
+"508","Chad",65,69,148,"TCD",12,9
+"509","Chad",70,74,148,"TCD",9,7
+"510","Chad",75,79,148,"TCD",18,15
+"511","Chad",80,84,148,"TCD",0,0
+"512","Chad",85,999,148,"TCD",0,0
+"513","Chile",0,14,152,"CHL",0,0
+"514","Chile",15,19,152,"CHL",0,0
+"515","Chile",20,24,152,"CHL",17,3
+"516","Chile",25,29,152,"CHL",25,8
+"517","Chile",30,34,152,"CHL",27,24
+"518","Chile",35,39,152,"CHL",48,26
+"519","Chile",40,44,152,"CHL",110,44
+"520","Chile",45,49,152,"CHL",224,82
+"521","Chile",50,54,152,"CHL",372,140
+"522","Chile",55,59,152,"CHL",599,207
+"523","Chile",60,64,152,"CHL",833,308
+"524","Chile",65,69,152,"CHL",1001,410
+"525","Chile",70,74,152,"CHL",989,468
+"526","Chile",75,79,152,"CHL",887,496
+"527","Chile",80,84,152,"CHL",737,472
+"528","Chile",85,999,152,"CHL",909,642
+"529","China",0,14,156,"CHN",148,50
+"530","China",15,19,156,"CHN",239,87
+"531","China",20,24,156,"CHN",506,185
+"532","China",25,29,156,"CHN",1554,466
+"533","China",30,34,156,"CHN",4125,1264
+"534","China",35,39,156,"CHN",6052,1690
+"535","China",40,44,156,"CHN",10194,2803
+"536","China",45,49,156,"CHN",20691,6189
+"537","China",50,54,156,"CHN",47598,13762
+"538","China",55,59,156,"CHN",57082,17530
+"539","China",60,64,156,"CHN",60299,20201
+"540","China",65,69,156,"CHN",92532,35490
+"541","China",70,74,156,"CHN",81043,37415
+"542","China",75,79,156,"CHN",59243,35396
+"543","China",80,84,156,"CHN",43466,33503
+"544","China",85,999,156,"CHN",32334,33979
+"545","Colombia",0,14,170,"COL",2,1
+"546","Colombia",15,19,170,"COL",22,8
+"547","Colombia",20,24,170,"COL",75,20
+"548","Colombia",25,29,170,"COL",47,59
+"549","Colombia",30,34,170,"COL",74,54
+"550","Colombia",35,39,170,"COL",182,84
+"551","Colombia",40,44,170,"COL",348,133
+"552","Colombia",45,49,170,"COL",548,202
+"553","Colombia",50,54,170,"COL",831,318
+"554","Colombia",55,59,170,"COL",1200,481
+"555","Colombia",60,64,170,"COL",1447,606
+"556","Colombia",65,69,170,"COL",1601,729
+"557","Colombia",70,74,170,"COL",1547,793
+"558","Colombia",75,79,170,"COL",1252,746
+"559","Colombia",80,84,170,"COL",963,646
+"560","Colombia",85,999,170,"COL",1024,760
+"561","Comoros",0,14,174,"COM",0,0
+"562","Comoros",15,19,174,"COM",0,0
+"563","Comoros",20,24,174,"COM",0,0
+"564","Comoros",25,29,174,"COM",0,0
+"565","Comoros",30,34,174,"COM",0,0
+"566","Comoros",35,39,174,"COM",0,0
+"567","Comoros",40,44,174,"COM",0,0
+"568","Comoros",45,49,174,"COM",0,0
+"569","Comoros",50,54,174,"COM",1,1
+"570","Comoros",55,59,174,"COM",3,2
+"571","Comoros",60,64,174,"COM",3,1
+"572","Comoros",65,69,174,"COM",4,3
+"573","Comoros",70,74,174,"COM",4,3
+"574","Comoros",75,79,174,"COM",2,2
+"575","Comoros",80,84,174,"COM",0,0
+"576","Comoros",85,999,174,"COM",0,0
+"577","Congo, Democratic Republic of",0,14,180,"COD",39,15
+"578","Congo, Democratic Republic of",15,19,180,"COD",33,19
+"579","Congo, Democratic Republic of",20,24,180,"COD",67,44
+"580","Congo, Democratic Republic of",25,29,180,"COD",104,70
+"581","Congo, Democratic Republic of",30,34,180,"COD",109,72
+"582","Congo, Democratic Republic of",35,39,180,"COD",106,78
+"583","Congo, Democratic Republic of",40,44,180,"COD",177,102
+"584","Congo, Democratic Republic of",45,49,180,"COD",243,152
+"585","Congo, Democratic Republic of",50,54,180,"COD",303,201
+"586","Congo, Democratic Republic of",55,59,180,"COD",343,239
+"587","Congo, Democratic Republic of",60,64,180,"COD",355,260
+"588","Congo, Democratic Republic of",65,69,180,"COD",342,271
+"589","Congo, Democratic Republic of",70,74,180,"COD",304,263
+"590","Congo, Democratic Republic of",75,79,180,"COD",229,213
+"591","Congo, Democratic Republic of",80,84,180,"COD",134,131
+"592","Congo, Democratic Republic of",85,999,180,"COD",73,75
+"593","Congo, Republic of",0,14,178,"COG",0,0
+"594","Congo, Republic of",15,19,178,"COG",0,0
+"595","Congo, Republic of",20,24,178,"COG",3,3
+"596","Congo, Republic of",25,29,178,"COG",4,2
+"597","Congo, Republic of",30,34,178,"COG",4,2
+"598","Congo, Republic of",35,39,178,"COG",6,4
+"599","Congo, Republic of",40,44,178,"COG",14,9
+"600","Congo, Republic of",45,49,178,"COG",22,13
+"601","Congo, Republic of",50,54,178,"COG",27,17
+"602","Congo, Republic of",55,59,178,"COG",33,21
+"603","Congo, Republic of",60,64,178,"COG",20,12
+"604","Congo, Republic of",65,69,178,"COG",15,9
+"605","Congo, Republic of",70,74,178,"COG",10,7
+"606","Congo, Republic of",75,79,178,"COG",6,5
+"607","Congo, Republic of",80,84,178,"COG",3,3
+"608","Congo, Republic of",85,999,178,"COG",1,1
+"609","Costa Rica",0,14,188,"CRI",0,0
+"610","Costa Rica",15,19,188,"CRI",0,0
+"611","Costa Rica",20,24,188,"CRI",4,0
+"612","Costa Rica",25,29,188,"CRI",5,3
+"613","Costa Rica",30,34,188,"CRI",10,7
+"614","Costa Rica",35,39,188,"CRI",14,12
+"615","Costa Rica",40,44,188,"CRI",26,15
+"616","Costa Rica",45,49,188,"CRI",41,21
+"617","Costa Rica",50,54,188,"CRI",65,35
+"618","Costa Rica",55,59,188,"CRI",107,60
+"619","Costa Rica",60,64,188,"CRI",141,79
+"620","Costa Rica",65,69,188,"CRI",155,82
+"621","Costa Rica",70,74,188,"CRI",164,89
+"622","Costa Rica",75,79,188,"CRI",148,97
+"623","Costa Rica",80,84,188,"CRI",115,89
+"624","Costa Rica",85,999,188,"CRI",126,120
+"625","Côte d'Ivoire",0,14,384,"CIV",0,0
+"626","Côte d'Ivoire",15,19,384,"CIV",3,2
+"627","Côte d'Ivoire",20,24,384,"CIV",12,21
+"628","Côte d'Ivoire",25,29,384,"CIV",39,13
+"629","Côte d'Ivoire",30,34,384,"CIV",39,28
+"630","Côte d'Ivoire",35,39,384,"CIV",52,38
+"631","Côte d'Ivoire",40,44,384,"CIV",79,63
+"632","Côte d'Ivoire",45,49,384,"CIV",100,80
+"633","Côte d'Ivoire",50,54,384,"CIV",127,94
+"634","Côte d'Ivoire",55,59,384,"CIV",148,98
+"635","Côte d'Ivoire",60,64,384,"CIV",155,100
+"636","Côte d'Ivoire",65,69,384,"CIV",120,81
+"637","Côte d'Ivoire",70,74,384,"CIV",86,60
+"638","Côte d'Ivoire",75,79,384,"CIV",54,39
+"639","Côte d'Ivoire",80,84,384,"CIV",31,22
+"640","Côte d'Ivoire",85,999,384,"CIV",12,9
+"641","Croatia",0,14,191,"HRV",0,0
+"642","Croatia",15,19,191,"HRV",0,0
+"643","Croatia",20,24,191,"HRV",3,0
+"644","Croatia",25,29,191,"HRV",5,0
+"645","Croatia",30,34,191,"HRV",10,4
+"646","Croatia",35,39,191,"HRV",16,6
+"647","Croatia",40,44,191,"HRV",50,16
+"648","Croatia",45,49,191,"HRV",95,28
+"649","Croatia",50,54,191,"HRV",171,54
+"650","Croatia",55,59,191,"HRV",328,104
+"651","Croatia",60,64,191,"HRV",528,180
+"652","Croatia",65,69,191,"HRV",721,290
+"653","Croatia",70,74,191,"HRV",735,374
+"654","Croatia",75,79,191,"HRV",569,368
+"655","Croatia",80,84,191,"HRV",513,422
+"656","Croatia",85,999,191,"HRV",446,417
+"657","Cuba",0,14,192,"CUB",0,0
+"658","Cuba",15,19,192,"CUB",16,0
+"659","Cuba",20,24,192,"CUB",1,4
+"660","Cuba",25,29,192,"CUB",6,6
+"661","Cuba",30,34,192,"CUB",8,14
+"662","Cuba",35,39,192,"CUB",14,8
+"663","Cuba",40,44,192,"CUB",36,13
+"664","Cuba",45,49,192,"CUB",110,46
+"665","Cuba",50,54,192,"CUB",267,115
+"666","Cuba",55,59,192,"CUB",504,215
+"667","Cuba",60,64,192,"CUB",586,267
+"668","Cuba",65,69,192,"CUB",658,323
+"669","Cuba",70,74,192,"CUB",768,438
+"670","Cuba",75,79,192,"CUB",737,504
+"671","Cuba",80,84,192,"CUB",629,499
+"672","Cuba",85,999,192,"CUB",673,609
+"673","Cyprus",0,14,196,"CYP",0,0
+"674","Cyprus",15,19,196,"CYP",0,0
+"675","Cyprus",20,24,196,"CYP",0,0
+"676","Cyprus",25,29,196,"CYP",0,0
+"677","Cyprus",30,34,196,"CYP",2,0
+"678","Cyprus",35,39,196,"CYP",5,0
+"679","Cyprus",40,44,196,"CYP",11,1
+"680","Cyprus",45,49,196,"CYP",18,5
+"681","Cyprus",50,54,196,"CYP",30,11
+"682","Cyprus",55,59,196,"CYP",48,20
+"683","Cyprus",60,64,196,"CYP",65,24
+"684","Cyprus",65,69,196,"CYP",77,30
+"685","Cyprus",70,74,196,"CYP",85,49
+"686","Cyprus",75,79,196,"CYP",86,57
+"687","Cyprus",80,84,196,"CYP",71,65
+"688","Cyprus",85,999,196,"CYP",70,71
+"689","Czechia",0,14,203,"CZE",5,0
+"690","Czechia",15,19,203,"CZE",6,0
+"691","Czechia",20,24,203,"CZE",10,0
+"692","Czechia",25,29,203,"CZE",22,0
+"693","Czechia",30,34,203,"CZE",22,2
+"694","Czechia",35,39,203,"CZE",39,3
+"695","Czechia",40,44,203,"CZE",101,22
+"696","Czechia",45,49,203,"CZE",232,55
+"697","Czechia",50,54,203,"CZE",353,96
+"698","Czechia",55,59,203,"CZE",577,179
+"699","Czechia",60,64,203,"CZE",819,282
+"700","Czechia",65,69,203,"CZE",1253,488
+"701","Czechia",70,74,203,"CZE",1451,673
+"702","Czechia",75,79,203,"CZE",1240,676
+"703","Czechia",80,84,203,"CZE",783,513
+"704","Czechia",85,999,203,"CZE",655,515
+"705","Denmark",0,14,208,"DNK",2,0
+"706","Denmark",15,19,208,"DNK",2,0
+"707","Denmark",20,24,208,"DNK",3,0
+"708","Denmark",25,29,208,"DNK",11,0
+"709","Denmark",30,34,208,"DNK",16,1
+"710","Denmark",35,39,208,"DNK",19,2
+"711","Denmark",40,44,208,"DNK",51,7
+"712","Denmark",45,49,208,"DNK",123,18
+"713","Denmark",50,54,208,"DNK",266,41
+"714","Denmark",55,59,208,"DNK",531,78
+"715","Denmark",60,64,208,"DNK",739,125
+"716","Denmark",65,69,208,"DNK",994,203
+"717","Denmark",70,74,208,"DNK",1208,326
+"718","Denmark",75,79,208,"DNK",1318,433
+"719","Denmark",80,84,208,"DNK",864,357
+"720","Denmark",85,999,208,"DNK",731,401
+"721","Djibouti",0,14,262,"DJI",0,0
+"722","Djibouti",15,19,262,"DJI",0,0
+"723","Djibouti",20,24,262,"DJI",1,0
+"724","Djibouti",25,29,262,"DJI",2,2
+"725","Djibouti",30,34,262,"DJI",4,2
+"726","Djibouti",35,39,262,"DJI",4,2
+"727","Djibouti",40,44,262,"DJI",4,4
+"728","Djibouti",45,49,262,"DJI",6,4
+"729","Djibouti",50,54,262,"DJI",7,4
+"730","Djibouti",55,59,262,"DJI",7,5
+"731","Djibouti",60,64,262,"DJI",6,6
+"732","Djibouti",65,69,262,"DJI",6,6
+"733","Djibouti",70,74,262,"DJI",5,5
+"734","Djibouti",75,79,262,"DJI",4,4
+"735","Djibouti",80,84,262,"DJI",2,1
+"736","Djibouti",85,999,262,"DJI",0,0
+"737","Dominican Republic",0,14,214,"DOM",0,2
+"738","Dominican Republic",15,19,214,"DOM",5,0
+"739","Dominican Republic",20,24,214,"DOM",7,4
+"740","Dominican Republic",25,29,214,"DOM",9,6
+"741","Dominican Republic",30,34,214,"DOM",21,10
+"742","Dominican Republic",35,39,214,"DOM",44,17
+"743","Dominican Republic",40,44,214,"DOM",71,28
+"744","Dominican Republic",45,49,214,"DOM",102,46
+"745","Dominican Republic",50,54,214,"DOM",136,58
+"746","Dominican Republic",55,59,214,"DOM",216,94
+"747","Dominican Republic",60,64,214,"DOM",248,125
+"748","Dominican Republic",65,69,214,"DOM",276,156
+"749","Dominican Republic",70,74,214,"DOM",222,131
+"750","Dominican Republic",75,79,214,"DOM",167,102
+"751","Dominican Republic",80,84,214,"DOM",123,75
+"752","Dominican Republic",85,999,214,"DOM",135,80
+"753","Ecuador",0,14,218,"ECU",2,0
+"754","Ecuador",15,19,218,"ECU",8,0
+"755","Ecuador",20,24,218,"ECU",11,6
+"756","Ecuador",25,29,218,"ECU",27,10
+"757","Ecuador",30,34,218,"ECU",21,22
+"758","Ecuador",35,39,218,"ECU",42,21
+"759","Ecuador",40,44,218,"ECU",76,29
+"760","Ecuador",45,49,218,"ECU",126,47
+"761","Ecuador",50,54,218,"ECU",189,72
+"762","Ecuador",55,59,218,"ECU",245,100
+"763","Ecuador",60,64,218,"ECU",284,125
+"764","Ecuador",65,69,218,"ECU",325,146
+"765","Ecuador",70,74,218,"ECU",322,150
+"766","Ecuador",75,79,218,"ECU",297,168
+"767","Ecuador",80,84,218,"ECU",260,171
+"768","Ecuador",85,999,218,"ECU",296,216
+"769","Egypt",0,14,818,"EGY",7,1
+"770","Egypt",15,19,818,"EGY",63,50
+"771","Egypt",20,24,818,"EGY",125,68
+"772","Egypt",25,29,818,"EGY",185,113
+"773","Egypt",30,34,818,"EGY",292,159
+"774","Egypt",35,39,818,"EGY",431,220
+"775","Egypt",40,44,818,"EGY",559,244
+"776","Egypt",45,49,818,"EGY",636,268
+"777","Egypt",50,54,818,"EGY",691,287
+"778","Egypt",55,59,818,"EGY",710,300
+"779","Egypt",60,64,818,"EGY",670,304
+"780","Egypt",65,69,818,"EGY",554,278
+"781","Egypt",70,74,818,"EGY",459,273
+"782","Egypt",75,79,818,"EGY",301,234
+"783","Egypt",80,84,818,"EGY",152,158
+"784","Egypt",85,999,818,"EGY",105,139
+"785","El Salvador",0,14,222,"SLV",0,0
+"786","El Salvador",15,19,222,"SLV",1,1
+"787","El Salvador",20,24,222,"SLV",4,1
+"788","El Salvador",25,29,222,"SLV",9,2
+"789","El Salvador",30,34,222,"SLV",13,6
+"790","El Salvador",35,39,222,"SLV",23,6
+"791","El Salvador",40,44,222,"SLV",34,13
+"792","El Salvador",45,49,222,"SLV",41,17
+"793","El Salvador",50,54,222,"SLV",47,25
+"794","El Salvador",55,59,222,"SLV",53,28
+"795","El Salvador",60,64,222,"SLV",60,34
+"796","El Salvador",65,69,222,"SLV",68,38
+"797","El Salvador",70,74,222,"SLV",80,44
+"798","El Salvador",75,79,222,"SLV",84,49
+"799","El Salvador",80,84,222,"SLV",84,51
+"800","El Salvador",85,999,222,"SLV",91,58
+"801","Equatorial Guinea",0,14,226,"GNQ",0,0
+"802","Equatorial Guinea",15,19,226,"GNQ",0,0
+"803","Equatorial Guinea",20,24,226,"GNQ",3,3
+"804","Equatorial Guinea",25,29,226,"GNQ",2,2
+"805","Equatorial Guinea",30,34,226,"GNQ",5,5
+"806","Equatorial Guinea",35,39,226,"GNQ",7,6
+"807","Equatorial Guinea",40,44,226,"GNQ",4,3
+"808","Equatorial Guinea",45,49,226,"GNQ",6,4
+"809","Equatorial Guinea",50,54,226,"GNQ",5,3
+"810","Equatorial Guinea",55,59,226,"GNQ",6,4
+"811","Equatorial Guinea",60,64,226,"GNQ",8,5
+"812","Equatorial Guinea",65,69,226,"GNQ",2,2
+"813","Equatorial Guinea",70,74,226,"GNQ",1,1
+"814","Equatorial Guinea",75,79,226,"GNQ",0,0
+"815","Equatorial Guinea",80,84,226,"GNQ",0,0
+"816","Equatorial Guinea",85,999,226,"GNQ",0,0
+"817","Eritrea",0,14,232,"ERI",3,0
+"818","Eritrea",15,19,232,"ERI",5,0
+"819","Eritrea",20,24,232,"ERI",5,3
+"820","Eritrea",25,29,232,"ERI",5,3
+"821","Eritrea",30,34,232,"ERI",8,4
+"822","Eritrea",35,39,232,"ERI",12,8
+"823","Eritrea",40,44,232,"ERI",10,6
+"824","Eritrea",45,49,232,"ERI",14,10
+"825","Eritrea",50,54,232,"ERI",16,14
+"826","Eritrea",55,59,232,"ERI",15,11
+"827","Eritrea",60,64,232,"ERI",17,13
+"828","Eritrea",65,69,232,"ERI",17,13
+"829","Eritrea",70,74,232,"ERI",17,14
+"830","Eritrea",75,79,232,"ERI",13,12
+"831","Eritrea",80,84,232,"ERI",8,8
+"832","Eritrea",85,999,232,"ERI",4,4
+"833","Estonia",0,14,233,"EST",0,0
+"834","Estonia",15,19,233,"EST",0,0
+"835","Estonia",20,24,233,"EST",0,0
+"836","Estonia",25,29,233,"EST",1,0
+"837","Estonia",30,34,233,"EST",2,0
+"838","Estonia",35,39,233,"EST",5,0
+"839","Estonia",40,44,233,"EST",9,0
+"840","Estonia",45,49,233,"EST",20,3
+"841","Estonia",50,54,233,"EST",39,7
+"842","Estonia",55,59,233,"EST",64,19
+"843","Estonia",60,64,233,"EST",112,43
+"844","Estonia",65,69,233,"EST",156,68
+"845","Estonia",70,74,233,"EST",186,91
+"846","Estonia",75,79,233,"EST",152,86
+"847","Estonia",80,84,233,"EST",166,115
+"848","Estonia",85,999,233,"EST",162,124
+"849","Eswatini",0,14,748,"SWZ",0,0
+"850","Eswatini",15,19,748,"SWZ",0,0
+"851","Eswatini",20,24,748,"SWZ",0,0
+"852","Eswatini",25,29,748,"SWZ",1,1
+"853","Eswatini",30,34,748,"SWZ",2,2
+"854","Eswatini",35,39,748,"SWZ",3,3
+"855","Eswatini",40,44,748,"SWZ",5,4
+"856","Eswatini",45,49,748,"SWZ",5,4
+"857","Eswatini",50,54,748,"SWZ",5,5
+"858","Eswatini",55,59,748,"SWZ",3,2
+"859","Eswatini",60,64,748,"SWZ",4,3
+"860","Eswatini",65,69,748,"SWZ",3,3
+"861","Eswatini",70,74,748,"SWZ",3,1
+"862","Eswatini",75,79,748,"SWZ",2,2
+"863","Eswatini",80,84,748,"SWZ",1,1
+"864","Eswatini",85,999,748,"SWZ",0,0
+"865","Ethiopia",0,14,231,"ETH",14,9
+"866","Ethiopia",15,19,231,"ETH",16,12
+"867","Ethiopia",20,24,231,"ETH",217,164
+"868","Ethiopia",25,29,231,"ETH",273,214
+"869","Ethiopia",30,34,231,"ETH",321,239
+"870","Ethiopia",35,39,231,"ETH",450,344
+"871","Ethiopia",40,44,231,"ETH",499,410
+"872","Ethiopia",45,49,231,"ETH",672,487
+"873","Ethiopia",50,54,231,"ETH",767,569
+"874","Ethiopia",55,59,231,"ETH",746,562
+"875","Ethiopia",60,64,231,"ETH",785,557
+"876","Ethiopia",65,69,231,"ETH",690,470
+"877","Ethiopia",70,74,231,"ETH",503,379
+"878","Ethiopia",75,79,231,"ETH",349,256
+"879","Ethiopia",80,84,231,"ETH",165,124
+"880","Ethiopia",85,999,231,"ETH",84,67
+"881","Fiji",0,14,242,"FJI",0,0
+"882","Fiji",15,19,242,"FJI",0,0
+"883","Fiji",20,24,242,"FJI",1,0
+"884","Fiji",25,29,242,"FJI",0,0
+"885","Fiji",30,34,242,"FJI",0,0
+"886","Fiji",35,39,242,"FJI",3,1
+"887","Fiji",40,44,242,"FJI",5,1
+"888","Fiji",45,49,242,"FJI",5,4
+"889","Fiji",50,54,242,"FJI",11,5
+"890","Fiji",55,59,242,"FJI",8,5
+"891","Fiji",60,64,242,"FJI",17,10
+"892","Fiji",65,69,242,"FJI",13,8
+"893","Fiji",70,74,242,"FJI",13,9
+"894","Fiji",75,79,242,"FJI",9,3
+"895","Fiji",80,84,242,"FJI",5,6
+"896","Fiji",85,999,242,"FJI",6,6
+"897","Finland",0,14,246,"FIN",1,0
+"898","Finland",15,19,246,"FIN",2,0
+"899","Finland",20,24,246,"FIN",2,0
+"900","Finland",25,29,246,"FIN",4,0
+"901","Finland",30,34,246,"FIN",15,1
+"902","Finland",35,39,246,"FIN",25,1
+"903","Finland",40,44,246,"FIN",44,8
+"904","Finland",45,49,246,"FIN",76,13
+"905","Finland",50,54,246,"FIN",133,32
+"906","Finland",55,59,246,"FIN",243,63
+"907","Finland",60,64,246,"FIN",374,108
+"908","Finland",65,69,246,"FIN",539,176
+"909","Finland",70,74,246,"FIN",719,277
+"910","Finland",75,79,246,"FIN",690,287
+"911","Finland",80,84,246,"FIN",553,278
+"912","Finland",85,999,246,"FIN",600,325
+"913","France (metropolitan)",0,14,250,"FRA",35,0
+"914","France (metropolitan)",15,19,250,"FRA",25,0
+"915","France (metropolitan)",20,24,250,"FRA",58,1
+"916","France (metropolitan)",25,29,250,"FRA",39,12
+"917","France (metropolitan)",30,34,250,"FRA",163,45
+"918","France (metropolitan)",35,39,250,"FRA",351,77
+"919","France (metropolitan)",40,44,250,"FRA",724,153
+"920","France (metropolitan)",45,49,250,"FRA",1322,291
+"921","France (metropolitan)",50,54,250,"FRA",2278,544
+"922","France (metropolitan)",55,59,250,"FRA",3511,882
+"923","France (metropolitan)",60,64,250,"FRA",5258,1177
+"924","France (metropolitan)",65,69,250,"FRA",7027,1833
+"925","France (metropolitan)",70,74,250,"FRA",8832,3132
+"926","France (metropolitan)",75,79,250,"FRA",7583,3382
+"927","France (metropolitan)",80,84,250,"FRA",5972,3537
+"928","France (metropolitan)",85,999,250,"FRA",8458,6152
+"929","France, Guadeloupe",0,14,312,"GLP",0,0
+"930","France, Guadeloupe",15,19,312,"GLP",0,0
+"931","France, Guadeloupe",20,24,312,"GLP",0,0
+"932","France, Guadeloupe",25,29,312,"GLP",0,0
+"933","France, Guadeloupe",30,34,312,"GLP",0,0
+"934","France, Guadeloupe",35,39,312,"GLP",1,0
+"935","France, Guadeloupe",40,44,312,"GLP",4,0
+"936","France, Guadeloupe",45,49,312,"GLP",8,3
+"937","France, Guadeloupe",50,54,312,"GLP",14,5
+"938","France, Guadeloupe",55,59,312,"GLP",22,7
+"939","France, Guadeloupe",60,64,312,"GLP",28,9
+"940","France, Guadeloupe",65,69,312,"GLP",31,12
+"941","France, Guadeloupe",70,74,312,"GLP",30,13
+"942","France, Guadeloupe",75,79,312,"GLP",27,17
+"943","France, Guadeloupe",80,84,312,"GLP",17,15
+"944","France, Guadeloupe",85,999,312,"GLP",18,20
+"945","France, La Réunion",0,14,638,"REU",0,0
+"946","France, La Réunion",15,19,638,"REU",0,0
+"947","France, La Réunion",20,24,638,"REU",0,0
+"948","France, La Réunion",25,29,638,"REU",0,0
+"949","France, La Réunion",30,34,638,"REU",0,0
+"950","France, La Réunion",35,39,638,"REU",2,1
+"951","France, La Réunion",40,44,638,"REU",6,1
+"952","France, La Réunion",45,49,638,"REU",13,3
+"953","France, La Réunion",50,54,638,"REU",24,6
+"954","France, La Réunion",55,59,638,"REU",38,12
+"955","France, La Réunion",60,64,638,"REU",47,17
+"956","France, La Réunion",65,69,638,"REU",53,21
+"957","France, La Réunion",70,74,638,"REU",49,23
+"958","France, La Réunion",75,79,638,"REU",38,22
+"959","France, La Réunion",80,84,638,"REU",29,23
+"960","France, La Réunion",85,999,638,"REU",29,37
+"961","France, Martinique",0,14,474,"MTQ",0,0
+"962","France, Martinique",15,19,474,"MTQ",0,0
+"963","France, Martinique",20,24,474,"MTQ",0,0
+"964","France, Martinique",25,29,474,"MTQ",0,0
+"965","France, Martinique",30,34,474,"MTQ",0,0
+"966","France, Martinique",35,39,474,"MTQ",1,0
+"967","France, Martinique",40,44,474,"MTQ",3,0
+"968","France, Martinique",45,49,474,"MTQ",7,2
+"969","France, Martinique",50,54,474,"MTQ",13,4
+"970","France, Martinique",55,59,474,"MTQ",19,8
+"971","France, Martinique",60,64,474,"MTQ",25,9
+"972","France, Martinique",65,69,474,"MTQ",28,10
+"973","France, Martinique",70,74,474,"MTQ",31,12
+"974","France, Martinique",75,79,474,"MTQ",28,14
+"975","France, Martinique",80,84,474,"MTQ",25,16
+"976","France, Martinique",85,999,474,"MTQ",32,27
+"977","French Guyana",0,14,254,"GUF",0,0
+"978","French Guyana",15,19,254,"GUF",0,0
+"979","French Guyana",20,24,254,"GUF",0,0
+"980","French Guyana",25,29,254,"GUF",0,0
+"981","French Guyana",30,34,254,"GUF",0,0
+"982","French Guyana",35,39,254,"GUF",0,0
+"983","French Guyana",40,44,254,"GUF",0,0
+"984","French Guyana",45,49,254,"GUF",3,0
+"985","French Guyana",50,54,254,"GUF",5,2
+"986","French Guyana",55,59,254,"GUF",8,4
+"987","French Guyana",60,64,254,"GUF",6,3
+"988","French Guyana",65,69,254,"GUF",6,1
+"989","French Guyana",70,74,254,"GUF",7,2
+"990","French Guyana",75,79,254,"GUF",5,4
+"991","French Guyana",80,84,254,"GUF",4,2
+"992","French Guyana",85,999,254,"GUF",2,4
+"993","French Polynesia",0,14,258,"PYF",0,0
+"994","French Polynesia",15,19,258,"PYF",0,0
+"995","French Polynesia",20,24,258,"PYF",0,0
+"996","French Polynesia",25,29,258,"PYF",0,0
+"997","French Polynesia",30,34,258,"PYF",0,0
+"998","French Polynesia",35,39,258,"PYF",0,0
+"999","French Polynesia",40,44,258,"PYF",0,0
+"1000","French Polynesia",45,49,258,"PYF",2,0
+"1001","French Polynesia",50,54,258,"PYF",4,0
+"1002","French Polynesia",55,59,258,"PYF",5,2
+"1003","French Polynesia",60,64,258,"PYF",6,2
+"1004","French Polynesia",65,69,258,"PYF",7,5
+"1005","French Polynesia",70,74,258,"PYF",7,7
+"1006","French Polynesia",75,79,258,"PYF",8,6
+"1007","French Polynesia",80,84,258,"PYF",5,3
+"1008","French Polynesia",85,999,258,"PYF",4,0
+"1009","Gabon",0,14,266,"GAB",0,0
+"1010","Gabon",15,19,266,"GAB",0,0
+"1011","Gabon",20,24,266,"GAB",3,0
+"1012","Gabon",25,29,266,"GAB",3,1
+"1013","Gabon",30,34,266,"GAB",5,5
+"1014","Gabon",35,39,266,"GAB",9,9
+"1015","Gabon",40,44,266,"GAB",10,8
+"1016","Gabon",45,49,266,"GAB",15,4
+"1017","Gabon",50,54,266,"GAB",14,8
+"1018","Gabon",55,59,266,"GAB",15,8
+"1019","Gabon",60,64,266,"GAB",19,13
+"1020","Gabon",65,69,266,"GAB",7,5
+"1021","Gabon",70,74,266,"GAB",4,4
+"1022","Gabon",75,79,266,"GAB",3,1
+"1023","Gabon",80,84,266,"GAB",2,1
+"1024","Gabon",85,999,266,"GAB",0,0
+"1025","Gaza Strip and West Bank",0,14,275,"PSE",0,0
+"1026","Gaza Strip and West Bank",15,19,275,"PSE",2,0
+"1027","Gaza Strip and West Bank",20,24,275,"PSE",4,3
+"1028","Gaza Strip and West Bank",25,29,275,"PSE",10,1
+"1029","Gaza Strip and West Bank",30,34,275,"PSE",10,4
+"1030","Gaza Strip and West Bank",35,39,275,"PSE",18,8
+"1031","Gaza Strip and West Bank",40,44,275,"PSE",29,14
+"1032","Gaza Strip and West Bank",45,49,275,"PSE",43,22
+"1033","Gaza Strip and West Bank",50,54,275,"PSE",57,31
+"1034","Gaza Strip and West Bank",55,59,275,"PSE",71,38
+"1035","Gaza Strip and West Bank",60,64,275,"PSE",74,40
+"1036","Gaza Strip and West Bank",65,69,275,"PSE",70,40
+"1037","Gaza Strip and West Bank",70,74,275,"PSE",69,43
+"1038","Gaza Strip and West Bank",75,79,275,"PSE",51,38
+"1039","Gaza Strip and West Bank",80,84,275,"PSE",29,25
+"1040","Gaza Strip and West Bank",85,999,275,"PSE",16,16
+"1041","Georgia",0,14,268,"GEO",0,0
+"1042","Georgia",15,19,268,"GEO",0,0
+"1043","Georgia",20,24,268,"GEO",0,0
+"1044","Georgia",25,29,268,"GEO",3,0
+"1045","Georgia",30,34,268,"GEO",3,2
+"1046","Georgia",35,39,268,"GEO",3,3
+"1047","Georgia",40,44,268,"GEO",7,6
+"1048","Georgia",45,49,268,"GEO",25,12
+"1049","Georgia",50,54,268,"GEO",52,25
+"1050","Georgia",55,59,268,"GEO",105,48
+"1051","Georgia",60,64,268,"GEO",173,80
+"1052","Georgia",65,69,268,"GEO",212,103
+"1053","Georgia",70,74,268,"GEO",205,113
+"1054","Georgia",75,79,268,"GEO",139,92
+"1055","Georgia",80,84,268,"GEO",112,87
+"1056","Georgia",85,999,268,"GEO",86,78
+"1057","Germany",0,14,276,"DEU",16,0
+"1058","Germany",15,19,276,"DEU",21,0
+"1059","Germany",20,24,276,"DEU",51,0
+"1060","Germany",25,29,276,"DEU",74,1
+"1061","Germany",30,34,276,"DEU",82,35
+"1062","Germany",35,39,276,"DEU",159,60
+"1063","Germany",40,44,276,"DEU",502,145
+"1064","Germany",45,49,276,"DEU",1026,285
+"1065","Germany",50,54,276,"DEU",2293,711
+"1066","Germany",55,59,276,"DEU",4242,1367
+"1067","Germany",60,64,276,"DEU",5907,1849
+"1068","Germany",65,69,276,"DEU",7228,2474
+"1069","Germany",70,74,276,"DEU",9091,3429
+"1070","Germany",75,79,276,"DEU",8927,3953
+"1071","Germany",80,84,276,"DEU",11698,6095
+"1072","Germany",85,999,276,"DEU",11227,6140
+"1073","Ghana",0,14,288,"GHA",0,0
+"1074","Ghana",15,19,288,"GHA",0,0
+"1075","Ghana",20,24,288,"GHA",7,10
+"1076","Ghana",25,29,288,"GHA",43,18
+"1077","Ghana",30,34,288,"GHA",52,23
+"1078","Ghana",35,39,288,"GHA",50,26
+"1079","Ghana",40,44,288,"GHA",71,36
+"1080","Ghana",45,49,288,"GHA",82,54
+"1081","Ghana",50,54,288,"GHA",131,83
+"1082","Ghana",55,59,288,"GHA",142,86
+"1083","Ghana",60,64,288,"GHA",111,76
+"1084","Ghana",65,69,288,"GHA",86,69
+"1085","Ghana",70,74,288,"GHA",87,69
+"1086","Ghana",75,79,288,"GHA",69,58
+"1087","Ghana",80,84,288,"GHA",37,32
+"1088","Ghana",85,999,288,"GHA",18,16
+"1089","Greece",0,14,300,"GRC",1,0
+"1090","Greece",15,19,300,"GRC",2,0
+"1091","Greece",20,24,300,"GRC",3,0
+"1092","Greece",25,29,300,"GRC",3,0
+"1093","Greece",30,34,300,"GRC",8,2
+"1094","Greece",35,39,300,"GRC",17,6
+"1095","Greece",40,44,300,"GRC",71,19
+"1096","Greece",45,49,300,"GRC",170,44
+"1097","Greece",50,54,300,"GRC",316,91
+"1098","Greece",55,59,300,"GRC",479,136
+"1099","Greece",60,64,300,"GRC",702,201
+"1100","Greece",65,69,300,"GRC",994,314
+"1101","Greece",70,74,300,"GRC",1278,501
+"1102","Greece",75,79,300,"GRC",1338,633
+"1103","Greece",80,84,300,"GRC",1181,747
+"1104","Greece",85,999,300,"GRC",1296,1070
+"1105","Guam",0,14,316,"GUM",0,0
+"1106","Guam",15,19,316,"GUM",0,0
+"1107","Guam",20,24,316,"GUM",0,0
+"1108","Guam",25,29,316,"GUM",0,0
+"1109","Guam",30,34,316,"GUM",0,0
+"1110","Guam",35,39,316,"GUM",0,0
+"1111","Guam",40,44,316,"GUM",0,0
+"1112","Guam",45,49,316,"GUM",3,0
+"1113","Guam",50,54,316,"GUM",4,2
+"1114","Guam",55,59,316,"GUM",4,0
+"1115","Guam",60,64,316,"GUM",5,5
+"1116","Guam",65,69,316,"GUM",4,4
+"1117","Guam",70,74,316,"GUM",7,3
+"1118","Guam",75,79,316,"GUM",6,4
+"1119","Guam",80,84,316,"GUM",5,5
+"1120","Guam",85,999,316,"GUM",3,3
+"1121","Guatemala",0,14,320,"GTM",0,0
+"1122","Guatemala",15,19,320,"GTM",4,2
+"1123","Guatemala",20,24,320,"GTM",5,3
+"1124","Guatemala",25,29,320,"GTM",16,6
+"1125","Guatemala",30,34,320,"GTM",18,13
+"1126","Guatemala",35,39,320,"GTM",22,14
+"1127","Guatemala",40,44,320,"GTM",31,19
+"1128","Guatemala",45,49,320,"GTM",43,30
+"1129","Guatemala",50,54,320,"GTM",52,33
+"1130","Guatemala",55,59,320,"GTM",65,39
+"1131","Guatemala",60,64,320,"GTM",88,50
+"1132","Guatemala",65,69,320,"GTM",117,67
+"1133","Guatemala",70,74,320,"GTM",121,71
+"1134","Guatemala",75,79,320,"GTM",105,66
+"1135","Guatemala",80,84,320,"GTM",97,60
+"1136","Guatemala",85,999,320,"GTM",110,71
+"1137","Guinea",0,14,324,"GIN",3,2
+"1138","Guinea",15,19,324,"GIN",2,2
+"1139","Guinea",20,24,324,"GIN",4,4
+"1140","Guinea",25,29,324,"GIN",11,9
+"1141","Guinea",30,34,324,"GIN",11,9
+"1142","Guinea",35,39,324,"GIN",14,10
+"1143","Guinea",40,44,324,"GIN",15,12
+"1144","Guinea",45,49,324,"GIN",17,14
+"1145","Guinea",50,54,324,"GIN",18,13
+"1146","Guinea",55,59,324,"GIN",21,16
+"1147","Guinea",60,64,324,"GIN",21,15
+"1148","Guinea",65,69,324,"GIN",20,14
+"1149","Guinea",70,74,324,"GIN",19,14
+"1150","Guinea",75,79,324,"GIN",13,11
+"1151","Guinea",80,84,324,"GIN",8,8
+"1152","Guinea",85,999,324,"GIN",4,4
+"1153","Guinea-Bissau",0,14,624,"GNB",0,0
+"1154","Guinea-Bissau",15,19,624,"GNB",0,0
+"1155","Guinea-Bissau",20,24,624,"GNB",0,0
+"1156","Guinea-Bissau",25,29,624,"GNB",1,1
+"1157","Guinea-Bissau",30,34,624,"GNB",2,1
+"1158","Guinea-Bissau",35,39,624,"GNB",4,2
+"1159","Guinea-Bissau",40,44,624,"GNB",4,2
+"1160","Guinea-Bissau",45,49,624,"GNB",4,4
+"1161","Guinea-Bissau",50,54,624,"GNB",5,5
+"1162","Guinea-Bissau",55,59,624,"GNB",5,4
+"1163","Guinea-Bissau",60,64,624,"GNB",6,5
+"1164","Guinea-Bissau",65,69,624,"GNB",6,4
+"1165","Guinea-Bissau",70,74,624,"GNB",4,4
+"1166","Guinea-Bissau",75,79,624,"GNB",3,3
+"1167","Guinea-Bissau",80,84,624,"GNB",0,0
+"1168","Guinea-Bissau",85,999,624,"GNB",0,0
+"1169","Guyana",0,14,328,"GUY",0,0
+"1170","Guyana",15,19,328,"GUY",0,0
+"1171","Guyana",20,24,328,"GUY",0,0
+"1172","Guyana",25,29,328,"GUY",2,0
+"1173","Guyana",30,34,328,"GUY",1,0
+"1174","Guyana",35,39,328,"GUY",1,1
+"1175","Guyana",40,44,328,"GUY",3,2
+"1176","Guyana",45,49,328,"GUY",1,0
+"1177","Guyana",50,54,328,"GUY",4,2
+"1178","Guyana",55,59,328,"GUY",10,6
+"1179","Guyana",60,64,328,"GUY",7,5
+"1180","Guyana",65,69,328,"GUY",14,7
+"1181","Guyana",70,74,328,"GUY",8,3
+"1182","Guyana",75,79,328,"GUY",9,7
+"1183","Guyana",80,84,328,"GUY",11,8
+"1184","Guyana",85,999,328,"GUY",8,5
+"1185","Haiti",0,14,332,"HTI",0,18
+"1186","Haiti",15,19,332,"HTI",12,7
+"1187","Haiti",20,24,332,"HTI",10,4
+"1188","Haiti",25,29,332,"HTI",13,8
+"1189","Haiti",30,34,332,"HTI",17,14
+"1190","Haiti",35,39,332,"HTI",43,26
+"1191","Haiti",40,44,332,"HTI",54,37
+"1192","Haiti",45,49,332,"HTI",61,46
+"1193","Haiti",50,54,332,"HTI",60,38
+"1194","Haiti",55,59,332,"HTI",57,44
+"1195","Haiti",60,64,332,"HTI",57,27
+"1196","Haiti",65,69,332,"HTI",94,48
+"1197","Haiti",70,74,332,"HTI",152,103
+"1198","Haiti",75,79,332,"HTI",153,103
+"1199","Haiti",80,84,332,"HTI",159,111
+"1200","Haiti",85,999,332,"HTI",161,113
+"1201","Honduras",0,14,340,"HND",0,0
+"1202","Honduras",15,19,340,"HND",2,0
+"1203","Honduras",20,24,340,"HND",7,4
+"1204","Honduras",25,29,340,"HND",11,1
+"1205","Honduras",30,34,340,"HND",12,19
+"1206","Honduras",35,39,340,"HND",11,23
+"1207","Honduras",40,44,340,"HND",24,28
+"1208","Honduras",45,49,340,"HND",37,48
+"1209","Honduras",50,54,340,"HND",51,35
+"1210","Honduras",55,59,340,"HND",71,34
+"1211","Honduras",60,64,340,"HND",68,29
+"1212","Honduras",65,69,340,"HND",78,39
+"1213","Honduras",70,74,340,"HND",81,23
+"1214","Honduras",75,79,340,"HND",46,26
+"1215","Honduras",80,84,340,"HND",36,26
+"1216","Honduras",85,999,340,"HND",35,37
+"1217","Hungary",0,14,348,"HUN",3,0
+"1218","Hungary",15,19,348,"HUN",2,0
+"1219","Hungary",20,24,348,"HUN",6,0
+"1220","Hungary",25,29,348,"HUN",10,0
+"1221","Hungary",30,34,348,"HUN",18,3
+"1222","Hungary",35,39,348,"HUN",30,8
+"1223","Hungary",40,44,348,"HUN",114,39
+"1224","Hungary",45,49,348,"HUN",322,112
+"1225","Hungary",50,54,348,"HUN",564,199
+"1226","Hungary",55,59,348,"HUN",797,288
+"1227","Hungary",60,64,348,"HUN",1189,478
+"1228","Hungary",65,69,348,"HUN",1828,803
+"1229","Hungary",70,74,348,"HUN",1705,868
+"1230","Hungary",75,79,348,"HUN",1340,818
+"1231","Hungary",80,84,348,"HUN",934,690
+"1232","Hungary",85,999,348,"HUN",745,680
+"1233","Iceland",0,14,352,"ISL",0,0
+"1234","Iceland",15,19,352,"ISL",0,0
+"1235","Iceland",20,24,352,"ISL",0,0
+"1236","Iceland",25,29,352,"ISL",0,0
+"1237","Iceland",30,34,352,"ISL",0,0
+"1238","Iceland",35,39,352,"ISL",2,0
+"1239","Iceland",40,44,352,"ISL",4,0
+"1240","Iceland",45,49,352,"ISL",8,2
+"1241","Iceland",50,54,352,"ISL",10,2
+"1242","Iceland",55,59,352,"ISL",21,4
+"1243","Iceland",60,64,352,"ISL",22,6
+"1244","Iceland",65,69,352,"ISL",29,11
+"1245","Iceland",70,74,352,"ISL",37,14
+"1246","Iceland",75,79,352,"ISL",32,16
+"1247","Iceland",80,84,352,"ISL",25,14
+"1248","Iceland",85,999,352,"ISL",25,19
+"1249","India",0,14,356,"IND",50,20
+"1250","India",15,19,356,"IND",206,96
+"1251","India",20,24,356,"IND",670,315
+"1252","India",25,29,356,"IND",1176,568
+"1253","India",30,34,356,"IND",1932,910
+"1254","India",35,39,356,"IND",2408,1117
+"1255","India",40,44,356,"IND",3427,1416
+"1256","India",45,49,356,"IND",5030,2610
+"1257","India",50,54,356,"IND",6773,3948
+"1258","India",55,59,356,"IND",8609,5192
+"1259","India",60,64,356,"IND",10237,5997
+"1260","India",65,69,356,"IND",10613,6125
+"1261","India",70,74,356,"IND",8304,5121
+"1262","India",75,79,356,"IND",5361,3626
+"1263","India",80,84,356,"IND",3206,2337
+"1264","India",85,999,356,"IND",2036,1595
+"1265","Indonesia",0,14,360,"IDN",22,8
+"1266","Indonesia",15,19,360,"IDN",93,8
+"1267","Indonesia",20,24,360,"IDN",116,37
+"1268","Indonesia",25,29,360,"IDN",479,175
+"1269","Indonesia",30,34,360,"IDN",410,152
+"1270","Indonesia",35,39,360,"IDN",848,347
+"1271","Indonesia",40,44,360,"IDN",1719,699
+"1272","Indonesia",45,49,360,"IDN",2761,1187
+"1273","Indonesia",50,54,360,"IDN",4022,1755
+"1274","Indonesia",55,59,360,"IDN",4828,2158
+"1275","Indonesia",60,64,360,"IDN",5326,2503
+"1276","Indonesia",65,69,360,"IDN",5006,2668
+"1277","Indonesia",70,74,360,"IDN",3909,2465
+"1278","Indonesia",75,79,360,"IDN",2908,2184
+"1279","Indonesia",80,84,360,"IDN",1965,1694
+"1280","Indonesia",85,999,360,"IDN",1264,1215
+"1281","Iran, Islamic Republic of",0,14,364,"IRN",10,16
+"1282","Iran, Islamic Republic of",15,19,364,"IRN",18,9
+"1283","Iran, Islamic Republic of",20,24,364,"IRN",71,13
+"1284","Iran, Islamic Republic of",25,29,364,"IRN",87,45
+"1285","Iran, Islamic Republic of",30,34,364,"IRN",238,111
+"1286","Iran, Islamic Republic of",35,39,364,"IRN",540,172
+"1287","Iran, Islamic Republic of",40,44,364,"IRN",833,221
+"1288","Iran, Islamic Republic of",45,49,364,"IRN",1039,323
+"1289","Iran, Islamic Republic of",50,54,364,"IRN",1374,481
+"1290","Iran, Islamic Republic of",55,59,364,"IRN",1679,652
+"1291","Iran, Islamic Republic of",60,64,364,"IRN",1862,827
+"1292","Iran, Islamic Republic of",65,69,364,"IRN",1827,905
+"1293","Iran, Islamic Republic of",70,74,364,"IRN",1389,799
+"1294","Iran, Islamic Republic of",75,79,364,"IRN",915,754
+"1295","Iran, Islamic Republic of",80,84,364,"IRN",585,693
+"1296","Iran, Islamic Republic of",85,999,364,"IRN",432,718
+"1297","Iraq",0,14,368,"IRQ",0,0
+"1298","Iraq",15,19,368,"IRQ",18,18
+"1299","Iraq",20,24,368,"IRQ",46,10
+"1300","Iraq",25,29,368,"IRQ",54,17
+"1301","Iraq",30,34,368,"IRQ",80,45
+"1302","Iraq",35,39,368,"IRQ",120,72
+"1303","Iraq",40,44,368,"IRQ",172,103
+"1304","Iraq",45,49,368,"IRQ",233,139
+"1305","Iraq",50,54,368,"IRQ",284,170
+"1306","Iraq",55,59,368,"IRQ",291,166
+"1307","Iraq",60,64,368,"IRQ",258,150
+"1308","Iraq",65,69,368,"IRQ",277,170
+"1309","Iraq",70,74,368,"IRQ",217,149
+"1310","Iraq",75,79,368,"IRQ",136,104
+"1311","Iraq",80,84,368,"IRQ",87,78
+"1312","Iraq",85,999,368,"IRQ",47,47
+"1313","Ireland",0,14,372,"IRL",3,0
+"1314","Ireland",15,19,372,"IRL",3,0
+"1315","Ireland",20,24,372,"IRL",4,0
+"1316","Ireland",25,29,372,"IRL",6,0
+"1317","Ireland",30,34,372,"IRL",8,0
+"1318","Ireland",35,39,372,"IRL",22,3
+"1319","Ireland",40,44,372,"IRL",50,12
+"1320","Ireland",45,49,372,"IRL",99,21
+"1321","Ireland",50,54,372,"IRL",161,40
+"1322","Ireland",55,59,372,"IRL",247,62
+"1323","Ireland",60,64,372,"IRL",350,94
+"1324","Ireland",65,69,372,"IRL",435,141
+"1325","Ireland",70,74,372,"IRL",477,204
+"1326","Ireland",75,79,372,"IRL",497,236
+"1327","Ireland",80,84,372,"IRL",355,215
+"1328","Ireland",85,999,372,"IRL",404,259
+"1329","Israel",0,14,376,"ISR",3,0
+"1330","Israel",15,19,376,"ISR",6,0
+"1331","Israel",20,24,376,"ISR",13,2
+"1332","Israel",25,29,376,"ISR",6,3
+"1333","Israel",30,34,376,"ISR",21,6
+"1334","Israel",35,39,376,"ISR",58,12
+"1335","Israel",40,44,376,"ISR",110,22
+"1336","Israel",45,49,376,"ISR",176,36
+"1337","Israel",50,54,376,"ISR",232,48
+"1338","Israel",55,59,376,"ISR",296,62
+"1339","Israel",60,64,376,"ISR",363,83
+"1340","Israel",65,69,376,"ISR",391,125
+"1341","Israel",70,74,376,"ISR",401,184
+"1342","Israel",75,79,376,"ISR",354,223
+"1343","Israel",80,84,376,"ISR",306,233
+"1344","Israel",85,999,376,"ISR",504,421
+"1345","Italy",0,14,380,"ITA",11,0
+"1346","Italy",15,19,380,"ITA",20,0
+"1347","Italy",20,24,380,"ITA",28,0
+"1348","Italy",25,29,380,"ITA",46,1
+"1349","Italy",30,34,380,"ITA",83,22
+"1350","Italy",35,39,380,"ITA",193,50
+"1351","Italy",40,44,380,"ITA",522,132
+"1352","Italy",45,49,380,"ITA",1244,289
+"1353","Italy",50,54,380,"ITA",2177,559
+"1354","Italy",55,59,380,"ITA",3447,886
+"1355","Italy",60,64,380,"ITA",4681,1191
+"1356","Italy",65,69,380,"ITA",6552,1851
+"1357","Italy",70,74,380,"ITA",8987,3222
+"1358","Italy",75,79,380,"ITA",8984,4052
+"1359","Italy",80,84,380,"ITA",8642,5130
+"1360","Italy",85,999,380,"ITA",9167,6803
+"1361","Jamaica",0,14,388,"JAM",0,0
+"1362","Jamaica",15,19,388,"JAM",1,0
+"1363","Jamaica",20,24,388,"JAM",2,1
+"1364","Jamaica",25,29,388,"JAM",10,1
+"1365","Jamaica",30,34,388,"JAM",8,8
+"1366","Jamaica",35,39,388,"JAM",13,5
+"1367","Jamaica",40,44,388,"JAM",21,8
+"1368","Jamaica",45,49,388,"JAM",34,16
+"1369","Jamaica",50,54,388,"JAM",59,29
+"1370","Jamaica",55,59,388,"JAM",85,49
+"1371","Jamaica",60,64,388,"JAM",98,64
+"1372","Jamaica",65,69,388,"JAM",104,74
+"1373","Jamaica",70,74,388,"JAM",104,69
+"1374","Jamaica",75,79,388,"JAM",96,66
+"1375","Jamaica",80,84,388,"JAM",76,54
+"1376","Jamaica",85,999,388,"JAM",82,65
+"1377","Japan",0,14,392,"JPN",5,1
+"1378","Japan",15,19,392,"JPN",12,1
+"1379","Japan",20,24,392,"JPN",72,7
+"1380","Japan",25,29,392,"JPN",273,24
+"1381","Japan",30,34,392,"JPN",29,107
+"1382","Japan",35,39,392,"JPN",316,122
+"1383","Japan",40,44,392,"JPN",1151,197
+"1384","Japan",45,49,392,"JPN",3052,606
+"1385","Japan",50,54,392,"JPN",5758,1194
+"1386","Japan",55,59,392,"JPN",8403,2005
+"1387","Japan",60,64,392,"JPN",12070,3097
+"1388","Japan",65,69,392,"JPN",17438,4693
+"1389","Japan",70,74,392,"JPN",24030,7103
+"1390","Japan",75,79,392,"JPN",24734,9958
+"1391","Japan",80,84,392,"JPN",20656,11360
+"1392","Japan",85,999,392,"JPN",27757,19998
+"1393","Jordan",0,14,400,"JOR",0,0
+"1394","Jordan",15,19,400,"JOR",2,0
+"1395","Jordan",20,24,400,"JOR",12,5
+"1396","Jordan",25,29,400,"JOR",9,6
+"1397","Jordan",30,34,400,"JOR",27,13
+"1398","Jordan",35,39,400,"JOR",60,25
+"1399","Jordan",40,44,400,"JOR",98,42
+"1400","Jordan",45,49,400,"JOR",137,62
+"1401","Jordan",50,54,400,"JOR",174,82
+"1402","Jordan",55,59,400,"JOR",184,86
+"1403","Jordan",60,64,400,"JOR",165,80
+"1404","Jordan",65,69,400,"JOR",131,67
+"1405","Jordan",70,74,400,"JOR",107,61
+"1406","Jordan",75,79,400,"JOR",85,56
+"1407","Jordan",80,84,400,"JOR",53,43
+"1408","Jordan",85,999,400,"JOR",30,30
+"1409","Kazakhstan",0,14,398,"KAZ",0,0
+"1410","Kazakhstan",15,19,398,"KAZ",0,0
+"1411","Kazakhstan",20,24,398,"KAZ",4,2
+"1412","Kazakhstan",25,29,398,"KAZ",17,7
+"1413","Kazakhstan",30,34,398,"KAZ",47,27
+"1414","Kazakhstan",35,39,398,"KAZ",23,24
+"1415","Kazakhstan",40,44,398,"KAZ",58,32
+"1416","Kazakhstan",45,49,398,"KAZ",137,73
+"1417","Kazakhstan",50,54,398,"KAZ",238,125
+"1418","Kazakhstan",55,59,398,"KAZ",467,240
+"1419","Kazakhstan",60,64,398,"KAZ",671,344
+"1420","Kazakhstan",65,69,398,"KAZ",714,375
+"1421","Kazakhstan",70,74,398,"KAZ",516,290
+"1422","Kazakhstan",75,79,398,"KAZ",284,176
+"1423","Kazakhstan",80,84,398,"KAZ",228,156
+"1424","Kazakhstan",85,999,398,"KAZ",110,97
+"1425","Kenya",0,14,404,"KEN",2,1
+"1426","Kenya",15,19,404,"KEN",13,9
+"1427","Kenya",20,24,404,"KEN",30,17
+"1428","Kenya",25,29,404,"KEN",72,56
+"1429","Kenya",30,34,404,"KEN",77,33
+"1430","Kenya",35,39,404,"KEN",92,50
+"1431","Kenya",40,44,404,"KEN",173,89
+"1432","Kenya",45,49,404,"KEN",265,152
+"1433","Kenya",50,54,404,"KEN",360,238
+"1434","Kenya",55,59,404,"KEN",456,308
+"1435","Kenya",60,64,404,"KEN",506,325
+"1436","Kenya",65,69,404,"KEN",430,281
+"1437","Kenya",70,74,404,"KEN",252,212
+"1438","Kenya",75,79,404,"KEN",170,159
+"1439","Kenya",80,84,404,"KEN",109,105
+"1440","Kenya",85,999,404,"KEN",84,81
+"1441","Korea, Democratic People Republic of",0,14,408,"PRK",0,0
+"1442","Korea, Democratic People Republic of",15,19,408,"PRK",2,1
+"1443","Korea, Democratic People Republic of",20,24,408,"PRK",8,4
+"1444","Korea, Democratic People Republic of",25,29,408,"PRK",54,27
+"1445","Korea, Democratic People Republic of",30,34,408,"PRK",17,8
+"1446","Korea, Democratic People Republic of",35,39,408,"PRK",53,33
+"1447","Korea, Democratic People Republic of",40,44,408,"PRK",137,55
+"1448","Korea, Democratic People Republic of",45,49,408,"PRK",337,167
+"1449","Korea, Democratic People Republic of",50,54,408,"PRK",723,393
+"1450","Korea, Democratic People Republic of",55,59,408,"PRK",923,508
+"1451","Korea, Democratic People Republic of",60,64,408,"PRK",1216,696
+"1452","Korea, Democratic People Republic of",65,69,408,"PRK",1071,619
+"1453","Korea, Democratic People Republic of",70,74,408,"PRK",921,537
+"1454","Korea, Democratic People Republic of",75,79,408,"PRK",953,593
+"1455","Korea, Democratic People Republic of",80,84,408,"PRK",555,378
+"1456","Korea, Democratic People Republic of",85,999,408,"PRK",258,201
+"1457","Korea, Republic of",0,14,410,"KOR",2,0
+"1458","Korea, Republic of",15,19,410,"KOR",4,1
+"1459","Korea, Republic of",20,24,410,"KOR",29,3
+"1460","Korea, Republic of",25,29,410,"KOR",89,12
+"1461","Korea, Republic of",30,34,410,"KOR",113,37
+"1462","Korea, Republic of",35,39,410,"KOR",304,50
+"1463","Korea, Republic of",40,44,410,"KOR",689,103
+"1464","Korea, Republic of",45,49,410,"KOR",1288,230
+"1465","Korea, Republic of",50,54,410,"KOR",2146,428
+"1466","Korea, Republic of",55,59,410,"KOR",3108,669
+"1467","Korea, Republic of",60,64,410,"KOR",4147,942
+"1468","Korea, Republic of",65,69,410,"KOR",4403,1083
+"1469","Korea, Republic of",70,74,410,"KOR",4017,1254
+"1470","Korea, Republic of",75,79,410,"KOR",3650,1814
+"1471","Korea, Republic of",80,84,410,"KOR",2975,2237
+"1472","Korea, Republic of",85,999,410,"KOR",2596,2732
+"1473","Kuwait",0,14,414,"KWT",0,0
+"1474","Kuwait",15,19,414,"KWT",0,0
+"1475","Kuwait",20,24,414,"KWT",1,0
+"1476","Kuwait",25,29,414,"KWT",3,0
+"1477","Kuwait",30,34,414,"KWT",5,1
+"1478","Kuwait",35,39,414,"KWT",9,3
+"1479","Kuwait",40,44,414,"KWT",24,9
+"1480","Kuwait",45,49,414,"KWT",44,14
+"1481","Kuwait",50,54,414,"KWT",63,26
+"1482","Kuwait",55,59,414,"KWT",75,33
+"1483","Kuwait",60,64,414,"KWT",78,35
+"1484","Kuwait",65,69,414,"KWT",66,30
+"1485","Kuwait",70,74,414,"KWT",34,20
+"1486","Kuwait",75,79,414,"KWT",19,12
+"1487","Kuwait",80,84,414,"KWT",11,8
+"1488","Kuwait",85,999,414,"KWT",4,4
+"1489","Kyrgyzstan",0,14,417,"KGZ",0,0
+"1490","Kyrgyzstan",15,19,417,"KGZ",1,0
+"1491","Kyrgyzstan",20,24,417,"KGZ",2,2
+"1492","Kyrgyzstan",25,29,417,"KGZ",6,2
+"1493","Kyrgyzstan",30,34,417,"KGZ",11,4
+"1494","Kyrgyzstan",35,39,417,"KGZ",8,11
+"1495","Kyrgyzstan",40,44,417,"KGZ",11,8
+"1496","Kyrgyzstan",45,49,417,"KGZ",19,11
+"1497","Kyrgyzstan",50,54,417,"KGZ",27,18
+"1498","Kyrgyzstan",55,59,417,"KGZ",48,33
+"1499","Kyrgyzstan",60,64,417,"KGZ",76,43
+"1500","Kyrgyzstan",65,69,417,"KGZ",86,51
+"1501","Kyrgyzstan",70,74,417,"KGZ",64,46
+"1502","Kyrgyzstan",75,79,417,"KGZ",31,24
+"1503","Kyrgyzstan",80,84,417,"KGZ",23,17
+"1504","Kyrgyzstan",85,999,417,"KGZ",24,17
+"1505","Lao People's Democratic Republic",0,14,418,"LAO",1,0
+"1506","Lao People's Democratic Republic",15,19,418,"LAO",3,0
+"1507","Lao People's Democratic Republic",20,24,418,"LAO",6,1
+"1508","Lao People's Democratic Republic",25,29,418,"LAO",16,4
+"1509","Lao People's Democratic Republic",30,34,418,"LAO",18,9
+"1510","Lao People's Democratic Republic",35,39,418,"LAO",28,12
+"1511","Lao People's Democratic Republic",40,44,418,"LAO",43,19
+"1512","Lao People's Democratic Republic",45,49,418,"LAO",63,31
+"1513","Lao People's Democratic Republic",50,54,418,"LAO",81,39
+"1514","Lao People's Democratic Republic",55,59,418,"LAO",101,47
+"1515","Lao People's Democratic Republic",60,64,418,"LAO",111,55
+"1516","Lao People's Democratic Republic",65,69,418,"LAO",105,59
+"1517","Lao People's Democratic Republic",70,74,418,"LAO",83,59
+"1518","Lao People's Democratic Republic",75,79,418,"LAO",60,50
+"1519","Lao People's Democratic Republic",80,84,418,"LAO",39,36
+"1520","Lao People's Democratic Republic",85,999,418,"LAO",23,23
+"1521","Latvia",0,14,428,"LVA",0,0
+"1522","Latvia",15,19,428,"LVA",0,0
+"1523","Latvia",20,24,428,"LVA",0,0
+"1524","Latvia",25,29,428,"LVA",0,0
+"1525","Latvia",30,34,428,"LVA",1,0
+"1526","Latvia",35,39,428,"LVA",3,0
+"1527","Latvia",40,44,428,"LVA",7,1
+"1528","Latvia",45,49,428,"LVA",21,5
+"1529","Latvia",50,54,428,"LVA",42,15
+"1530","Latvia",55,59,428,"LVA",72,32
+"1531","Latvia",60,64,428,"LVA",132,61
+"1532","Latvia",65,69,428,"LVA",174,79
+"1533","Latvia",70,74,428,"LVA",202,101
+"1534","Latvia",75,79,428,"LVA",170,102
+"1535","Latvia",80,84,428,"LVA",167,125
+"1536","Latvia",85,999,428,"LVA",136,115
+"1537","Lebanon",0,14,422,"LBN",1,0
+"1538","Lebanon",15,19,422,"LBN",0,0
+"1539","Lebanon",20,24,422,"LBN",3,0
+"1540","Lebanon",25,29,422,"LBN",7,2
+"1541","Lebanon",30,34,422,"LBN",9,4
+"1542","Lebanon",35,39,422,"LBN",30,14
+"1543","Lebanon",40,44,422,"LBN",54,23
+"1544","Lebanon",45,49,422,"LBN",80,34
+"1545","Lebanon",50,54,422,"LBN",101,47
+"1546","Lebanon",55,59,422,"LBN",120,60
+"1547","Lebanon",60,64,422,"LBN",128,66
+"1548","Lebanon",65,69,422,"LBN",135,70
+"1549","Lebanon",70,74,422,"LBN",121,72
+"1550","Lebanon",75,79,422,"LBN",86,61
+"1551","Lebanon",80,84,422,"LBN",65,56
+"1552","Lebanon",85,999,422,"LBN",65,63
+"1553","Lesotho",0,14,426,"LSO",0,0
+"1554","Lesotho",15,19,426,"LSO",0,0
+"1555","Lesotho",20,24,426,"LSO",1,0
+"1556","Lesotho",25,29,426,"LSO",1,1
+"1557","Lesotho",30,34,426,"LSO",2,2
+"1558","Lesotho",35,39,426,"LSO",2,2
+"1559","Lesotho",40,44,426,"LSO",6,5
+"1560","Lesotho",45,49,426,"LSO",8,6
+"1561","Lesotho",50,54,426,"LSO",11,7
+"1562","Lesotho",55,59,426,"LSO",10,4
+"1563","Lesotho",60,64,426,"LSO",11,6
+"1564","Lesotho",65,69,426,"LSO",12,8
+"1565","Lesotho",70,74,426,"LSO",12,8
+"1566","Lesotho",75,79,426,"LSO",11,10
+"1567","Lesotho",80,84,426,"LSO",6,6
+"1568","Lesotho",85,999,426,"LSO",4,4
+"1569","Liberia",0,14,430,"LBR",0,0
+"1570","Liberia",15,19,430,"LBR",0,0
+"1571","Liberia",20,24,430,"LBR",1,0
+"1572","Liberia",25,29,430,"LBR",5,4
+"1573","Liberia",30,34,430,"LBR",7,6
+"1574","Liberia",35,39,430,"LBR",8,7
+"1575","Liberia",40,44,430,"LBR",11,9
+"1576","Liberia",45,49,430,"LBR",14,9
+"1577","Liberia",50,54,430,"LBR",16,12
+"1578","Liberia",55,59,430,"LBR",17,11
+"1579","Liberia",60,64,430,"LBR",18,13
+"1580","Liberia",65,69,430,"LBR",16,12
+"1581","Liberia",70,74,430,"LBR",13,9
+"1582","Liberia",75,79,430,"LBR",9,9
+"1583","Liberia",80,84,430,"LBR",5,5
+"1584","Liberia",85,999,430,"LBR",2,2
+"1585","Libya",0,14,434,"LBY",0,3
+"1586","Libya",15,19,434,"LBY",7,3
+"1587","Libya",20,24,434,"LBY",2,0
+"1588","Libya",25,29,434,"LBY",8,7
+"1589","Libya",30,34,434,"LBY",19,11
+"1590","Libya",35,39,434,"LBY",41,17
+"1591","Libya",40,44,434,"LBY",71,22
+"1592","Libya",45,49,434,"LBY",101,33
+"1593","Libya",50,54,434,"LBY",112,32
+"1594","Libya",55,59,434,"LBY",85,29
+"1595","Libya",60,64,434,"LBY",66,30
+"1596","Libya",65,69,434,"LBY",84,49
+"1597","Libya",70,74,434,"LBY",99,80
+"1598","Libya",75,79,434,"LBY",106,111
+"1599","Libya",80,84,434,"LBY",98,123
+"1600","Libya",85,999,434,"LBY",75,110
+"1601","Lithuania",0,14,440,"LTU",0,0
+"1602","Lithuania",15,19,440,"LTU",0,0
+"1603","Lithuania",20,24,440,"LTU",0,0
+"1604","Lithuania",25,29,440,"LTU",1,1
+"1605","Lithuania",30,34,440,"LTU",5,3
+"1606","Lithuania",35,39,440,"LTU",4,2
+"1607","Lithuania",40,44,440,"LTU",11,5
+"1608","Lithuania",45,49,440,"LTU",28,11
+"1609","Lithuania",50,54,440,"LTU",60,23
+"1610","Lithuania",55,59,440,"LTU",117,49
+"1611","Lithuania",60,64,440,"LTU",200,89
+"1612","Lithuania",65,69,440,"LTU",223,112
+"1613","Lithuania",70,74,440,"LTU",236,139
+"1614","Lithuania",75,79,440,"LTU",214,148
+"1615","Lithuania",80,84,440,"LTU",207,170
+"1616","Lithuania",85,999,440,"LTU",200,186
+"1617","Luxembourg",0,14,442,"LUX",0,0
+"1618","Luxembourg",15,19,442,"LUX",0,0
+"1619","Luxembourg",20,24,442,"LUX",0,0
+"1620","Luxembourg",25,29,442,"LUX",0,0
+"1621","Luxembourg",30,34,442,"LUX",0,0
+"1622","Luxembourg",35,39,442,"LUX",3,0
+"1623","Luxembourg",40,44,442,"LUX",5,0
+"1624","Luxembourg",45,49,442,"LUX",8,1
+"1625","Luxembourg",50,54,442,"LUX",20,5
+"1626","Luxembourg",55,59,442,"LUX",31,8
+"1627","Luxembourg",60,64,442,"LUX",36,11
+"1628","Luxembourg",65,69,442,"LUX",33,13
+"1629","Luxembourg",70,74,442,"LUX",41,18
+"1630","Luxembourg",75,79,442,"LUX",38,18
+"1631","Luxembourg",80,84,442,"LUX",42,20
+"1632","Luxembourg",85,999,442,"LUX",59,26
+"1633","Madagascar",0,14,450,"MDG",11,0
+"1634","Madagascar",15,19,450,"MDG",6,0
+"1635","Madagascar",20,24,450,"MDG",15,9
+"1636","Madagascar",25,29,450,"MDG",49,28
+"1637","Madagascar",30,34,450,"MDG",36,20
+"1638","Madagascar",35,39,450,"MDG",46,26
+"1639","Madagascar",40,44,450,"MDG",50,30
+"1640","Madagascar",45,49,450,"MDG",62,31
+"1641","Madagascar",50,54,450,"MDG",76,47
+"1642","Madagascar",55,59,450,"MDG",92,61
+"1643","Madagascar",60,64,450,"MDG",108,77
+"1644","Madagascar",65,69,450,"MDG",122,92
+"1645","Madagascar",70,74,450,"MDG",107,89
+"1646","Madagascar",75,79,450,"MDG",76,70
+"1647","Madagascar",80,84,450,"MDG",51,49
+"1648","Madagascar",85,999,450,"MDG",35,35
+"1649","Malawi",0,14,454,"MWI",0,0
+"1650","Malawi",15,19,454,"MWI",0,0
+"1651","Malawi",20,24,454,"MWI",10,7
+"1652","Malawi",25,29,454,"MWI",29,23
+"1653","Malawi",30,34,454,"MWI",36,26
+"1654","Malawi",35,39,454,"MWI",51,36
+"1655","Malawi",40,44,454,"MWI",47,36
+"1656","Malawi",45,49,454,"MWI",50,40
+"1657","Malawi",50,54,454,"MWI",57,41
+"1658","Malawi",55,59,454,"MWI",32,23
+"1659","Malawi",60,64,454,"MWI",41,30
+"1660","Malawi",65,69,454,"MWI",31,23
+"1661","Malawi",70,74,454,"MWI",53,38
+"1662","Malawi",75,79,454,"MWI",35,29
+"1663","Malawi",80,84,454,"MWI",26,22
+"1664","Malawi",85,999,454,"MWI",14,12
+"1665","Malaysia",0,14,458,"MYS",3,0
+"1666","Malaysia",15,19,458,"MYS",16,2
+"1667","Malaysia",20,24,458,"MYS",59,8
+"1668","Malaysia",25,29,458,"MYS",56,32
+"1669","Malaysia",30,34,458,"MYS",90,50
+"1670","Malaysia",35,39,458,"MYS",204,73
+"1671","Malaysia",40,44,458,"MYS",329,109
+"1672","Malaysia",45,49,458,"MYS",475,170
+"1673","Malaysia",50,54,458,"MYS",668,256
+"1674","Malaysia",55,59,458,"MYS",861,343
+"1675","Malaysia",60,64,458,"MYS",1006,413
+"1676","Malaysia",65,69,458,"MYS",1001,459
+"1677","Malaysia",70,74,458,"MYS",887,497
+"1678","Malaysia",75,79,458,"MYS",657,475
+"1679","Malaysia",80,84,458,"MYS",446,405
+"1680","Malaysia",85,999,458,"MYS",392,423
+"1681","Maldives",0,14,462,"MDV",0,0
+"1682","Maldives",15,19,462,"MDV",0,0
+"1683","Maldives",20,24,462,"MDV",0,0
+"1684","Maldives",25,29,462,"MDV",2,0
+"1685","Maldives",30,34,462,"MDV",1,0
+"1686","Maldives",35,39,462,"MDV",2,0
+"1687","Maldives",40,44,462,"MDV",4,1
+"1688","Maldives",45,49,462,"MDV",6,2
+"1689","Maldives",50,54,462,"MDV",6,2
+"1690","Maldives",55,59,462,"MDV",6,2
+"1691","Maldives",60,64,462,"MDV",6,3
+"1692","Maldives",65,69,462,"MDV",6,4
+"1693","Maldives",70,74,462,"MDV",2,1
+"1694","Maldives",75,79,462,"MDV",3,3
+"1695","Maldives",80,84,462,"MDV",3,3
+"1696","Maldives",85,999,462,"MDV",3,3
+"1697","Mali",0,14,466,"MLI",2,0
+"1698","Mali",15,19,466,"MLI",3,3
+"1699","Mali",20,24,466,"MLI",24,19
+"1700","Mali",25,29,466,"MLI",41,35
+"1701","Mali",30,34,466,"MLI",53,43
+"1702","Mali",35,39,466,"MLI",69,54
+"1703","Mali",40,44,466,"MLI",83,62
+"1704","Mali",45,49,466,"MLI",93,72
+"1705","Mali",50,54,466,"MLI",93,72
+"1706","Mali",55,59,466,"MLI",88,69
+"1707","Mali",60,64,466,"MLI",90,69
+"1708","Mali",65,69,466,"MLI",93,70
+"1709","Mali",70,74,466,"MLI",78,58
+"1710","Mali",75,79,466,"MLI",55,43
+"1711","Mali",80,84,466,"MLI",31,25
+"1712","Mali",85,999,466,"MLI",12,10
+"1713","Malta",0,14,470,"MLT",0,0
+"1714","Malta",15,19,470,"MLT",0,0
+"1715","Malta",20,24,470,"MLT",0,0
+"1716","Malta",25,29,470,"MLT",0,0
+"1717","Malta",30,34,470,"MLT",1,0
+"1718","Malta",35,39,470,"MLT",2,0
+"1719","Malta",40,44,470,"MLT",4,0
+"1720","Malta",45,49,470,"MLT",10,1
+"1721","Malta",50,54,470,"MLT",13,3
+"1722","Malta",55,59,470,"MLT",21,6
+"1723","Malta",60,64,470,"MLT",31,9
+"1724","Malta",65,69,470,"MLT",40,14
+"1725","Malta",70,74,470,"MLT",49,24
+"1726","Malta",75,79,470,"MLT",54,27
+"1727","Malta",80,84,470,"MLT",33,22
+"1728","Malta",85,999,470,"MLT",43,27
+"1729","Mauritania",0,14,478,"MRT",0,0
+"1730","Mauritania",15,19,478,"MRT",0,0
+"1731","Mauritania",20,24,478,"MRT",3,2
+"1732","Mauritania",25,29,478,"MRT",5,5
+"1733","Mauritania",30,34,478,"MRT",8,6
+"1734","Mauritania",35,39,478,"MRT",11,7
+"1735","Mauritania",40,44,478,"MRT",14,10
+"1736","Mauritania",45,49,478,"MRT",18,14
+"1737","Mauritania",50,54,478,"MRT",20,16
+"1738","Mauritania",55,59,478,"MRT",23,16
+"1739","Mauritania",60,64,478,"MRT",23,16
+"1740","Mauritania",65,69,478,"MRT",20,14
+"1741","Mauritania",70,74,478,"MRT",16,11
+"1742","Mauritania",75,79,478,"MRT",12,10
+"1743","Mauritania",80,84,478,"MRT",6,4
+"1744","Mauritania",85,999,478,"MRT",4,4
+"1745","Mauritius",0,14,480,"MUS",0,0
+"1746","Mauritius",15,19,480,"MUS",0,0
+"1747","Mauritius",20,24,480,"MUS",1,0
+"1748","Mauritius",25,29,480,"MUS",0,0
+"1749","Mauritius",30,34,480,"MUS",1,0
+"1750","Mauritius",35,39,480,"MUS",4,0
+"1751","Mauritius",40,44,480,"MUS",9,3
+"1752","Mauritius",45,49,480,"MUS",15,5
+"1753","Mauritius",50,54,480,"MUS",24,13
+"1754","Mauritius",55,59,480,"MUS",44,15
+"1755","Mauritius",60,64,480,"MUS",58,24
+"1756","Mauritius",65,69,480,"MUS",66,27
+"1757","Mauritius",70,74,480,"MUS",63,25
+"1758","Mauritius",75,79,480,"MUS",41,23
+"1759","Mauritius",80,84,480,"MUS",24,19
+"1760","Mauritius",85,999,480,"MUS",20,19
+"1761","Mexico",0,14,484,"MEX",0,1
+"1762","Mexico",15,19,484,"MEX",26,9
+"1763","Mexico",20,24,484,"MEX",86,26
+"1764","Mexico",25,29,484,"MEX",154,57
+"1765","Mexico",30,34,484,"MEX",275,132
+"1766","Mexico",35,39,484,"MEX",455,180
+"1767","Mexico",40,44,484,"MEX",764,302
+"1768","Mexico",45,49,484,"MEX",1176,474
+"1769","Mexico",50,54,484,"MEX",1572,654
+"1770","Mexico",55,59,484,"MEX",1945,832
+"1771","Mexico",60,64,484,"MEX",2168,996
+"1772","Mexico",65,69,484,"MEX",2145,1094
+"1773","Mexico",70,74,484,"MEX",1821,1094
+"1774","Mexico",75,79,484,"MEX",1426,947
+"1775","Mexico",80,84,484,"MEX",1020,720
+"1776","Mexico",85,999,484,"MEX",1049,765
+"1777","Mongolia",0,14,496,"MNG",0,1
+"1778","Mongolia",15,19,496,"MNG",0,0
+"1779","Mongolia",20,24,496,"MNG",0,2
+"1780","Mongolia",25,29,496,"MNG",3,2
+"1781","Mongolia",30,34,496,"MNG",6,1
+"1782","Mongolia",35,39,496,"MNG",8,4
+"1783","Mongolia",40,44,496,"MNG",12,4
+"1784","Mongolia",45,49,496,"MNG",18,5
+"1785","Mongolia",50,54,496,"MNG",21,13
+"1786","Mongolia",55,59,496,"MNG",29,9
+"1787","Mongolia",60,64,496,"MNG",34,11
+"1788","Mongolia",65,69,496,"MNG",27,14
+"1789","Mongolia",70,74,496,"MNG",24,7
+"1790","Mongolia",75,79,496,"MNG",16,11
+"1791","Mongolia",80,84,496,"MNG",12,15
+"1792","Mongolia",85,999,496,"MNG",6,9
+"1793","Montenegro",0,14,499,"MNE",0,0
+"1794","Montenegro",15,19,499,"MNE",0,0
+"1795","Montenegro",20,24,499,"MNE",0,0
+"1796","Montenegro",25,29,499,"MNE",0,0
+"1797","Montenegro",30,34,499,"MNE",0,0
+"1798","Montenegro",35,39,499,"MNE",1,0
+"1799","Montenegro",40,44,499,"MNE",2,1
+"1800","Montenegro",45,49,499,"MNE",10,4
+"1801","Montenegro",50,54,499,"MNE",17,7
+"1802","Montenegro",55,59,499,"MNE",28,12
+"1803","Montenegro",60,64,499,"MNE",37,18
+"1804","Montenegro",65,69,499,"MNE",45,23
+"1805","Montenegro",70,74,499,"MNE",49,28
+"1806","Montenegro",75,79,499,"MNE",28,21
+"1807","Montenegro",80,84,499,"MNE",25,23
+"1808","Montenegro",85,999,499,"MNE",18,20
+"1809","Morocco",0,14,504,"MAR",4,0
+"1810","Morocco",15,19,504,"MAR",4,4
+"1811","Morocco",20,24,504,"MAR",40,22
+"1812","Morocco",25,29,504,"MAR",54,34
+"1813","Morocco",30,34,504,"MAR",95,45
+"1814","Morocco",35,39,504,"MAR",168,46
+"1815","Morocco",40,44,504,"MAR",253,79
+"1816","Morocco",45,49,504,"MAR",344,136
+"1817","Morocco",50,54,504,"MAR",488,222
+"1818","Morocco",55,59,504,"MAR",690,326
+"1819","Morocco",60,64,504,"MAR",856,410
+"1820","Morocco",65,69,504,"MAR",831,431
+"1821","Morocco",70,74,504,"MAR",594,365
+"1822","Morocco",75,79,504,"MAR",423,318
+"1823","Morocco",80,84,504,"MAR",300,274
+"1824","Morocco",85,999,504,"MAR",162,180
+"1825","Mozambique",0,14,508,"MOZ",26,0
+"1826","Mozambique",15,19,508,"MOZ",0,0
+"1827","Mozambique",20,24,508,"MOZ",12,9
+"1828","Mozambique",25,29,508,"MOZ",49,38
+"1829","Mozambique",30,34,508,"MOZ",46,32
+"1830","Mozambique",35,39,508,"MOZ",40,22
+"1831","Mozambique",40,44,508,"MOZ",31,20
+"1832","Mozambique",45,49,508,"MOZ",24,16
+"1833","Mozambique",50,54,508,"MOZ",26,19
+"1834","Mozambique",55,59,508,"MOZ",46,35
+"1835","Mozambique",60,64,508,"MOZ",61,47
+"1836","Mozambique",65,69,508,"MOZ",80,65
+"1837","Mozambique",70,74,508,"MOZ",83,70
+"1838","Mozambique",75,79,508,"MOZ",67,63
+"1839","Mozambique",80,84,508,"MOZ",40,37
+"1840","Mozambique",85,999,508,"MOZ",20,19
+"1841","Myanmar",0,14,104,"MMR",0,0
+"1842","Myanmar",15,19,104,"MMR",48,0
+"1843","Myanmar",20,24,104,"MMR",61,7
+"1844","Myanmar",25,29,104,"MMR",97,27
+"1845","Myanmar",30,34,104,"MMR",83,44
+"1846","Myanmar",35,39,104,"MMR",130,59
+"1847","Myanmar",40,44,104,"MMR",230,102
+"1848","Myanmar",45,49,104,"MMR",366,163
+"1849","Myanmar",50,54,104,"MMR",564,261
+"1850","Myanmar",55,59,104,"MMR",660,320
+"1851","Myanmar",60,64,104,"MMR",765,403
+"1852","Myanmar",65,69,104,"MMR",822,507
+"1853","Myanmar",70,74,104,"MMR",710,505
+"1854","Myanmar",75,79,104,"MMR",491,397
+"1855","Myanmar",80,84,104,"MMR",321,288
+"1856","Myanmar",85,999,104,"MMR",204,199
+"1857","Namibia",0,14,516,"NAM",0,0
+"1858","Namibia",15,19,516,"NAM",0,0
+"1859","Namibia",20,24,516,"NAM",1,0
+"1860","Namibia",25,29,516,"NAM",3,0
+"1861","Namibia",30,34,516,"NAM",4,1
+"1862","Namibia",35,39,516,"NAM",9,5
+"1863","Namibia",40,44,516,"NAM",13,5
+"1864","Namibia",45,49,516,"NAM",15,8
+"1865","Namibia",50,54,516,"NAM",18,10
+"1866","Namibia",55,59,516,"NAM",16,8
+"1867","Namibia",60,64,516,"NAM",17,14
+"1868","Namibia",65,69,516,"NAM",17,14
+"1869","Namibia",70,74,516,"NAM",15,12
+"1870","Namibia",75,79,516,"NAM",10,7
+"1871","Namibia",80,84,516,"NAM",6,6
+"1872","Namibia",85,999,516,"NAM",2,2
+"1873","Nepal",0,14,524,"NPL",4,0
+"1874","Nepal",15,19,524,"NPL",24,9
+"1875","Nepal",20,24,524,"NPL",27,20
+"1876","Nepal",25,29,524,"NPL",29,19
+"1877","Nepal",30,34,524,"NPL",31,26
+"1878","Nepal",35,39,524,"NPL",43,25
+"1879","Nepal",40,44,524,"NPL",64,29
+"1880","Nepal",45,49,524,"NPL",86,38
+"1881","Nepal",50,54,524,"NPL",116,58
+"1882","Nepal",55,59,524,"NPL",121,69
+"1883","Nepal",60,64,524,"NPL",132,73
+"1884","Nepal",65,69,524,"NPL",144,84
+"1885","Nepal",70,74,524,"NPL",136,86
+"1886","Nepal",75,79,524,"NPL",120,83
+"1887","Nepal",80,84,524,"NPL",80,59
+"1888","Nepal",85,999,524,"NPL",41,31
+"1889","New Caledonia",0,14,540,"NCL",0,0
+"1890","New Caledonia",15,19,540,"NCL",0,0
+"1891","New Caledonia",20,24,540,"NCL",0,0
+"1892","New Caledonia",25,29,540,"NCL",0,0
+"1893","New Caledonia",30,34,540,"NCL",0,0
+"1894","New Caledonia",35,39,540,"NCL",0,0
+"1895","New Caledonia",40,44,540,"NCL",1,0
+"1896","New Caledonia",45,49,540,"NCL",3,1
+"1897","New Caledonia",50,54,540,"NCL",7,2
+"1898","New Caledonia",55,59,540,"NCL",12,3
+"1899","New Caledonia",60,64,540,"NCL",13,6
+"1900","New Caledonia",65,69,540,"NCL",15,6
+"1901","New Caledonia",70,74,540,"NCL",14,7
+"1902","New Caledonia",75,79,540,"NCL",11,4
+"1903","New Caledonia",80,84,540,"NCL",8,3
+"1904","New Caledonia",85,999,540,"NCL",7,4
+"1905","New Zealand",0,14,554,"NZL",1,0
+"1906","New Zealand",15,19,554,"NZL",3,0
+"1907","New Zealand",20,24,554,"NZL",12,1
+"1908","New Zealand",25,29,554,"NZL",15,7
+"1909","New Zealand",30,34,554,"NZL",15,4
+"1910","New Zealand",35,39,554,"NZL",28,7
+"1911","New Zealand",40,44,554,"NZL",52,14
+"1912","New Zealand",45,49,554,"NZL",100,28
+"1913","New Zealand",50,54,554,"NZL",181,52
+"1914","New Zealand",55,59,554,"NZL",294,76
+"1915","New Zealand",60,64,554,"NZL",427,110
+"1916","New Zealand",65,69,554,"NZL",546,154
+"1917","New Zealand",70,74,554,"NZL",663,233
+"1918","New Zealand",75,79,554,"NZL",651,303
+"1919","New Zealand",80,84,554,"NZL",510,303
+"1920","New Zealand",85,999,554,"NZL",572,412
+"1921","Nicaragua",0,14,558,"NIC",0,0
+"1922","Nicaragua",15,19,558,"NIC",1,0
+"1923","Nicaragua",20,24,558,"NIC",6,1
+"1924","Nicaragua",25,29,558,"NIC",11,4
+"1925","Nicaragua",30,34,558,"NIC",9,7
+"1926","Nicaragua",35,39,558,"NIC",14,8
+"1927","Nicaragua",40,44,558,"NIC",21,14
+"1928","Nicaragua",45,49,558,"NIC",29,20
+"1929","Nicaragua",50,54,558,"NIC",39,24
+"1930","Nicaragua",55,59,558,"NIC",55,34
+"1931","Nicaragua",60,64,558,"NIC",74,42
+"1932","Nicaragua",65,69,558,"NIC",83,49
+"1933","Nicaragua",70,74,558,"NIC",73,42
+"1934","Nicaragua",75,79,558,"NIC",64,38
+"1935","Nicaragua",80,84,558,"NIC",63,39
+"1936","Nicaragua",85,999,558,"NIC",68,43
+"1937","Niger",0,14,562,"NER",4,0
+"1938","Niger",15,19,562,"NER",14,12
+"1939","Niger",20,24,562,"NER",47,37
+"1940","Niger",25,29,562,"NER",39,31
+"1941","Niger",30,34,562,"NER",50,42
+"1942","Niger",35,39,562,"NER",59,50
+"1943","Niger",40,44,562,"NER",53,42
+"1944","Niger",45,49,562,"NER",83,67
+"1945","Niger",50,54,562,"NER",66,58
+"1946","Niger",55,59,562,"NER",85,69
+"1947","Niger",60,64,562,"NER",88,68
+"1948","Niger",65,69,562,"NER",70,54
+"1949","Niger",70,74,562,"NER",51,42
+"1950","Niger",75,79,562,"NER",33,28
+"1951","Niger",80,84,562,"NER",16,15
+"1952","Niger",85,999,562,"NER",6,5
+"1953","Nigeria",0,14,566,"NGA",0,0
+"1954","Nigeria",15,19,566,"NGA",19,12
+"1955","Nigeria",20,24,566,"NGA",52,31
+"1956","Nigeria",25,29,566,"NGA",35,73
+"1957","Nigeria",30,34,566,"NGA",346,170
+"1958","Nigeria",35,39,566,"NGA",301,163
+"1959","Nigeria",40,44,566,"NGA",454,274
+"1960","Nigeria",45,49,566,"NGA",717,445
+"1961","Nigeria",50,54,566,"NGA",914,621
+"1962","Nigeria",55,59,566,"NGA",1132,755
+"1963","Nigeria",60,64,566,"NGA",1224,873
+"1964","Nigeria",65,69,566,"NGA",1120,892
+"1965","Nigeria",70,74,566,"NGA",898,785
+"1966","Nigeria",75,79,566,"NGA",570,521
+"1967","Nigeria",80,84,566,"NGA",252,228
+"1968","Nigeria",85,999,566,"NGA",80,69
+"1969","North Macedonia",0,14,807,"MKD",0,0
+"1970","North Macedonia",15,19,807,"MKD",0,0
+"1971","North Macedonia",20,24,807,"MKD",0,0
+"1972","North Macedonia",25,29,807,"MKD",1,0
+"1973","North Macedonia",30,34,807,"MKD",2,1
+"1974","North Macedonia",35,39,807,"MKD",6,3
+"1975","North Macedonia",40,44,807,"MKD",17,6
+"1976","North Macedonia",45,49,807,"MKD",37,16
+"1977","North Macedonia",50,54,807,"MKD",66,29
+"1978","North Macedonia",55,59,807,"MKD",104,45
+"1979","North Macedonia",60,64,807,"MKD",143,67
+"1980","North Macedonia",65,69,807,"MKD",165,86
+"1981","North Macedonia",70,74,807,"MKD",150,93
+"1982","North Macedonia",75,79,807,"MKD",104,76
+"1983","North Macedonia",80,84,807,"MKD",66,57
+"1984","North Macedonia",85,999,807,"MKD",39,39
+"1985","Norway",0,14,578,"NOR",1,0
+"1986","Norway",15,19,578,"NOR",3,0
+"1987","Norway",20,24,578,"NOR",5,0
+"1988","Norway",25,29,578,"NOR",13,0
+"1989","Norway",30,34,578,"NOR",30,4
+"1990","Norway",35,39,578,"NOR",48,5
+"1991","Norway",40,44,578,"NOR",73,11
+"1992","Norway",45,49,578,"NOR",132,21
+"1993","Norway",50,54,578,"NOR",233,45
+"1994","Norway",55,59,578,"NOR",367,74
+"1995","Norway",60,64,578,"NOR",546,106
+"1996","Norway",65,69,578,"NOR",755,186
+"1997","Norway",70,74,578,"NOR",922,325
+"1998","Norway",75,79,578,"NOR",991,436
+"1999","Norway",80,84,578,"NOR",702,388
+"2000","Norway",85,999,578,"NOR",796,537
+"2001","Oman",0,14,512,"OMN",0,0
+"2002","Oman",15,19,512,"OMN",0,0
+"2003","Oman",20,24,512,"OMN",3,2
+"2004","Oman",25,29,512,"OMN",8,5
+"2005","Oman",30,34,512,"OMN",28,17
+"2006","Oman",35,39,512,"OMN",45,23
+"2007","Oman",40,44,512,"OMN",49,25
+"2008","Oman",45,49,512,"OMN",61,33
+"2009","Oman",50,54,512,"OMN",54,28
+"2010","Oman",55,59,512,"OMN",52,29
+"2011","Oman",60,64,512,"OMN",45,25
+"2012","Oman",65,69,512,"OMN",30,17
+"2013","Oman",70,74,512,"OMN",20,14
+"2014","Oman",75,79,512,"OMN",16,11
+"2015","Oman",80,84,512,"OMN",12,12
+"2016","Oman",85,999,512,"OMN",8,8
+"2017","Pakistan",0,14,586,"PAK",51,17
+"2018","Pakistan",15,19,586,"PAK",158,71
+"2019","Pakistan",20,24,586,"PAK",325,144
+"2020","Pakistan",25,29,586,"PAK",362,163
+"2021","Pakistan",30,34,586,"PAK",466,201
+"2022","Pakistan",35,39,586,"PAK",563,241
+"2023","Pakistan",40,44,586,"PAK",708,325
+"2024","Pakistan",45,49,586,"PAK",818,429
+"2025","Pakistan",50,54,586,"PAK",923,515
+"2026","Pakistan",55,59,586,"PAK",1028,597
+"2027","Pakistan",60,64,586,"PAK",1052,605
+"2028","Pakistan",65,69,586,"PAK",931,542
+"2029","Pakistan",70,74,586,"PAK",780,481
+"2030","Pakistan",75,79,586,"PAK",637,425
+"2031","Pakistan",80,84,586,"PAK",406,292
+"2032","Pakistan",85,999,586,"PAK",239,187
+"2033","Panama",0,14,591,"PAN",0,0
+"2034","Panama",15,19,591,"PAN",0,0
+"2035","Panama",20,24,591,"PAN",7,0
+"2036","Panama",25,29,591,"PAN",5,2
+"2037","Panama",30,34,591,"PAN",3,3
+"2038","Panama",35,39,591,"PAN",8,3
+"2039","Panama",40,44,591,"PAN",20,7
+"2040","Panama",45,49,591,"PAN",40,13
+"2041","Panama",50,54,591,"PAN",64,22
+"2042","Panama",55,59,591,"PAN",91,33
+"2043","Panama",60,64,591,"PAN",113,42
+"2044","Panama",65,69,591,"PAN",117,49
+"2045","Panama",70,74,591,"PAN",108,53
+"2046","Panama",75,79,591,"PAN",92,50
+"2047","Panama",80,84,591,"PAN",70,43
+"2048","Panama",85,999,591,"PAN",82,54
+"2049","Papua New Guinea",0,14,598,"PNG",0,0
+"2050","Papua New Guinea",15,19,598,"PNG",0,0
+"2051","Papua New Guinea",20,24,598,"PNG",4,0
+"2052","Papua New Guinea",25,29,598,"PNG",0,0
+"2053","Papua New Guinea",30,34,598,"PNG",0,3
+"2054","Papua New Guinea",35,39,598,"PNG",11,5
+"2055","Papua New Guinea",40,44,598,"PNG",23,9
+"2056","Papua New Guinea",45,49,598,"PNG",40,20
+"2057","Papua New Guinea",50,54,598,"PNG",60,34
+"2058","Papua New Guinea",55,59,598,"PNG",90,49
+"2059","Papua New Guinea",60,64,598,"PNG",109,57
+"2060","Papua New Guinea",65,69,598,"PNG",106,56
+"2061","Papua New Guinea",70,74,598,"PNG",82,50
+"2062","Papua New Guinea",75,79,598,"PNG",59,43
+"2063","Papua New Guinea",80,84,598,"PNG",38,33
+"2064","Papua New Guinea",85,999,598,"PNG",24,23
+"2065","Paraguay",0,14,600,"PRY",2,0
+"2066","Paraguay",15,19,600,"PRY",3,1
+"2067","Paraguay",20,24,600,"PRY",9,1
+"2068","Paraguay",25,29,600,"PRY",5,3
+"2069","Paraguay",30,34,600,"PRY",12,7
+"2070","Paraguay",35,39,600,"PRY",28,13
+"2071","Paraguay",40,44,600,"PRY",54,23
+"2072","Paraguay",45,49,600,"PRY",83,30
+"2073","Paraguay",50,54,600,"PRY",106,40
+"2074","Paraguay",55,59,600,"PRY",144,49
+"2075","Paraguay",60,64,600,"PRY",191,66
+"2076","Paraguay",65,69,600,"PRY",219,80
+"2077","Paraguay",70,74,600,"PRY",203,92
+"2078","Paraguay",75,79,600,"PRY",171,89
+"2079","Paraguay",80,84,600,"PRY",137,83
+"2080","Paraguay",85,999,600,"PRY",127,82
+"2081","Peru",0,14,604,"PER",0,0
+"2082","Peru",15,19,604,"PER",3,2
+"2083","Peru",20,24,604,"PER",30,6
+"2084","Peru",25,29,604,"PER",33,10
+"2085","Peru",30,34,604,"PER",15,26
+"2086","Peru",35,39,604,"PER",50,36
+"2087","Peru",40,44,604,"PER",108,43
+"2088","Peru",45,49,604,"PER",198,72
+"2089","Peru",50,54,604,"PER",326,112
+"2090","Peru",55,59,604,"PER",447,163
+"2091","Peru",60,64,604,"PER",540,230
+"2092","Peru",65,69,604,"PER",645,297
+"2093","Peru",70,74,604,"PER",691,330
+"2094","Peru",75,79,604,"PER",657,361
+"2095","Peru",80,84,604,"PER",588,378
+"2096","Peru",85,999,604,"PER",612,461
+"2097","Philippines",0,14,608,"PHL",22,4
+"2098","Philippines",15,19,608,"PHL",48,7
+"2099","Philippines",20,24,608,"PHL",229,31
+"2100","Philippines",25,29,608,"PHL",194,49
+"2101","Philippines",30,34,608,"PHL",184,68
+"2102","Philippines",35,39,608,"PHL",392,154
+"2103","Philippines",40,44,608,"PHL",713,198
+"2104","Philippines",45,49,608,"PHL",1155,405
+"2105","Philippines",50,54,608,"PHL",1782,725
+"2106","Philippines",55,59,608,"PHL",2552,1018
+"2107","Philippines",60,64,608,"PHL",3107,1304
+"2108","Philippines",65,69,608,"PHL",3316,1576
+"2109","Philippines",70,74,608,"PHL",2899,1693
+"2110","Philippines",75,79,608,"PHL",2014,1454
+"2111","Philippines",80,84,608,"PHL",1251,1091
+"2112","Philippines",85,999,608,"PHL",878,915
+"2113","Poland",0,14,616,"POL",0,0
+"2114","Poland",15,19,616,"POL",2,0
+"2115","Poland",20,24,616,"POL",20,0
+"2116","Poland",25,29,616,"POL",32,0
+"2117","Poland",30,34,616,"POL",68,14
+"2118","Poland",35,39,616,"POL",85,41
+"2119","Poland",40,44,616,"POL",252,128
+"2120","Poland",45,49,616,"POL",611,238
+"2121","Poland",50,54,616,"POL",1061,414
+"2122","Poland",55,59,616,"POL",1912,761
+"2123","Poland",60,64,616,"POL",3573,1517
+"2124","Poland",65,69,616,"POL",5133,2373
+"2125","Poland",70,74,616,"POL",5084,2826
+"2126","Poland",75,79,616,"POL",3380,2135
+"2127","Poland",80,84,616,"POL",2763,2169
+"2128","Poland",85,999,616,"POL",2912,2668
+"2129","Portugal",0,14,620,"PRT",2,0
+"2130","Portugal",15,19,620,"PRT",3,0
+"2131","Portugal",20,24,620,"PRT",4,0
+"2132","Portugal",25,29,620,"PRT",9,2
+"2133","Portugal",30,34,620,"PRT",22,8
+"2134","Portugal",35,39,620,"PRT",39,14
+"2135","Portugal",40,44,620,"PRT",121,35
+"2136","Portugal",45,49,620,"PRT",273,71
+"2137","Portugal",50,54,620,"PRT",447,120
+"2138","Portugal",55,59,620,"PRT",721,193
+"2139","Portugal",60,64,620,"PRT",1055,274
+"2140","Portugal",65,69,620,"PRT",1444,422
+"2141","Portugal",70,74,620,"PRT",1787,674
+"2142","Portugal",75,79,620,"PRT",1691,837
+"2143","Portugal",80,84,620,"PRT",1423,923
+"2144","Portugal",85,999,620,"PRT",1534,1236
+"2145","Puerto Rico",0,14,630,"PRI",0,0
+"2146","Puerto Rico",15,19,630,"PRI",1,0
+"2147","Puerto Rico",20,24,630,"PRI",1,1
+"2148","Puerto Rico",25,29,630,"PRI",1,0
+"2149","Puerto Rico",30,34,630,"PRI",6,2
+"2150","Puerto Rico",35,39,630,"PRI",18,7
+"2151","Puerto Rico",40,44,630,"PRI",40,17
+"2152","Puerto Rico",45,49,630,"PRI",71,28
+"2153","Puerto Rico",50,54,630,"PRI",115,42
+"2154","Puerto Rico",55,59,630,"PRI",169,67
+"2155","Puerto Rico",60,64,630,"PRI",226,100
+"2156","Puerto Rico",65,69,630,"PRI",251,113
+"2157","Puerto Rico",70,74,630,"PRI",276,132
+"2158","Puerto Rico",75,79,630,"PRI",263,150
+"2159","Puerto Rico",80,84,630,"PRI",191,134
+"2160","Puerto Rico",85,999,630,"PRI",214,181
+"2161","Qatar",0,14,634,"QAT",0,0
+"2162","Qatar",15,19,634,"QAT",0,0
+"2163","Qatar",20,24,634,"QAT",0,0
+"2164","Qatar",25,29,634,"QAT",4,0
+"2165","Qatar",30,34,634,"QAT",5,1
+"2166","Qatar",35,39,634,"QAT",13,5
+"2167","Qatar",40,44,634,"QAT",11,6
+"2168","Qatar",45,49,634,"QAT",25,11
+"2169","Qatar",50,54,634,"QAT",29,11
+"2170","Qatar",55,59,634,"QAT",27,11
+"2171","Qatar",60,64,634,"QAT",32,13
+"2172","Qatar",65,69,634,"QAT",19,9
+"2173","Qatar",70,74,634,"QAT",9,4
+"2174","Qatar",75,79,634,"QAT",4,4
+"2175","Qatar",80,84,634,"QAT",2,2
+"2176","Qatar",85,999,634,"QAT",2,2
+"2177","Republic of Moldova",0,14,498,"MDA",0,0
+"2178","Republic of Moldova",15,19,498,"MDA",0,0
+"2179","Republic of Moldova",20,24,498,"MDA",0,0
+"2180","Republic of Moldova",25,29,498,"MDA",3,0
+"2181","Republic of Moldova",30,34,498,"MDA",3,3
+"2182","Republic of Moldova",35,39,498,"MDA",6,4
+"2183","Republic of Moldova",40,44,498,"MDA",21,14
+"2184","Republic of Moldova",45,49,498,"MDA",63,30
+"2185","Republic of Moldova",50,54,498,"MDA",117,55
+"2186","Republic of Moldova",55,59,498,"MDA",220,108
+"2187","Republic of Moldova",60,64,498,"MDA",389,211
+"2188","Republic of Moldova",65,69,498,"MDA",411,239
+"2189","Republic of Moldova",70,74,498,"MDA",351,228
+"2190","Republic of Moldova",75,79,498,"MDA",135,101
+"2191","Republic of Moldova",80,84,498,"MDA",98,85
+"2192","Republic of Moldova",85,999,498,"MDA",51,55
+"2193","Romania",0,14,642,"ROU",4,0
+"2194","Romania",15,19,642,"ROU",3,0
+"2195","Romania",20,24,642,"ROU",7,0
+"2196","Romania",25,29,642,"ROU",21,0
+"2197","Romania",30,34,642,"ROU",22,10
+"2198","Romania",35,39,642,"ROU",54,17
+"2199","Romania",40,44,642,"ROU",169,64
+"2200","Romania",45,49,642,"ROU",426,152
+"2201","Romania",50,54,642,"ROU",921,346
+"2202","Romania",55,59,642,"ROU",1100,373
+"2203","Romania",60,64,642,"ROU",1780,761
+"2204","Romania",65,69,642,"ROU",2508,1192
+"2205","Romania",70,74,642,"ROU",2407,1311
+"2206","Romania",75,79,642,"ROU",1675,1055
+"2207","Romania",80,84,642,"ROU",1338,1046
+"2208","Romania",85,999,642,"ROU",1106,1054
+"2209","Russian Federation",0,14,643,"RUS",17,0
+"2210","Russian Federation",15,19,643,"RUS",27,5
+"2211","Russian Federation",20,24,643,"RUS",68,20
+"2212","Russian Federation",25,29,643,"RUS",95,42
+"2213","Russian Federation",30,34,643,"RUS",121,137
+"2214","Russian Federation",35,39,643,"RUS",495,177
+"2215","Russian Federation",40,44,643,"RUS",1359,217
+"2216","Russian Federation",45,49,643,"RUS",2563,781
+"2217","Russian Federation",50,54,643,"RUS",4153,1471
+"2218","Russian Federation",55,59,643,"RUS",7607,2881
+"2219","Russian Federation",60,64,643,"RUS",14047,5565
+"2220","Russian Federation",65,69,643,"RUS",16847,7334
+"2221","Russian Federation",70,74,643,"RUS",15789,7954
+"2222","Russian Federation",75,79,643,"RUS",7404,4402
+"2223","Russian Federation",80,84,643,"RUS",8017,5793
+"2224","Russian Federation",85,999,643,"RUS",5084,4668
+"2225","Rwanda",0,14,646,"RWA",0,0
+"2226","Rwanda",15,19,646,"RWA",2,0
+"2227","Rwanda",20,24,646,"RWA",7,4
+"2228","Rwanda",25,29,646,"RWA",11,8
+"2229","Rwanda",30,34,646,"RWA",17,12
+"2230","Rwanda",35,39,646,"RWA",23,14
+"2231","Rwanda",40,44,646,"RWA",27,20
+"2232","Rwanda",45,49,646,"RWA",34,25
+"2233","Rwanda",50,54,646,"RWA",36,24
+"2234","Rwanda",55,59,646,"RWA",52,35
+"2235","Rwanda",60,64,646,"RWA",52,36
+"2236","Rwanda",65,69,646,"RWA",42,29
+"2237","Rwanda",70,74,646,"RWA",25,20
+"2238","Rwanda",75,79,646,"RWA",13,12
+"2239","Rwanda",80,84,646,"RWA",7,7
+"2240","Rwanda",85,999,646,"RWA",5,5
+"2241","Saint Lucia",0,14,662,"LCA",0,0
+"2242","Saint Lucia",15,19,662,"LCA",0,0
+"2243","Saint Lucia",20,24,662,"LCA",0,0
+"2244","Saint Lucia",25,29,662,"LCA",0,0
+"2245","Saint Lucia",30,34,662,"LCA",0,0
+"2246","Saint Lucia",35,39,662,"LCA",0,0
+"2247","Saint Lucia",40,44,662,"LCA",1,0
+"2248","Saint Lucia",45,49,662,"LCA",1,0
+"2249","Saint Lucia",50,54,662,"LCA",6,2
+"2250","Saint Lucia",55,59,662,"LCA",3,2
+"2251","Saint Lucia",60,64,662,"LCA",6,4
+"2252","Saint Lucia",65,69,662,"LCA",3,2
+"2253","Saint Lucia",70,74,662,"LCA",4,3
+"2254","Saint Lucia",75,79,662,"LCA",5,4
+"2255","Saint Lucia",80,84,662,"LCA",3,3
+"2256","Saint Lucia",85,999,662,"LCA",2,2
+"2257","Samoa",0,14,882,"WSM",0,0
+"2258","Samoa",15,19,882,"WSM",0,0
+"2259","Samoa",20,24,882,"WSM",0,0
+"2260","Samoa",25,29,882,"WSM",0,0
+"2261","Samoa",30,34,882,"WSM",0,0
+"2262","Samoa",35,39,882,"WSM",0,0
+"2263","Samoa",40,44,882,"WSM",0,0
+"2264","Samoa",45,49,882,"WSM",3,0
+"2265","Samoa",50,54,882,"WSM",5,1
+"2266","Samoa",55,59,882,"WSM",6,2
+"2267","Samoa",60,64,882,"WSM",8,5
+"2268","Samoa",65,69,882,"WSM",8,3
+"2269","Samoa",70,74,882,"WSM",6,3
+"2270","Samoa",75,79,882,"WSM",3,3
+"2271","Samoa",80,84,882,"WSM",3,3
+"2272","Samoa",85,999,882,"WSM",0,0
+"2273","Sao Tome and Principe",0,14,678,"STP",0,0
+"2274","Sao Tome and Principe",15,19,678,"STP",0,0
+"2275","Sao Tome and Principe",20,24,678,"STP",0,0
+"2276","Sao Tome and Principe",25,29,678,"STP",0,0
+"2277","Sao Tome and Principe",30,34,678,"STP",0,0
+"2278","Sao Tome and Principe",35,39,678,"STP",0,0
+"2279","Sao Tome and Principe",40,44,678,"STP",0,0
+"2280","Sao Tome and Principe",45,49,678,"STP",1,0
+"2281","Sao Tome and Principe",50,54,678,"STP",1,0
+"2282","Sao Tome and Principe",55,59,678,"STP",2,0
+"2283","Sao Tome and Principe",60,64,678,"STP",3,4
+"2284","Sao Tome and Principe",65,69,678,"STP",1,1
+"2285","Sao Tome and Principe",70,74,678,"STP",0,0
+"2286","Sao Tome and Principe",75,79,678,"STP",0,0
+"2287","Sao Tome and Principe",80,84,678,"STP",0,0
+"2288","Sao Tome and Principe",85,999,678,"STP",0,0
+"2289","Saudi Arabia",0,14,682,"SAU",2,0
+"2290","Saudi Arabia",15,19,682,"SAU",4,2
+"2291","Saudi Arabia",20,24,682,"SAU",13,10
+"2292","Saudi Arabia",25,29,682,"SAU",46,19
+"2293","Saudi Arabia",30,34,682,"SAU",88,37
+"2294","Saudi Arabia",35,39,682,"SAU",192,80
+"2295","Saudi Arabia",40,44,682,"SAU",366,164
+"2296","Saudi Arabia",45,49,682,"SAU",545,251
+"2297","Saudi Arabia",50,54,682,"SAU",584,277
+"2298","Saudi Arabia",55,59,682,"SAU",558,275
+"2299","Saudi Arabia",60,64,682,"SAU",477,231
+"2300","Saudi Arabia",65,69,682,"SAU",362,175
+"2301","Saudi Arabia",70,74,682,"SAU",214,122
+"2302","Saudi Arabia",75,79,682,"SAU",138,96
+"2303","Saudi Arabia",80,84,682,"SAU",94,78
+"2304","Saudi Arabia",85,999,682,"SAU",67,66
+"2305","Senegal",0,14,686,"SEN",1,1
+"2306","Senegal",15,19,686,"SEN",1,1
+"2307","Senegal",20,24,686,"SEN",12,10
+"2308","Senegal",25,29,686,"SEN",24,17
+"2309","Senegal",30,34,686,"SEN",32,21
+"2310","Senegal",35,39,686,"SEN",41,26
+"2311","Senegal",40,44,686,"SEN",48,30
+"2312","Senegal",45,49,686,"SEN",56,36
+"2313","Senegal",50,54,686,"SEN",62,43
+"2314","Senegal",55,59,686,"SEN",65,43
+"2315","Senegal",60,64,686,"SEN",66,46
+"2316","Senegal",65,69,686,"SEN",65,46
+"2317","Senegal",70,74,686,"SEN",55,44
+"2318","Senegal",75,79,686,"SEN",42,34
+"2319","Senegal",80,84,686,"SEN",26,23
+"2320","Senegal",85,999,686,"SEN",13,11
+"2321","Serbia",0,14,688,"SRB",0,0
+"2322","Serbia",15,19,688,"SRB",1,0
+"2323","Serbia",20,24,688,"SRB",4,0
+"2324","Serbia",25,29,688,"SRB",6,1
+"2325","Serbia",30,34,688,"SRB",9,5
+"2326","Serbia",35,39,688,"SRB",20,8
+"2327","Serbia",40,44,688,"SRB",79,25
+"2328","Serbia",45,49,688,"SRB",204,72
+"2329","Serbia",50,54,688,"SRB",358,133
+"2330","Serbia",55,59,688,"SRB",576,228
+"2331","Serbia",60,64,688,"SRB",783,337
+"2332","Serbia",65,69,688,"SRB",944,457
+"2333","Serbia",70,74,688,"SRB",973,550
+"2334","Serbia",75,79,688,"SRB",695,468
+"2335","Serbia",80,84,688,"SRB",493,393
+"2336","Serbia",85,999,688,"SRB",344,328
+"2337","Sierra Leone",0,14,694,"SLE",0,0
+"2338","Sierra Leone",15,19,694,"SLE",0,0
+"2339","Sierra Leone",20,24,694,"SLE",0,0
+"2340","Sierra Leone",25,29,694,"SLE",2,2
+"2341","Sierra Leone",30,34,694,"SLE",3,2
+"2342","Sierra Leone",35,39,694,"SLE",0,0
+"2343","Sierra Leone",40,44,694,"SLE",0,0
+"2344","Sierra Leone",45,49,694,"SLE",0,0
+"2345","Sierra Leone",50,54,694,"SLE",3,3
+"2346","Sierra Leone",55,59,694,"SLE",1,1
+"2347","Sierra Leone",60,64,694,"SLE",1,1
+"2348","Sierra Leone",65,69,694,"SLE",0,0
+"2349","Sierra Leone",70,74,694,"SLE",0,0
+"2350","Sierra Leone",75,79,694,"SLE",1,1
+"2351","Sierra Leone",80,84,694,"SLE",0,0
+"2352","Sierra Leone",85,999,694,"SLE",1,1
+"2353","Singapore",0,14,702,"SGP",3,0
+"2354","Singapore",15,19,702,"SGP",0,0
+"2355","Singapore",20,24,702,"SGP",6,0
+"2356","Singapore",25,29,702,"SGP",4,4
+"2357","Singapore",30,34,702,"SGP",9,4
+"2358","Singapore",35,39,702,"SGP",30,11
+"2359","Singapore",40,44,702,"SGP",70,25
+"2360","Singapore",45,49,702,"SGP",151,54
+"2361","Singapore",50,54,702,"SGP",253,95
+"2362","Singapore",55,59,702,"SGP",422,158
+"2363","Singapore",60,64,702,"SGP",630,246
+"2364","Singapore",65,69,702,"SGP",769,335
+"2365","Singapore",70,74,702,"SGP",637,317
+"2366","Singapore",75,79,702,"SGP",383,240
+"2367","Singapore",80,84,702,"SGP",292,228
+"2368","Singapore",85,999,702,"SGP",348,326
+"2369","Slovakia",0,14,703,"SVK",1,0
+"2370","Slovakia",15,19,703,"SVK",1,0
+"2371","Slovakia",20,24,703,"SVK",3,0
+"2372","Slovakia",25,29,703,"SVK",3,0
+"2373","Slovakia",30,34,703,"SVK",5,2
+"2374","Slovakia",35,39,703,"SVK",16,4
+"2375","Slovakia",40,44,703,"SVK",31,17
+"2376","Slovakia",45,49,703,"SVK",95,34
+"2377","Slovakia",50,54,703,"SVK",182,62
+"2378","Slovakia",55,59,703,"SVK",334,123
+"2379","Slovakia",60,64,703,"SVK",553,217
+"2380","Slovakia",65,69,703,"SVK",796,344
+"2381","Slovakia",70,74,703,"SVK",819,417
+"2382","Slovakia",75,79,703,"SVK",596,365
+"2383","Slovakia",80,84,703,"SVK",427,322
+"2384","Slovakia",85,999,703,"SVK",357,325
+"2385","Slovenia",0,14,705,"SVN",0,0
+"2386","Slovenia",15,19,705,"SVN",1,0
+"2387","Slovenia",20,24,705,"SVN",0,0
+"2388","Slovenia",25,29,705,"SVN",2,0
+"2389","Slovenia",30,34,705,"SVN",4,1
+"2390","Slovenia",35,39,705,"SVN",9,2
+"2391","Slovenia",40,44,705,"SVN",23,5
+"2392","Slovenia",45,49,705,"SVN",43,9
+"2393","Slovenia",50,54,705,"SVN",75,16
+"2394","Slovenia",55,59,705,"SVN",128,29
+"2395","Slovenia",60,64,705,"SVN",184,44
+"2396","Slovenia",65,69,705,"SVN",254,80
+"2397","Slovenia",70,74,705,"SVN",270,116
+"2398","Slovenia",75,79,705,"SVN",214,125
+"2399","Slovenia",80,84,705,"SVN",191,143
+"2400","Slovenia",85,999,705,"SVN",182,169
+"2401","Solomon Islands",0,14,90,"SLB",0,0
+"2402","Solomon Islands",15,19,90,"SLB",0,0
+"2403","Solomon Islands",20,24,90,"SLB",0,0
+"2404","Solomon Islands",25,29,90,"SLB",0,0
+"2405","Solomon Islands",30,34,90,"SLB",0,0
+"2406","Solomon Islands",35,39,90,"SLB",0,0
+"2407","Solomon Islands",40,44,90,"SLB",2,1
+"2408","Solomon Islands",45,49,90,"SLB",1,0
+"2409","Solomon Islands",50,54,90,"SLB",3,0
+"2410","Solomon Islands",55,59,90,"SLB",0,0
+"2411","Solomon Islands",60,64,90,"SLB",3,1
+"2412","Solomon Islands",65,69,90,"SLB",3,6
+"2413","Solomon Islands",70,74,90,"SLB",3,0
+"2414","Solomon Islands",75,79,90,"SLB",2,2
+"2415","Solomon Islands",80,84,90,"SLB",0,0
+"2416","Solomon Islands",85,999,90,"SLB",2,1
+"2417","Somalia",0,14,706,"SOM",2,2
+"2418","Somalia",15,19,706,"SOM",2,2
+"2419","Somalia",20,24,706,"SOM",18,13
+"2420","Somalia",25,29,706,"SOM",28,21
+"2421","Somalia",30,34,706,"SOM",24,18
+"2422","Somalia",35,39,706,"SOM",34,26
+"2423","Somalia",40,44,706,"SOM",46,34
+"2424","Somalia",45,49,706,"SOM",65,49
+"2425","Somalia",50,54,706,"SOM",88,67
+"2426","Somalia",55,59,706,"SOM",100,80
+"2427","Somalia",60,64,706,"SOM",107,88
+"2428","Somalia",65,69,706,"SOM",93,80
+"2429","Somalia",70,74,706,"SOM",68,65
+"2430","Somalia",75,79,706,"SOM",45,43
+"2431","Somalia",80,84,706,"SOM",22,22
+"2432","Somalia",85,999,706,"SOM",13,13
+"2433","South Africa",0,14,710,"ZAF",12,1
+"2434","South Africa",15,19,710,"ZAF",12,3
+"2435","South Africa",20,24,710,"ZAF",29,12
+"2436","South Africa",25,29,710,"ZAF",104,36
+"2437","South Africa",30,34,710,"ZAF",196,94
+"2438","South Africa",35,39,710,"ZAF",310,141
+"2439","South Africa",40,44,710,"ZAF",396,149
+"2440","South Africa",45,49,710,"ZAF",530,233
+"2441","South Africa",50,54,710,"ZAF",671,341
+"2442","South Africa",55,59,710,"ZAF",848,448
+"2443","South Africa",60,64,710,"ZAF",907,562
+"2444","South Africa",65,69,710,"ZAF",968,606
+"2445","South Africa",70,74,710,"ZAF",964,514
+"2446","South Africa",75,79,710,"ZAF",739,560
+"2447","South Africa",80,84,710,"ZAF",444,514
+"2448","South Africa",85,999,710,"ZAF",208,377
+"2449","South Sudan",0,14,728,"SSD",4,0
+"2450","South Sudan",15,19,728,"SSD",4,0
+"2451","South Sudan",20,24,728,"SSD",10,5
+"2452","South Sudan",25,29,728,"SSD",13,7
+"2453","South Sudan",30,34,728,"SSD",13,8
+"2454","South Sudan",35,39,728,"SSD",21,12
+"2455","South Sudan",40,44,728,"SSD",27,18
+"2456","South Sudan",45,49,728,"SSD",34,25
+"2457","South Sudan",50,54,728,"SSD",44,32
+"2458","South Sudan",55,59,728,"SSD",50,38
+"2459","South Sudan",60,64,728,"SSD",48,38
+"2460","South Sudan",65,69,728,"SSD",41,34
+"2461","South Sudan",70,74,728,"SSD",33,29
+"2462","South Sudan",75,79,728,"SSD",25,24
+"2463","South Sudan",80,84,728,"SSD",14,14
+"2464","South Sudan",85,999,728,"SSD",7,7
+"2465","Spain",0,14,724,"ESP",9,0
+"2466","Spain",15,19,724,"ESP",15,0
+"2467","Spain",20,24,724,"ESP",16,0
+"2468","Spain",25,29,724,"ESP",29,0
+"2469","Spain",30,34,724,"ESP",40,9
+"2470","Spain",35,39,724,"ESP",130,18
+"2471","Spain",40,44,724,"ESP",328,85
+"2472","Spain",45,49,724,"ESP",1054,235
+"2473","Spain",50,54,724,"ESP",2039,469
+"2474","Spain",55,59,724,"ESP",3272,765
+"2475","Spain",60,64,724,"ESP",4549,1086
+"2476","Spain",65,69,724,"ESP",5484,1508
+"2477","Spain",70,74,724,"ESP",6378,2236
+"2478","Spain",75,79,724,"ESP",6150,2819
+"2479","Spain",80,84,724,"ESP",4420,2749
+"2480","Spain",85,999,724,"ESP",5508,4629
+"2481","Sri Lanka",0,14,144,"LKA",1,0
+"2482","Sri Lanka",15,19,144,"LKA",3,1
+"2483","Sri Lanka",20,24,144,"LKA",3,0
+"2484","Sri Lanka",25,29,144,"LKA",15,7
+"2485","Sri Lanka",30,34,144,"LKA",21,9
+"2486","Sri Lanka",35,39,144,"LKA",30,11
+"2487","Sri Lanka",40,44,144,"LKA",66,26
+"2488","Sri Lanka",45,49,144,"LKA",119,51
+"2489","Sri Lanka",50,54,144,"LKA",186,90
+"2490","Sri Lanka",55,59,144,"LKA",279,136
+"2491","Sri Lanka",60,64,144,"LKA",362,173
+"2492","Sri Lanka",65,69,144,"LKA",422,206
+"2493","Sri Lanka",70,74,144,"LKA",423,217
+"2494","Sri Lanka",75,79,144,"LKA",321,178
+"2495","Sri Lanka",80,84,144,"LKA",168,101
+"2496","Sri Lanka",85,999,144,"LKA",121,78
+"2497","Sudan",0,14,729,"SDN",52,16
+"2498","Sudan",15,19,729,"SDN",73,30
+"2499","Sudan",20,24,729,"SDN",100,48
+"2500","Sudan",25,29,729,"SDN",86,63
+"2501","Sudan",30,34,729,"SDN",100,62
+"2502","Sudan",35,39,729,"SDN",104,55
+"2503","Sudan",40,44,729,"SDN",102,48
+"2504","Sudan",45,49,729,"SDN",111,51
+"2505","Sudan",50,54,729,"SDN",134,72
+"2506","Sudan",55,59,729,"SDN",111,49
+"2507","Sudan",60,64,729,"SDN",123,65
+"2508","Sudan",65,69,729,"SDN",151,93
+"2509","Sudan",70,74,729,"SDN",161,120
+"2510","Sudan",75,79,729,"SDN",137,126
+"2511","Sudan",80,84,729,"SDN",93,102
+"2512","Sudan",85,999,729,"SDN",66,84
+"2513","Suriname",0,14,740,"SUR",0,0
+"2514","Suriname",15,19,740,"SUR",0,0
+"2515","Suriname",20,24,740,"SUR",0,0
+"2516","Suriname",25,29,740,"SUR",0,0
+"2517","Suriname",30,34,740,"SUR",2,0
+"2518","Suriname",35,39,740,"SUR",2,1
+"2519","Suriname",40,44,740,"SUR",2,0
+"2520","Suriname",45,49,740,"SUR",6,3
+"2521","Suriname",50,54,740,"SUR",8,6
+"2522","Suriname",55,59,740,"SUR",12,8
+"2523","Suriname",60,64,740,"SUR",16,3
+"2524","Suriname",65,69,740,"SUR",18,9
+"2525","Suriname",70,74,740,"SUR",23,12
+"2526","Suriname",75,79,740,"SUR",16,11
+"2527","Suriname",80,84,740,"SUR",11,5
+"2528","Suriname",85,999,740,"SUR",9,6
+"2529","Sweden",0,14,752,"SWE",1,0
+"2530","Sweden",15,19,752,"SWE",5,0
+"2531","Sweden",20,24,752,"SWE",4,0
+"2532","Sweden",25,29,752,"SWE",11,1
+"2533","Sweden",30,34,752,"SWE",23,7
+"2534","Sweden",35,39,752,"SWE",50,10
+"2535","Sweden",40,44,752,"SWE",99,20
+"2536","Sweden",45,49,752,"SWE",180,35
+"2537","Sweden",50,54,752,"SWE",310,67
+"2538","Sweden",55,59,752,"SWE",523,116
+"2539","Sweden",60,64,752,"SWE",709,182
+"2540","Sweden",65,69,752,"SWE",994,300
+"2541","Sweden",70,74,752,"SWE",1295,499
+"2542","Sweden",75,79,752,"SWE",1451,681
+"2543","Sweden",80,84,752,"SWE",1024,583
+"2544","Sweden",85,999,752,"SWE",1020,717
+"2545","Switzerland",0,14,756,"CHE",5,0
+"2546","Switzerland",15,19,756,"CHE",3,0
+"2547","Switzerland",20,24,756,"CHE",7,0
+"2548","Switzerland",25,29,756,"CHE",16,2
+"2549","Switzerland",30,34,756,"CHE",23,4
+"2550","Switzerland",35,39,756,"CHE",40,8
+"2551","Switzerland",40,44,756,"CHE",74,15
+"2552","Switzerland",45,49,756,"CHE",145,29
+"2553","Switzerland",50,54,756,"CHE",286,60
+"2554","Switzerland",55,59,756,"CHE",472,100
+"2555","Switzerland",60,64,756,"CHE",622,132
+"2556","Switzerland",65,69,756,"CHE",704,181
+"2557","Switzerland",70,74,756,"CHE",795,272
+"2558","Switzerland",75,79,756,"CHE",842,359
+"2559","Switzerland",80,84,756,"CHE",665,346
+"2560","Switzerland",85,999,756,"CHE",724,470
+"2561","Syrian Arab Republic",0,14,760,"SYR",3,4
+"2562","Syrian Arab Republic",15,19,760,"SYR",6,3
+"2563","Syrian Arab Republic",20,24,760,"SYR",29,0
+"2564","Syrian Arab Republic",25,29,760,"SYR",21,17
+"2565","Syrian Arab Republic",30,34,760,"SYR",25,36
+"2566","Syrian Arab Republic",35,39,760,"SYR",50,39
+"2567","Syrian Arab Republic",40,44,760,"SYR",41,36
+"2568","Syrian Arab Republic",45,49,760,"SYR",65,48
+"2569","Syrian Arab Republic",50,54,760,"SYR",121,76
+"2570","Syrian Arab Republic",55,59,760,"SYR",165,101
+"2571","Syrian Arab Republic",60,64,760,"SYR",176,114
+"2572","Syrian Arab Republic",65,69,760,"SYR",241,153
+"2573","Syrian Arab Republic",70,74,760,"SYR",182,114
+"2574","Syrian Arab Republic",75,79,760,"SYR",188,126
+"2575","Syrian Arab Republic",80,84,760,"SYR",160,114
+"2576","Syrian Arab Republic",85,999,760,"SYR",153,111
+"2577","Tajikistan",0,14,762,"TJK",4,2
+"2578","Tajikistan",15,19,762,"TJK",8,6
+"2579","Tajikistan",20,24,762,"TJK",8,6
+"2580","Tajikistan",25,29,762,"TJK",9,6
+"2581","Tajikistan",30,34,762,"TJK",17,10
+"2582","Tajikistan",35,39,762,"TJK",20,12
+"2583","Tajikistan",40,44,762,"TJK",22,12
+"2584","Tajikistan",45,49,762,"TJK",23,12
+"2585","Tajikistan",50,54,762,"TJK",29,17
+"2586","Tajikistan",55,59,762,"TJK",43,25
+"2587","Tajikistan",60,64,762,"TJK",51,35
+"2588","Tajikistan",65,69,762,"TJK",44,30
+"2589","Tajikistan",70,74,762,"TJK",32,19
+"2590","Tajikistan",75,79,762,"TJK",22,13
+"2591","Tajikistan",80,84,762,"TJK",18,12
+"2592","Tajikistan",85,999,762,"TJK",15,12
+"2593","Tanzania, United Republic of",0,14,834,"TZA",0,0
+"2594","Tanzania, United Republic of",15,19,834,"TZA",12,0
+"2595","Tanzania, United Republic of",20,24,834,"TZA",63,41
+"2596","Tanzania, United Republic of",25,29,834,"TZA",53,35
+"2597","Tanzania, United Republic of",30,34,834,"TZA",93,46
+"2598","Tanzania, United Republic of",35,39,834,"TZA",135,77
+"2599","Tanzania, United Republic of",40,44,834,"TZA",187,103
+"2600","Tanzania, United Republic of",45,49,834,"TZA",212,121
+"2601","Tanzania, United Republic of",50,54,834,"TZA",231,141
+"2602","Tanzania, United Republic of",55,59,834,"TZA",243,152
+"2603","Tanzania, United Republic of",60,64,834,"TZA",223,154
+"2604","Tanzania, United Republic of",65,69,834,"TZA",221,160
+"2605","Tanzania, United Republic of",70,74,834,"TZA",216,171
+"2606","Tanzania, United Republic of",75,79,834,"TZA",167,146
+"2607","Tanzania, United Republic of",80,84,834,"TZA",90,85
+"2608","Tanzania, United Republic of",85,999,834,"TZA",39,40
+"2609","Thailand",0,14,764,"THA",10,1
+"2610","Thailand",15,19,764,"THA",17,3
+"2611","Thailand",20,24,764,"THA",41,6
+"2612","Thailand",25,29,764,"THA",120,32
+"2613","Thailand",30,34,764,"THA",99,47
+"2614","Thailand",35,39,764,"THA",213,76
+"2615","Thailand",40,44,764,"THA",504,153
+"2616","Thailand",45,49,764,"THA",980,326
+"2617","Thailand",50,54,764,"THA",1663,590
+"2618","Thailand",55,59,764,"THA",2380,860
+"2619","Thailand",60,64,764,"THA",2992,1135
+"2620","Thailand",65,69,764,"THA",3199,1375
+"2621","Thailand",70,74,764,"THA",2798,1485
+"2622","Thailand",75,79,764,"THA",2167,1420
+"2623","Thailand",80,84,764,"THA",1567,1256
+"2624","Thailand",85,999,764,"THA",1423,1393
+"2625","The Netherlands",0,14,528,"NLD",8,0
+"2626","The Netherlands",15,19,528,"NLD",8,0
+"2627","The Netherlands",20,24,528,"NLD",20,0
+"2628","The Netherlands",25,29,528,"NLD",33,0
+"2629","The Netherlands",30,34,528,"NLD",35,6
+"2630","The Netherlands",35,39,528,"NLD",48,14
+"2631","The Netherlands",40,44,528,"NLD",145,38
+"2632","The Netherlands",45,49,528,"NLD",324,81
+"2633","The Netherlands",50,54,528,"NLD",809,181
+"2634","The Netherlands",55,59,528,"NLD",1519,299
+"2635","The Netherlands",60,64,528,"NLD",2306,438
+"2636","The Netherlands",65,69,528,"NLD",2887,656
+"2637","The Netherlands",70,74,528,"NLD",3259,1046
+"2638","The Netherlands",75,79,528,"NLD",2880,1230
+"2639","The Netherlands",80,84,528,"NLD",1867,1139
+"2640","The Netherlands",85,999,528,"NLD",1522,1337
+"2641","The Republic of the Gambia",0,14,270,"GMB",0,0
+"2642","The Republic of the Gambia",15,19,270,"GMB",0,0
+"2643","The Republic of the Gambia",20,24,270,"GMB",1,1
+"2644","The Republic of the Gambia",25,29,270,"GMB",3,3
+"2645","The Republic of the Gambia",30,34,270,"GMB",2,2
+"2646","The Republic of the Gambia",35,39,270,"GMB",5,4
+"2647","The Republic of the Gambia",40,44,270,"GMB",4,3
+"2648","The Republic of the Gambia",45,49,270,"GMB",3,2
+"2649","The Republic of the Gambia",50,54,270,"GMB",3,2
+"2650","The Republic of the Gambia",55,59,270,"GMB",4,4
+"2651","The Republic of the Gambia",60,64,270,"GMB",3,3
+"2652","The Republic of the Gambia",65,69,270,"GMB",2,2
+"2653","The Republic of the Gambia",70,74,270,"GMB",3,2
+"2654","The Republic of the Gambia",75,79,270,"GMB",3,3
+"2655","The Republic of the Gambia",80,84,270,"GMB",1,1
+"2656","The Republic of the Gambia",85,999,270,"GMB",0,0
+"2657","Timor-Leste",0,14,626,"TLS",0,0
+"2658","Timor-Leste",15,19,626,"TLS",0,0
+"2659","Timor-Leste",20,24,626,"TLS",0,0
+"2660","Timor-Leste",25,29,626,"TLS",2,0
+"2661","Timor-Leste",30,34,626,"TLS",1,0
+"2662","Timor-Leste",35,39,626,"TLS",2,0
+"2663","Timor-Leste",40,44,626,"TLS",4,2
+"2664","Timor-Leste",45,49,626,"TLS",5,1
+"2665","Timor-Leste",50,54,626,"TLS",10,6
+"2666","Timor-Leste",55,59,626,"TLS",11,5
+"2667","Timor-Leste",60,64,626,"TLS",12,5
+"2668","Timor-Leste",65,69,626,"TLS",8,4
+"2669","Timor-Leste",70,74,626,"TLS",8,4
+"2670","Timor-Leste",75,79,626,"TLS",8,7
+"2671","Timor-Leste",80,84,626,"TLS",5,5
+"2672","Timor-Leste",85,999,626,"TLS",4,4
+"2673","Togo",0,14,768,"TGO",0,0
+"2674","Togo",15,19,768,"TGO",5,3
+"2675","Togo",20,24,768,"TGO",4,3
+"2676","Togo",25,29,768,"TGO",15,11
+"2677","Togo",30,34,768,"TGO",13,10
+"2678","Togo",35,39,768,"TGO",14,11
+"2679","Togo",40,44,768,"TGO",25,18
+"2680","Togo",45,49,768,"TGO",32,23
+"2681","Togo",50,54,768,"TGO",41,29
+"2682","Togo",55,59,768,"TGO",44,31
+"2683","Togo",60,64,768,"TGO",44,30
+"2684","Togo",65,69,768,"TGO",39,27
+"2685","Togo",70,74,768,"TGO",36,24
+"2686","Togo",75,79,768,"TGO",23,18
+"2687","Togo",80,84,768,"TGO",13,10
+"2688","Togo",85,999,768,"TGO",6,5
+"2689","Total",0,14,NA,"",1094,213
+"2690","Total",15,19,NA,"",2131,655
+"2691","Total",20,24,NA,"",5362,1947
+"2692","Total",25,29,NA,"",9719,3872
+"2693","Total",30,34,NA,"",15857,6742
+"2694","Total",35,39,NA,"",26439,9556
+"2695","Total",40,44,NA,"",46562,15092
+"2696","Total",45,49,NA,"",80714,27548
+"2697","Total",50,54,NA,"",141052,47909
+"2698","Total",55,59,NA,"",190062,66427
+"2699","Total",60,64,NA,"",236111,85928
+"2700","Total",65,69,NA,"",294200,115371
+"2701","Total",70,74,NA,"",287025,128040
+"2702","Total",75,79,NA,"",230799,125119
+"2703","Total",80,84,NA,"",182333,123377
+"2704","Total",85,999,NA,"",176368,145847
+"2705","Trinidad and Tobago",0,14,780,"TTO",0,0
+"2706","Trinidad and Tobago",15,19,780,"TTO",0,0
+"2707","Trinidad and Tobago",20,24,780,"TTO",1,0
+"2708","Trinidad and Tobago",25,29,780,"TTO",1,2
+"2709","Trinidad and Tobago",30,34,780,"TTO",3,0
+"2710","Trinidad and Tobago",35,39,780,"TTO",8,1
+"2711","Trinidad and Tobago",40,44,780,"TTO",15,2
+"2712","Trinidad and Tobago",45,49,780,"TTO",22,7
+"2713","Trinidad and Tobago",50,54,780,"TTO",28,13
+"2714","Trinidad and Tobago",55,59,780,"TTO",40,22
+"2715","Trinidad and Tobago",60,64,780,"TTO",53,26
+"2716","Trinidad and Tobago",65,69,780,"TTO",58,38
+"2717","Trinidad and Tobago",70,74,780,"TTO",58,40
+"2718","Trinidad and Tobago",75,79,780,"TTO",55,38
+"2719","Trinidad and Tobago",80,84,780,"TTO",41,30
+"2720","Trinidad and Tobago",85,999,780,"TTO",35,29
+"2721","Tunisia",0,14,788,"TUN",2,0
+"2722","Tunisia",15,19,788,"TUN",1,0
+"2723","Tunisia",20,24,788,"TUN",6,2
+"2724","Tunisia",25,29,788,"TUN",11,13
+"2725","Tunisia",30,34,788,"TUN",32,12
+"2726","Tunisia",35,39,788,"TUN",64,14
+"2727","Tunisia",40,44,788,"TUN",99,29
+"2728","Tunisia",45,49,788,"TUN",131,47
+"2729","Tunisia",50,54,788,"TUN",178,74
+"2730","Tunisia",55,59,788,"TUN",234,102
+"2731","Tunisia",60,64,788,"TUN",258,116
+"2732","Tunisia",65,69,788,"TUN",265,129
+"2733","Tunisia",70,74,788,"TUN",211,118
+"2734","Tunisia",75,79,788,"TUN",145,101
+"2735","Tunisia",80,84,788,"TUN",111,95
+"2736","Tunisia",85,999,788,"TUN",91,101
+"2737","Türkiye",0,14,792,"TUR",68,5
+"2738","Türkiye",15,19,792,"TUR",35,10
+"2739","Türkiye",20,24,792,"TUR",97,23
+"2740","Türkiye",25,29,792,"TUR",114,75
+"2741","Türkiye",30,34,792,"TUR",148,78
+"2742","Türkiye",35,39,792,"TUR",374,129
+"2743","Türkiye",40,44,792,"TUR",732,266
+"2744","Türkiye",45,49,792,"TUR",1196,454
+"2745","Türkiye",50,54,792,"TUR",1797,687
+"2746","Türkiye",55,59,792,"TUR",2481,993
+"2747","Türkiye",60,64,792,"TUR",2987,1303
+"2748","Türkiye",65,69,792,"TUR",3183,1571
+"2749","Türkiye",70,74,792,"TUR",2937,1632
+"2750","Türkiye",75,79,792,"TUR",2371,1607
+"2751","Türkiye",80,84,792,"TUR",1734,1435
+"2752","Türkiye",85,999,792,"TUR",1464,1430
+"2753","Turkmenistan",0,14,795,"TKM",1,0
+"2754","Turkmenistan",15,19,795,"TKM",2,0
+"2755","Turkmenistan",20,24,795,"TKM",3,2
+"2756","Turkmenistan",25,29,795,"TKM",4,3
+"2757","Turkmenistan",30,34,795,"TKM",9,7
+"2758","Turkmenistan",35,39,795,"TKM",13,9
+"2759","Turkmenistan",40,44,795,"TKM",20,11
+"2760","Turkmenistan",45,49,795,"TKM",25,13
+"2761","Turkmenistan",50,54,795,"TKM",34,19
+"2762","Turkmenistan",55,59,795,"TKM",45,24
+"2763","Turkmenistan",60,64,795,"TKM",50,28
+"2764","Turkmenistan",65,69,795,"TKM",47,28
+"2765","Turkmenistan",70,74,795,"TKM",30,21
+"2766","Turkmenistan",75,79,795,"TKM",16,14
+"2767","Turkmenistan",80,84,795,"TKM",13,11
+"2768","Turkmenistan",85,999,795,"TKM",11,11
+"2769","Uganda",0,14,800,"UGA",8,0
+"2770","Uganda",15,19,800,"UGA",0,0
+"2771","Uganda",20,24,800,"UGA",40,28
+"2772","Uganda",25,29,800,"UGA",43,28
+"2773","Uganda",30,34,800,"UGA",26,18
+"2774","Uganda",35,39,800,"UGA",71,37
+"2775","Uganda",40,44,800,"UGA",77,47
+"2776","Uganda",45,49,800,"UGA",108,75
+"2777","Uganda",50,54,800,"UGA",151,115
+"2778","Uganda",55,59,800,"UGA",203,143
+"2779","Uganda",60,64,800,"UGA",213,154
+"2780","Uganda",65,69,800,"UGA",189,142
+"2781","Uganda",70,74,800,"UGA",136,108
+"2782","Uganda",75,79,800,"UGA",79,69
+"2783","Uganda",80,84,800,"UGA",36,35
+"2784","Uganda",85,999,800,"UGA",14,14
+"2785","Ukraine",0,14,804,"UKR",2,0
+"2786","Ukraine",15,19,804,"UKR",4,2
+"2787","Ukraine",20,24,804,"UKR",8,4
+"2788","Ukraine",25,29,804,"UKR",24,9
+"2789","Ukraine",30,34,804,"UKR",38,30
+"2790","Ukraine",35,39,804,"UKR",92,71
+"2791","Ukraine",40,44,804,"UKR",328,85
+"2792","Ukraine",45,49,804,"UKR",684,269
+"2793","Ukraine",50,54,804,"UKR",1245,537
+"2794","Ukraine",55,59,804,"UKR",2234,987
+"2795","Ukraine",60,64,804,"UKR",3719,1741
+"2796","Ukraine",65,69,804,"UKR",4136,2114
+"2797","Ukraine",70,74,804,"UKR",3878,2214
+"2798","Ukraine",75,79,804,"UKR",1943,1224
+"2799","Ukraine",80,84,804,"UKR",1779,1277
+"2800","Ukraine",85,999,804,"UKR",773,699
+"2801","United Arab Emirates",0,14,784,"ARE",0,0
+"2802","United Arab Emirates",15,19,784,"ARE",1,0
+"2803","United Arab Emirates",20,24,784,"ARE",0,0
+"2804","United Arab Emirates",25,29,784,"ARE",9,2
+"2805","United Arab Emirates",30,34,784,"ARE",10,3
+"2806","United Arab Emirates",35,39,784,"ARE",14,4
+"2807","United Arab Emirates",40,44,784,"ARE",26,15
+"2808","United Arab Emirates",45,49,784,"ARE",25,8
+"2809","United Arab Emirates",50,54,784,"ARE",63,23
+"2810","United Arab Emirates",55,59,784,"ARE",107,43
+"2811","United Arab Emirates",60,64,784,"ARE",131,54
+"2812","United Arab Emirates",65,69,784,"ARE",78,33
+"2813","United Arab Emirates",70,74,784,"ARE",37,18
+"2814","United Arab Emirates",75,79,784,"ARE",29,16
+"2815","United Arab Emirates",80,84,784,"ARE",13,10
+"2816","United Arab Emirates",85,999,784,"ARE",7,7
+"2817","United Kingdom",0,14,826,"GBR",28,0
+"2818","United Kingdom",15,19,826,"GBR",29,0
+"2819","United Kingdom",20,24,826,"GBR",43,8
+"2820","United Kingdom",25,29,826,"GBR",84,43
+"2821","United Kingdom",30,34,826,"GBR",156,100
+"2822","United Kingdom",35,39,826,"GBR",304,143
+"2823","United Kingdom",40,44,826,"GBR",624,233
+"2824","United Kingdom",45,49,826,"GBR",1093,345
+"2825","United Kingdom",50,54,826,"GBR",2197,634
+"2826","United Kingdom",55,59,826,"GBR",3700,942
+"2827","United Kingdom",60,64,826,"GBR",5055,1257
+"2828","United Kingdom",65,69,826,"GBR",6116,1864
+"2829","United Kingdom",70,74,826,"GBR",7752,3211
+"2830","United Kingdom",75,79,826,"GBR",8199,4304
+"2831","United Kingdom",80,84,826,"GBR",6394,4078
+"2832","United Kingdom",85,999,826,"GBR",7655,5706
+"2833","United States of America",0,14,840,"USA",110,1
+"2834","United States of America",15,19,840,"USA",227,10
+"2835","United States of America",20,24,840,"USA",373,26
+"2836","United States of America",25,29,840,"USA",670,103
+"2837","United States of America",30,34,840,"USA",1695,257
+"2838","United States of America",35,39,840,"USA",3365,606
+"2839","United States of America",40,44,840,"USA",5890,1234
+"2840","United States of America",45,49,840,"USA",8812,1983
+"2841","United States of America",50,54,840,"USA",13586,3279
+"2842","United States of America",55,59,840,"USA",17925,4638
+"2843","United States of America",60,64,840,"USA",22106,6025
+"2844","United States of America",65,69,840,"USA",22784,6579
+"2845","United States of America",70,74,840,"USA",20695,6718
+"2846","United States of America",75,79,840,"USA",17022,7160
+"2847","United States of America",80,84,840,"USA",11832,6596
+"2848","United States of America",85,999,840,"USA",13094,9399
+"2849","Uruguay",0,14,858,"URY",3,0
+"2850","Uruguay",15,19,858,"URY",2,0
+"2851","Uruguay",20,24,858,"URY",4,0
+"2852","Uruguay",25,29,858,"URY",2,3
+"2853","Uruguay",30,34,858,"URY",7,1
+"2854","Uruguay",35,39,858,"URY",15,6
+"2855","Uruguay",40,44,858,"URY",32,12
+"2856","Uruguay",45,49,858,"URY",63,22
+"2857","Uruguay",50,54,858,"URY",100,35
+"2858","Uruguay",55,59,858,"URY",156,56
+"2859","Uruguay",60,64,858,"URY",229,94
+"2860","Uruguay",65,69,858,"URY",276,119
+"2861","Uruguay",70,74,858,"URY",302,154
+"2862","Uruguay",75,79,858,"URY",294,180
+"2863","Uruguay",80,84,858,"URY",252,179
+"2864","Uruguay",85,999,858,"URY",355,279
+"2865","Uzbekistan",0,14,860,"UZB",2,1
+"2866","Uzbekistan",15,19,860,"UZB",5,1
+"2867","Uzbekistan",20,24,860,"UZB",14,6
+"2868","Uzbekistan",25,29,860,"UZB",32,13
+"2869","Uzbekistan",30,34,860,"UZB",66,34
+"2870","Uzbekistan",35,39,860,"UZB",79,44
+"2871","Uzbekistan",40,44,860,"UZB",127,62
+"2872","Uzbekistan",45,49,860,"UZB",204,95
+"2873","Uzbekistan",50,54,860,"UZB",285,138
+"2874","Uzbekistan",55,59,860,"UZB",408,210
+"2875","Uzbekistan",60,64,860,"UZB",526,257
+"2876","Uzbekistan",65,69,860,"UZB",497,251
+"2877","Uzbekistan",70,74,860,"UZB",283,164
+"2878","Uzbekistan",75,79,860,"UZB",133,87
+"2879","Uzbekistan",80,84,860,"UZB",81,55
+"2880","Uzbekistan",85,999,860,"UZB",37,28
+"2881","Vanuatu",0,14,548,"VUT",0,0
+"2882","Vanuatu",15,19,548,"VUT",0,0
+"2883","Vanuatu",20,24,548,"VUT",0,0
+"2884","Vanuatu",25,29,548,"VUT",0,0
+"2885","Vanuatu",30,34,548,"VUT",0,0
+"2886","Vanuatu",35,39,548,"VUT",0,0
+"2887","Vanuatu",40,44,548,"VUT",1,1
+"2888","Vanuatu",45,49,548,"VUT",0,0
+"2889","Vanuatu",50,54,548,"VUT",3,3
+"2890","Vanuatu",55,59,548,"VUT",0,0
+"2891","Vanuatu",60,64,548,"VUT",3,3
+"2892","Vanuatu",65,69,548,"VUT",3,3
+"2893","Vanuatu",70,74,548,"VUT",2,2
+"2894","Vanuatu",75,79,548,"VUT",1,1
+"2895","Vanuatu",80,84,548,"VUT",0,0
+"2896","Vanuatu",85,999,548,"VUT",0,0
+"2897","Venezuela",0,14,862,"VEN",3,0
+"2898","Venezuela",15,19,862,"VEN",12,5
+"2899","Venezuela",20,24,862,"VEN",42,8
+"2900","Venezuela",25,29,862,"VEN",49,16
+"2901","Venezuela",30,34,862,"VEN",22,40
+"2902","Venezuela",35,39,862,"VEN",47,32
+"2903","Venezuela",40,44,862,"VEN",135,58
+"2904","Venezuela",45,49,862,"VEN",286,106
+"2905","Venezuela",50,54,862,"VEN",519,178
+"2906","Venezuela",55,59,862,"VEN",816,271
+"2907","Venezuela",60,64,862,"VEN",1047,351
+"2908","Venezuela",65,69,862,"VEN",1036,382
+"2909","Venezuela",70,74,862,"VEN",841,368
+"2910","Venezuela",75,79,862,"VEN",645,343
+"2911","Venezuela",80,84,862,"VEN",445,268
+"2912","Venezuela",85,999,862,"VEN",439,290
+"2913","Viet Nam",0,14,704,"VNM",18,1
+"2914","Viet Nam",15,19,704,"VNM",22,1
+"2915","Viet Nam",20,24,704,"VNM",37,6
+"2916","Viet Nam",25,29,704,"VNM",251,62
+"2917","Viet Nam",30,34,704,"VNM",156,59
+"2918","Viet Nam",35,39,704,"VNM",244,130
+"2919","Viet Nam",40,44,704,"VNM",567,192
+"2920","Viet Nam",45,49,704,"VNM",925,360
+"2921","Viet Nam",50,54,704,"VNM",1590,646
+"2922","Viet Nam",55,59,704,"VNM",2432,977
+"2923","Viet Nam",60,64,704,"VNM",3059,1275
+"2924","Viet Nam",65,69,704,"VNM",2862,1351
+"2925","Viet Nam",70,74,704,"VNM",1829,1058
+"2926","Viet Nam",75,79,704,"VNM",1098,758
+"2927","Viet Nam",80,84,704,"VNM",798,653
+"2928","Viet Nam",85,999,704,"VNM",947,925
+"2929","Yemen",0,14,887,"YEM",0,0
+"2930","Yemen",15,19,887,"YEM",0,0
+"2931","Yemen",20,24,887,"YEM",15,23
+"2932","Yemen",25,29,887,"YEM",61,13
+"2933","Yemen",30,34,887,"YEM",69,41
+"2934","Yemen",35,39,887,"YEM",112,66
+"2935","Yemen",40,44,887,"YEM",139,94
+"2936","Yemen",45,49,887,"YEM",175,114
+"2937","Yemen",50,54,887,"YEM",188,125
+"2938","Yemen",55,59,887,"YEM",202,135
+"2939","Yemen",60,64,887,"YEM",190,129
+"2940","Yemen",65,69,887,"YEM",149,108
+"2941","Yemen",70,74,887,"YEM",116,89
+"2942","Yemen",75,79,887,"YEM",83,64
+"2943","Yemen",80,84,887,"YEM",46,38
+"2944","Yemen",85,999,887,"YEM",27,23
+"2945","Zambia",0,14,894,"ZMB",1,0
+"2946","Zambia",15,19,894,"ZMB",1,0
+"2947","Zambia",20,24,894,"ZMB",10,3
+"2948","Zambia",25,29,894,"ZMB",20,12
+"2949","Zambia",30,34,894,"ZMB",21,13
+"2950","Zambia",35,39,894,"ZMB",28,17
+"2951","Zambia",40,44,894,"ZMB",40,24
+"2952","Zambia",45,49,894,"ZMB",58,40
+"2953","Zambia",50,54,894,"ZMB",60,41
+"2954","Zambia",55,59,894,"ZMB",52,33
+"2955","Zambia",60,64,894,"ZMB",49,32
+"2956","Zambia",65,69,894,"ZMB",53,35
+"2957","Zambia",70,74,894,"ZMB",28,24
+"2958","Zambia",75,79,894,"ZMB",19,18
+"2959","Zambia",80,84,894,"ZMB",11,11
+"2960","Zambia",85,999,894,"ZMB",4,4
+"2961","Zimbabwe",0,14,716,"ZWE",2,1
+"2962","Zimbabwe",15,19,716,"ZWE",3,2
+"2963","Zimbabwe",20,24,716,"ZWE",6,5
+"2964","Zimbabwe",25,29,716,"ZWE",21,12
+"2965","Zimbabwe",30,34,716,"ZWE",25,17
+"2966","Zimbabwe",35,39,716,"ZWE",28,17
+"2967","Zimbabwe",40,44,716,"ZWE",47,21
+"2968","Zimbabwe",45,49,716,"ZWE",59,24
+"2969","Zimbabwe",50,54,716,"ZWE",72,43
+"2970","Zimbabwe",55,59,716,"ZWE",91,58
+"2971","Zimbabwe",60,64,716,"ZWE",101,65
+"2972","Zimbabwe",65,69,716,"ZWE",105,74
+"2973","Zimbabwe",70,74,716,"ZWE",86,67
+"2974","Zimbabwe",75,79,716,"ZWE",65,57
+"2975","Zimbabwe",80,84,716,"ZWE",42,41
+"2976","Zimbabwe",85,999,716,"ZWE",20,20
