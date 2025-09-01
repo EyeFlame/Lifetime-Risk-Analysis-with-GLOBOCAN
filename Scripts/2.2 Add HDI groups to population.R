@@ -12,7 +12,7 @@ library(rio)
 
 #1. Input combined population data and HDI_2022----
 
-UN_population <- read.csv("Data/population data from UN/population_mortality_combined_85.csv")
+UN_population <- read.csv("Data/population data from UN/popu_mort_2022_female.csv")
 HDI <- import("Data/HDI index/HDI_2022.xlsx")
 
 
@@ -52,5 +52,5 @@ UN_population_extended <- bind_rows(UN_population, HDI_groups) |>
 print("HDI group entries (ISOcode 981-984):")
 print(UN_population_extended |> filter(ISOcode %in% 981:984))
 
-write.csv(UN_population_extended,"Data/population data from UN/popu_mort_2022_HDI.csv",row.names = FALSE)
+write.csv(UN_population_extended,"Data/population data from UN/popu_mort_2022_HDI_female.csv",row.names = FALSE)
 

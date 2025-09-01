@@ -12,11 +12,11 @@ library(dplyr)
 BASE_DIR <- "Data/population data from UN"
 
 # Input files
-POPULATION_FILE <- "unpopulation_regions_all.csv"
-MORTALITY_FILE <- "undeath_regions_all.csv"
+POPULATION_FILE <- "unpopulation_male.csv"
+MORTALITY_FILE <- "undeath_male.csv"
 
 # Output file
-OUTPUT_FILE <- "population_mortality_combined_2024.csv"
+OUTPUT_FILE <- "popu_mort_male.csv"
 
 #2. Automatic setup - No need to modify ----
 

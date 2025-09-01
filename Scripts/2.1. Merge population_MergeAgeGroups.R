@@ -12,7 +12,7 @@ library(dplyr)
 BASE_DIR <- "Data/population data from UN"
 
 # Input files
-popmort <- read.csv(file.path(BASE_DIR,"population_mortality_combined_2024.csv"))
+popmort <- read.csv(file.path(BASE_DIR,"popu_mort_female.csv"))
 
 #2. Collapse 85+ groups
 popmort <- popmort %>%
@@ -43,4 +43,4 @@ popmort_collapsed <- bind_rows(under85, over85) %>%
 
 head(popmort_collapsed)
 
-write.csv(popmort_collapsed,file.path(BASE_DIR,"population_mortality_combined_85.csv"),row.names = FALSE)
+write.csv(popmort_collapsed,file.path(BASE_DIR,"popu_mort_2022_female.csv"),row.names = FALSE)
